@@ -1,0 +1,17 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\oefening2 kleuren veranderen.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\oefening2 kleuren veranderen.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\oefening2 kleuren veranderen.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\oefening2 kleuren veranderen.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\oefening2 kleuren veranderen.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\oefening2 kleuren veranderen.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.csproj.CopyComplete
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\oefening2 kleuren veranderen.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.genruntimeconfig.cache

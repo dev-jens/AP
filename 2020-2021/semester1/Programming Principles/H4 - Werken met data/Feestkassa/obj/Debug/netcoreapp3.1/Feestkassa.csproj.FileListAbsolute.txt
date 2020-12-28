@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\bin\Debug\netcoreapp3.1\Flowchart.exe
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\bin\Debug\netcoreapp3.1\Flowchart.deps.json
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\bin\Debug\netcoreapp3.1\Flowchart.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\bin\Debug\netcoreapp3.1\Flowchart.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\bin\Debug\netcoreapp3.1\Flowchart.dll
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\bin\Debug\netcoreapp3.1\Flowchart.pdb
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\obj\Debug\netcoreapp3.1\Flowchart.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\obj\Debug\netcoreapp3.1\Flowchart.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\obj\Debug\netcoreapp3.1\Flowchart.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\obj\Debug\netcoreapp3.1\Flowchart.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\obj\Debug\netcoreapp3.1\Flowchart.dll
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\obj\Debug\netcoreapp3.1\Flowchart.pdb
+C:\Users\Eigenaar\Desktop\Baeten_Jens_test\Baeten_Jens_test\Flowchart\obj\Debug\netcoreapp3.1\Flowchart.genruntimeconfig.cache

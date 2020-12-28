@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\bin\Debug\netcoreapp3.1\Opgave1.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\bin\Debug\netcoreapp3.1\Opgave1.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\bin\Debug\netcoreapp3.1\Opgave1.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\bin\Debug\netcoreapp3.1\Opgave1.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\bin\Debug\netcoreapp3.1\Opgave1.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\bin\Debug\netcoreapp3.1\Opgave1.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\obj\Debug\netcoreapp3.1\Opgave1.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\obj\Debug\netcoreapp3.1\Opgave1.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\obj\Debug\netcoreapp3.1\Opgave1.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\obj\Debug\netcoreapp3.1\Opgave1.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\obj\Debug\netcoreapp3.1\Opgave1.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\obj\Debug\netcoreapp3.1\Opgave1.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H1-H5 Oefeningen\Opgave1\obj\Debug\netcoreapp3.1\Opgave1.genruntimeconfig.cache

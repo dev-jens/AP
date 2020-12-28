@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\bin\Debug\netcoreapp3.1\Blak.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\bin\Debug\netcoreapp3.1\Blak.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\bin\Debug\netcoreapp3.1\Blak.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\bin\Debug\netcoreapp3.1\Blak.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\bin\Debug\netcoreapp3.1\Blak.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\bin\Debug\netcoreapp3.1\Blak.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\obj\Debug\netcoreapp3.1\Blak.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\obj\Debug\netcoreapp3.1\Blak.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\obj\Debug\netcoreapp3.1\Blak.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\obj\Debug\netcoreapp3.1\Blak.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\obj\Debug\netcoreapp3.1\Blak.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\obj\Debug\netcoreapp3.1\Blak.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Blak\obj\Debug\netcoreapp3.1\Blak.genruntimeconfig.cache

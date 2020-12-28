@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\bin\Debug\netcoreapp3.1\BAsics.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\bin\Debug\netcoreapp3.1\BAsics.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\bin\Debug\netcoreapp3.1\BAsics.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\bin\Debug\netcoreapp3.1\BAsics.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\bin\Debug\netcoreapp3.1\BAsics.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\bin\Debug\netcoreapp3.1\BAsics.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\obj\Debug\netcoreapp3.1\BAsics.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\obj\Debug\netcoreapp3.1\BAsics.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\obj\Debug\netcoreapp3.1\BAsics.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\obj\Debug\netcoreapp3.1\BAsics.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\obj\Debug\netcoreapp3.1\BAsics.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\obj\Debug\netcoreapp3.1\BAsics.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Methodes\BAsics\obj\Debug\netcoreapp3.1\BAsics.genruntimeconfig.cache

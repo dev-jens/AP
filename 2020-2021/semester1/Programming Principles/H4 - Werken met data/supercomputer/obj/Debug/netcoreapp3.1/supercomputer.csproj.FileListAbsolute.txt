@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\obj\Debug\netcoreapp3.1\supercomputer.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\obj\Debug\netcoreapp3.1\supercomputer.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\obj\Debug\netcoreapp3.1\supercomputer.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\obj\Debug\netcoreapp3.1\supercomputer.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\bin\Debug\netcoreapp3.1\supercomputer.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\bin\Debug\netcoreapp3.1\supercomputer.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\bin\Debug\netcoreapp3.1\supercomputer.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\bin\Debug\netcoreapp3.1\supercomputer.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\bin\Debug\netcoreapp3.1\supercomputer.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\bin\Debug\netcoreapp3.1\supercomputer.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\obj\Debug\netcoreapp3.1\supercomputer.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\obj\Debug\netcoreapp3.1\supercomputer.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\supercomputer\obj\Debug\netcoreapp3.1\supercomputer.genruntimeconfig.cache

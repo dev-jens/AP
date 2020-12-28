@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.genruntimeconfig.cache

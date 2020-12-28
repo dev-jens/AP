@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.genruntimeconfig.cache

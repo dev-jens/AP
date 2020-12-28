@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>APIs</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css" />
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+		  <a class="navbar-brand" href="#">API</a>
+		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		  </button>
+		  <div class="collapse navbar-collapse" id="navbarCollapse">
+			<ul class="navbar-nav mr-auto">
+			  <li class="nav-item active">
+				<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">Link</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link disabled" href="#">Disabled</a>
+			  </li>
+			</ul>
+		  </div>
+		</nav>
+
+		<main role="main" class="container">
+		  <div class="jumbotron">
+			<h1>Using APIs</h1>
+			<p class="lead">This page will demonstrate how we can use APIs.</p>
+		  </div>
+		</main>
+		<div class="card">
+		  <div class="card-body">
+			<h5>Request</h5>
+			<form>
+			  <div class="form-group">
+				<label for="url">URL address</label>
+				<input id="url" name="url" type="url">
+			  </div>
+			  <button class="btn btn-primary" type="button" onclick="getData()">Request the data</button>
+			</form>
+		  </div>
+		</div>
+		<div class="card">
+		  <div class="card-body">
+			<h5>Response</h5>
+			<p id="response"></p>
+		  </div>
+		</div>
+		
+		<!-- Eerst jQuery inladen dan pas eigen script -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<!-- Laad scripts in volgens de nodige dependencies -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js"></script>
+		<!-- Eindigen doe je best met je eigen scripts -->
+		<script>
+			function getData() {
+				var sUrl = document.getElementById("url").value;
+				console.log(sUrl);
+            }
+
+            function getData() {
+                var url = $("#url").val();
+                $.get(url, function(data){
+                    console.log(data);
+                    $("#response").html(JSON.stringify(data));
+                });
+            }
+		</script>
+		
+	</body>
+</html>

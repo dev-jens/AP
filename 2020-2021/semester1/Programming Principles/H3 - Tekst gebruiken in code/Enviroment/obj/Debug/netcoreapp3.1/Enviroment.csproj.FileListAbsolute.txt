@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\bin\Debug\netcoreapp3.1\Enviroment.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\bin\Debug\netcoreapp3.1\Enviroment.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\bin\Debug\netcoreapp3.1\Enviroment.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\bin\Debug\netcoreapp3.1\Enviroment.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\bin\Debug\netcoreapp3.1\Enviroment.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\bin\Debug\netcoreapp3.1\Enviroment.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\obj\Debug\netcoreapp3.1\Enviroment.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\obj\Debug\netcoreapp3.1\Enviroment.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\obj\Debug\netcoreapp3.1\Enviroment.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\obj\Debug\netcoreapp3.1\Enviroment.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\obj\Debug\netcoreapp3.1\Enviroment.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\obj\Debug\netcoreapp3.1\Enviroment.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Enviroment\obj\Debug\netcoreapp3.1\Enviroment.genruntimeconfig.cache

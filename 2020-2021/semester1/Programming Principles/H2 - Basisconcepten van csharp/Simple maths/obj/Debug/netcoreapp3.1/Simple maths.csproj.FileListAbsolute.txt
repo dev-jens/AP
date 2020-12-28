@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.genruntimeconfig.cache

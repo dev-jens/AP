@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\bin\Debug\netcoreapp3.1\Euler project.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\bin\Debug\netcoreapp3.1\Euler project.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\bin\Debug\netcoreapp3.1\Euler project.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\bin\Debug\netcoreapp3.1\Euler project.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\bin\Debug\netcoreapp3.1\Euler project.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\bin\Debug\netcoreapp3.1\Euler project.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\obj\Debug\netcoreapp3.1\Euler project.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\obj\Debug\netcoreapp3.1\Euler project.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\obj\Debug\netcoreapp3.1\Euler project.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\obj\Debug\netcoreapp3.1\Euler project.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\obj\Debug\netcoreapp3.1\Euler project.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\obj\Debug\netcoreapp3.1\Euler project.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Euler project\obj\Debug\netcoreapp3.1\Euler project.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\bin\Debug\netcoreapp3.1\pong.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\bin\Debug\netcoreapp3.1\pong.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\bin\Debug\netcoreapp3.1\pong.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\bin\Debug\netcoreapp3.1\pong.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\bin\Debug\netcoreapp3.1\pong.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\bin\Debug\netcoreapp3.1\pong.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\obj\Debug\netcoreapp3.1\pong.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\obj\Debug\netcoreapp3.1\pong.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\obj\Debug\netcoreapp3.1\pong.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\obj\Debug\netcoreapp3.1\pong.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\obj\Debug\netcoreapp3.1\pong.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\obj\Debug\netcoreapp3.1\pong.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\pong\pong\obj\Debug\netcoreapp3.1\pong.genruntimeconfig.cache

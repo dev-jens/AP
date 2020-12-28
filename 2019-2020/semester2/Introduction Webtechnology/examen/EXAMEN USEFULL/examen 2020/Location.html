@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <link rel="shortcut icon" type="image/x-icon" href="icon.ico" />
+    <title>Rick and Morty </title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        body {
+            padding-top: 4.5rem;
+        }
+
+        .card {
+            display: inline-block;
+        }
+
+        .img {
+            height: 40px;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <img src="navbarPic.png" class="img" alt="">
+        <a class="navbar-brand" href="#">Rick & Morty API</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="Characters.html">Characters</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="Locations.html">Locations</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="Episodes.html">Episodes</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <main role="main" class="container">
+        <!-- Jumbotron -->
+        <div class="jumbotron">
+            <h1>Locations</h1>
+            <p class="lead">Type the name of your location, and you'll get some information about it</p>
+            <form>
+                <div class="form-group">
+                  <label for="locationInput">Location name </label>
+                  <input type="text" class="form-control" placeholder="ex: 1 or Earth (C-137)" id="locationInput">
+                </div>
+            </form>
+            <button class="btn btn-primary" onclick="getLocation()">Search</button>
+        </div>
+
+        <div id="locationJumbotron">
+        </div>
+    </main>
+
+    <!-- Dependicy scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="./Wubba.js"></script>
+
+    <!-- Own script -->
+    <script src="./script.js">
+
+    </script>
+</body>
+
+</html>

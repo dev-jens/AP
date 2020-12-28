@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Passwoord Gen/1.0.0": {
+        "runtime": {
+          "Passwoord Gen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passwoord Gen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

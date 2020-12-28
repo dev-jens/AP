@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\bin\Debug\netcoreapp3.1\Oefening1 - rommel zin.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\obj\Debug\netcoreapp3.1\Oefening1 - rommel zin.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\obj\Debug\netcoreapp3.1\Oefening1 - rommel zin.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\obj\Debug\netcoreapp3.1\Oefening1 - rommel zin.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\obj\Debug\netcoreapp3.1\Oefening1 - rommel zin.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\obj\Debug\netcoreapp3.1\Oefening1 - rommel zin.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\obj\Debug\netcoreapp3.1\Oefening1 - rommel zin.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Oefening1 - rommel zin\obj\Debug\netcoreapp3.1\Oefening1 - rommel zin.genruntimeconfig.cache

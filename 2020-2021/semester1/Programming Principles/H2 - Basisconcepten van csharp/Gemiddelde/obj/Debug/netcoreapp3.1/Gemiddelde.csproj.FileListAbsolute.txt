@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.genruntimeconfig.cache

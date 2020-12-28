@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\bin\Debug\netcoreapp3.1\Array oefening.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\bin\Debug\netcoreapp3.1\Array oefening.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\bin\Debug\netcoreapp3.1\Array oefening.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\bin\Debug\netcoreapp3.1\Array oefening.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\bin\Debug\netcoreapp3.1\Array oefening.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\bin\Debug\netcoreapp3.1\Array oefening.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\obj\Debug\netcoreapp3.1\Array oefening.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\obj\Debug\netcoreapp3.1\Array oefening.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\obj\Debug\netcoreapp3.1\Array oefening.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\obj\Debug\netcoreapp3.1\Array oefening.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\obj\Debug\netcoreapp3.1\Array oefening.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\obj\Debug\netcoreapp3.1\Array oefening.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Array oefening\obj\Debug\netcoreapp3.1\Array oefening.genruntimeconfig.cache

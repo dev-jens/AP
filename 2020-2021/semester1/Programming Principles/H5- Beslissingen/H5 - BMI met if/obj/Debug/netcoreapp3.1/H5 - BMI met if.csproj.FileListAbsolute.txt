@@ -1,0 +1,17 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\bin\Debug\netcoreapp3.1\H5 - BMI met if.exe
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\bin\Debug\netcoreapp3.1\H5 - BMI met if.deps.json
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\bin\Debug\netcoreapp3.1\H5 - BMI met if.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\bin\Debug\netcoreapp3.1\H5 - BMI met if.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\bin\Debug\netcoreapp3.1\H5 - BMI met if.dll
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\bin\Debug\netcoreapp3.1\H5 - BMI met if.pdb
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.dll
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.pdb
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\H5 - BMI met if\obj\Debug\netcoreapp3.1\H5 - BMI met if.genruntimeconfig.cache

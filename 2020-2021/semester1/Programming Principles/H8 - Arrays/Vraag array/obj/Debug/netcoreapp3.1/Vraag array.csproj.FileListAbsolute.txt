@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\bin\Debug\netcoreapp3.1\Vraag array.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\bin\Debug\netcoreapp3.1\Vraag array.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\bin\Debug\netcoreapp3.1\Vraag array.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\bin\Debug\netcoreapp3.1\Vraag array.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\bin\Debug\netcoreapp3.1\Vraag array.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\bin\Debug\netcoreapp3.1\Vraag array.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\obj\Debug\netcoreapp3.1\Vraag array.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\obj\Debug\netcoreapp3.1\Vraag array.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\obj\Debug\netcoreapp3.1\Vraag array.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\obj\Debug\netcoreapp3.1\Vraag array.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\obj\Debug\netcoreapp3.1\Vraag array.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\obj\Debug\netcoreapp3.1\Vraag array.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Vraag array\obj\Debug\netcoreapp3.1\Vraag array.genruntimeconfig.cache

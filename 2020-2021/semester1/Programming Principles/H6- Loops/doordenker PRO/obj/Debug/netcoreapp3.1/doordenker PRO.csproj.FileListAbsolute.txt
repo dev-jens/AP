@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\bin\Debug\netcoreapp3.1\doordenker PRO.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\bin\Debug\netcoreapp3.1\doordenker PRO.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\bin\Debug\netcoreapp3.1\doordenker PRO.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\bin\Debug\netcoreapp3.1\doordenker PRO.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\bin\Debug\netcoreapp3.1\doordenker PRO.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\bin\Debug\netcoreapp3.1\doordenker PRO.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\obj\Debug\netcoreapp3.1\doordenker PRO.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\obj\Debug\netcoreapp3.1\doordenker PRO.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\obj\Debug\netcoreapp3.1\doordenker PRO.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\obj\Debug\netcoreapp3.1\doordenker PRO.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\obj\Debug\netcoreapp3.1\doordenker PRO.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\obj\Debug\netcoreapp3.1\doordenker PRO.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\doordenker PRO\obj\Debug\netcoreapp3.1\doordenker PRO.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\bin\Debug\netcoreapp3.1\Schoenverkopen.exe
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\bin\Debug\netcoreapp3.1\Schoenverkopen.deps.json
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\bin\Debug\netcoreapp3.1\Schoenverkopen.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\bin\Debug\netcoreapp3.1\Schoenverkopen.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\bin\Debug\netcoreapp3.1\Schoenverkopen.dll
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\bin\Debug\netcoreapp3.1\Schoenverkopen.pdb
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\obj\Debug\netcoreapp3.1\Schoenverkopen.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\obj\Debug\netcoreapp3.1\Schoenverkopen.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\obj\Debug\netcoreapp3.1\Schoenverkopen.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\obj\Debug\netcoreapp3.1\Schoenverkopen.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\obj\Debug\netcoreapp3.1\Schoenverkopen.dll
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\obj\Debug\netcoreapp3.1\Schoenverkopen.pdb
+C:\Users\Eigenaar\Desktop\APGITHUB\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schoenverkopen\obj\Debug\netcoreapp3.1\Schoenverkopen.genruntimeconfig.cache

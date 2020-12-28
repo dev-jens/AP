@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\bin\Debug\netcoreapp3.1\kill death ratio.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\bin\Debug\netcoreapp3.1\kill death ratio.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\bin\Debug\netcoreapp3.1\kill death ratio.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\bin\Debug\netcoreapp3.1\kill death ratio.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\bin\Debug\netcoreapp3.1\kill death ratio.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\bin\Debug\netcoreapp3.1\kill death ratio.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\obj\Debug\netcoreapp3.1\kill death ratio.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\obj\Debug\netcoreapp3.1\kill death ratio.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\obj\Debug\netcoreapp3.1\kill death ratio.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\obj\Debug\netcoreapp3.1\kill death ratio.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\obj\Debug\netcoreapp3.1\kill death ratio.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\kill death ratio\obj\Debug\netcoreapp3.1\kill death ratio.genruntimeconfig.cache

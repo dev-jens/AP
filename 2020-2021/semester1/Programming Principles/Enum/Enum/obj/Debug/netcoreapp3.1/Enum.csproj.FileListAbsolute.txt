@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
