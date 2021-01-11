@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj",
         "projectName": "opwarmers",
-        "projectPath": "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\opwarmers.csproj",
         "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\obj\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\opwarmers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

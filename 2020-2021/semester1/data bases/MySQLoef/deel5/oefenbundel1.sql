@@ -1,0 +1,79 @@
+--1
+SELECT
+    BETALINGSNR,
+    BEDRAG
+FROM 
+    `BOETES` 
+WHERE
+    `BEDRAG` > 60;
+--2
+SELECT
+    SPELERSNR,
+    GEWONNEN,
+    VERLOREN,
+    VERLOREN + GEWONNEN AS AANTAL_SETS
+FROM
+    SPELERS
+WHERE
+    GEWONNEN + VERLOREN = 5;
+
+--3 
+SELECT
+    NAAM,
+    PLAATS
+FROM    
+    SPELERS
+WHERE
+ `PLAATS` = 'Den Haag' OR
+ `PLAATS` = 'Rijswijk';
+
+ --4
+SELECT
+    NAAM,
+    GESLACHT,
+    PLAATS
+FROM
+    SPELERS
+WHERE
+    GESLACHT = 'V'
+    AND PLAATS = 'Zoetermeer';
+
+--5
+SELECT
+    *
+FROM
+    SPELERS
+WHERE
+    (SPELERSNR = 44 AND  YEAR(DATUM) = 1980)OR 
+    MONTH(DATUM) <> 12;
+
+--6
+SELECT
+    NAAM,
+    SPELERSNR,
+    PLAATS,
+    STRAAT
+FROM
+    SPELERS
+WHERE
+    STRAAT = 'S%' AND PLAATS <> 'Den Haag'
+
+--7
+SELECT
+    SPELERSNR,
+    NAAM,
+    JAARTOE 
+FROM 
+    SPELERS 
+WHERE 
+    JAARTOE >= 1982;
+
+--8 
+SELECT
+    SPELERSNR,
+    NAAM,
+    PLAATS
+FROM
+    SPELERS
+WHERE
+    GESLACHT = 'V' AND PLAATS <> 'Den Haag'

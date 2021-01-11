@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H6- Loops\\wiskunde Quiz met levels\\wiskunde Quiz met levels.csproj",
+      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H6- Loops\\wiskunde Quiz met levels\\wiskunde Quiz met levels.csproj",
       "projectName": "wiskunde Quiz met levels",
-      "projectPath": "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H6- Loops\\wiskunde Quiz met levels\\wiskunde Quiz met levels.csproj",
+      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H6- Loops\\wiskunde Quiz met levels\\wiskunde Quiz met levels.csproj",
       "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baete\\OneDrive\\Bureaublad\\AP\\2020-2021\\semester1\\Programming Principles\\H6- Loops\\wiskunde Quiz met levels\\obj\\",
+      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H6- Loops\\wiskunde Quiz met levels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

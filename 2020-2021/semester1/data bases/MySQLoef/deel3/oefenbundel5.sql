@@ -1,0 +1,7 @@
+--1
+--2
+DELETE FROM `BESTUURSLEDEN`;
+--3
+DELETE FROM `BOETES` 
+WHERE
+    `Spelernr` = 7;

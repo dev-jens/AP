@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\bin\Debug\netcoreapp3.1\oefeningen voor Examen.exe
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\bin\Debug\netcoreapp3.1\oefeningen voor Examen.deps.json
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\bin\Debug\netcoreapp3.1\oefeningen voor Examen.runtimeconfig.json
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\bin\Debug\netcoreapp3.1\oefeningen voor Examen.runtimeconfig.dev.json
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\bin\Debug\netcoreapp3.1\oefeningen voor Examen.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\bin\Debug\netcoreapp3.1\oefeningen voor Examen.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\obj\Debug\netcoreapp3.1\oefeningen voor Examen.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\obj\Debug\netcoreapp3.1\oefeningen voor Examen.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\obj\Debug\netcoreapp3.1\oefeningen voor Examen.AssemblyInfo.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\obj\Debug\netcoreapp3.1\oefeningen voor Examen.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\obj\Debug\netcoreapp3.1\oefeningen voor Examen.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\obj\Debug\netcoreapp3.1\oefeningen voor Examen.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\oefeningen voor Examen\obj\Debug\netcoreapp3.1\oefeningen voor Examen.genruntimeconfig.cache
