@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj": {}
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj",
         "projectName": "oefeningen voor Examen",
-        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj",
-        "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\oefeningen voor Examen.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\oefeningen voor Examen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\baete\\.nuget\\packages\\": {}
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\Cooldown\\Cooldown.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\Cooldown\\Cooldown.csproj",
       "projectName": "Cooldown",
-      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\Cooldown\\Cooldown.csproj",
-      "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\Cooldown\\obj\\",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\Cooldown\\Cooldown.csproj",
+      "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\oefeningen voor Examen\\Cooldown\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

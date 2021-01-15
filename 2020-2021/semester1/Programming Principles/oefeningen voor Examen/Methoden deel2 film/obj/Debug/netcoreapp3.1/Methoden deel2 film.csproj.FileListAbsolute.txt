@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\bin\Debug\netcoreapp3.1\Methoden deel2 film.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\bin\Debug\netcoreapp3.1\Methoden deel2 film.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\bin\Debug\netcoreapp3.1\Methoden deel2 film.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\bin\Debug\netcoreapp3.1\Methoden deel2 film.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\bin\Debug\netcoreapp3.1\Methoden deel2 film.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\bin\Debug\netcoreapp3.1\Methoden deel2 film.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\obj\Debug\netcoreapp3.1\Methoden deel2 film.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\obj\Debug\netcoreapp3.1\Methoden deel2 film.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\obj\Debug\netcoreapp3.1\Methoden deel2 film.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\obj\Debug\netcoreapp3.1\Methoden deel2 film.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\obj\Debug\netcoreapp3.1\Methoden deel2 film.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\oefeningen voor Examen\Methoden deel2 film\obj\Debug\netcoreapp3.1\Methoden deel2 film.genruntimeconfig.cache
