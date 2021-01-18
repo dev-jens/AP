@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj": {}
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj",
         "projectName": "Array oefening",
-        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj",
-        "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\Array oefening.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array oefening\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

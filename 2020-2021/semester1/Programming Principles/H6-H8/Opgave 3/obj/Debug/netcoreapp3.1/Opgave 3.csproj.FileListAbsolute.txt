@@ -1,0 +1,4 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\Opgave 3\obj\Debug\netcoreapp3.1\Opgave 3.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\Opgave 3\obj\Debug\netcoreapp3.1\Opgave 3.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\Opgave 3\obj\Debug\netcoreapp3.1\Opgave 3.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\Opgave 3\obj\Debug\netcoreapp3.1\Opgave 3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\bin\Debug\netcoreapp3.1\opgave4.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\bin\Debug\netcoreapp3.1\opgave4.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\bin\Debug\netcoreapp3.1\opgave4.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\bin\Debug\netcoreapp3.1\opgave4.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\bin\Debug\netcoreapp3.1\opgave4.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\bin\Debug\netcoreapp3.1\opgave4.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\obj\Debug\netcoreapp3.1\opgave4.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\obj\Debug\netcoreapp3.1\opgave4.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\obj\Debug\netcoreapp3.1\opgave4.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\obj\Debug\netcoreapp3.1\opgave4.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\obj\Debug\netcoreapp3.1\opgave4.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\obj\Debug\netcoreapp3.1\opgave4.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H6-H8\opgave4\obj\Debug\netcoreapp3.1\opgave4.genruntimeconfig.cache
