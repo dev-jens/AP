@@ -6,46 +6,38 @@ namespace Array_zoeker
     {
         static void Main(string[] args)
         {
-            // int[] lijst = {2,3,4,5,6,8,10,15,16,19};
-            int[] lijst = leesGetallen(10);
-            
+            int[] lijst = { 2, 3, 4, 5, 6, 8, 10, 15, 16, 19 };
+
+            Console.WriteLine("welke getal moet er uit ?");
+            int del = int.Parse(Console.ReadLine());
+            int index = -1; // Array.IndexOf(lijst, del);
+            bool found = false;
+
             for (int i = 0; i < lijst.Length; i++)
             {
-                Console.Write($"{lijst[i]} ");
+                if (!found && lijst[i] == del)
+                {
+                    index = i;
+                    found = true;
+                }
             }
-            Console.Write("\n");
 
-            Console.WriteLine("welk getal moet verwijdert worden");
-            int input = int.Parse(Console.ReadLine());
-            int index = Array.IndexOf(lijst, input);
-
-            for (int i = 0; i < index; i++)
+            if (found)
             {
-                Console.Write($"{lijst[i]} "); 
-            }
-            for (int i = index + 1; i < lijst.Length; i++)
-            {
-                Console.Write($"{lijst[i]} "); 
-            }
+                for (int i = 0; i < index; i++)
+                {
+                    Console.Write($"{lijst[i]} ");
+                }
+                for (int i = index +1 ; i < lijst.Length; i++)
+                {
+                    Console.Write($"{lijst[i]} ");
+                }
 
-            if (index != -1)
-            {
-                Console.Write($"{-1}");
+                if (index != -1)
+                {
+                    Console.Write($" {-1}");
+                }
             }
-           
-
-        }
-        static int[] leesGetallen(int max)
-        {
-            int[] lijst = new int[max];
-
-            for (int i = 0; i < max; i++)
-            {
-                Console.Write("Geef een nummer: ");
-                lijst[i] = int.Parse(Console.ReadLine());
-            }
-
-            return lijst;
-        }
+        }      
     }
 }

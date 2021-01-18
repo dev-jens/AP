@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj": {}
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj",
         "projectName": "Array zoeker",
-        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj",
-        "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\obj\\",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\Array zoeker.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\H8 - Arrays\\Array zoeker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

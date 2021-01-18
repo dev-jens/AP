@@ -4,30 +4,32 @@ namespace Vraag_array
 {
     class Program
     {
+        static void PrintArray(int[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write($"{arr[i]} ");
+            }
+        }
+       
+
         static void Main(string[] args)
         {
-            string[] vragenLijst = {
-                "Hoeveel letters heeft je naam?", 
-                "Hoe oud ben je?",
-                "Wat is je postcode?",
-                "Wat is je geboorte jaar?",
-                "hoeveel uur heb je vandaag geprogrameerd?",
-            };
+            string[] vragen = { "age", "year", "5+1", "postcode" };
+            int[] antwoorden = new int[vragen.Length];
 
-            int[] antwoordenVragenLijst = new int[vragenLijst.Length];
+            for (int i = 0; i < vragen.Length; i++)
+            {
+                Console.Write(vragen[i]);
+                antwoorden[i] = int.Parse(Console.ReadLine());
+            }
 
-            for (int i = 0; i < vragenLijst.Length; i++)
+            for (int i = 0; i < vragen.Length; i++)
             {
-                Console.WriteLine(vragenLijst[i]);
-                antwoordenVragenLijst[i] = int.Parse(Console.ReadLine());
+                Console.WriteLine($"{vragen[i]} : {antwoorden[i]}");
             }
-            Console.WriteLine("");
-            Console.WriteLine("antwoorden");
-            for (int i = 0; i <vragenLijst.Length; i++)
-            {
-                Console.WriteLine($"{vragenLijst[i]}: {antwoordenVragenLijst[i]}");
-            }
-            
+
+
         }
     }
 }
