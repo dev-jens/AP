@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj",
         "projectName": "Baeten_jens_examen_Januarie",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj",
-        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\obj\\",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\Baeten_jens_examen_Januarie.csproj",
+        "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester1\\Programming Principles\\Examens\\Baeten_jens_examen_Januari\\Baeten_jens_examen_Januarie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -119,7 +119,6 @@ namespace Baeten_jens_examen_Januarie
             {
                 isVerdacht = true;
             }
-
             return isVerdacht;
         }
     }
