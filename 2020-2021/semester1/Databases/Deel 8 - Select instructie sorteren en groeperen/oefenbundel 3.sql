@@ -1,0 +1,10 @@
+SELECT
+	*
+FROM 
+	`BOETES`
+ORDER BY
+	`BEDRAG` DESC
+LIMIT 3;
+
+
+

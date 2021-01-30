@@ -1,0 +1,9 @@
+use tennis3;
+
+UPDATE `BOETES` SET 
+`BEDRAG` = `BEDRAG` * 1.05;
+
+UPDATE `BOETES` SET 
+`BEDRAG` = `BEDRAG` * 1.05
+WHERE 
+	YEAR(`datum`) = 2020;
