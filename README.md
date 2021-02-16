@@ -6,14 +6,11 @@ https://ects.ap.be/opleidingen/2020-21/PBA-EA/4009/¨ </br>
 - [systeembeheer]()
 
 # Vakken 2019-2020 Semester 2
-International Business & ICT Communication<br/>
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=136992&b=5&c=1<br/>
-Informatiemanagement<br/>
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137033&b=5&c=1<br/>
-Web technology<br/>
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138340&b=5&c=1<br/>
-Data networks<br/>
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137004&b=5&c=1<br/>
+-[International Business & ICT Communication](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=136992&b=5&c=1)
+-[Informatiemanagement]( https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137033&b=5&c=1)
+-[Web technology](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138340&b=5&c=1)
+-[Data networks](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137004&b=5&c=1)
+  
 
 # Vakken 2020-2021 Semester 1
 Programming principles<br/>
