@@ -30,13 +30,13 @@ IOT Expiriments<br/>
 Intro SAP <br/>
   https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137009&b=5&c=1 <br/>
 # Vakken 2020-2021 Semester 2
-Web programming
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138325&b=5&c=1
-Object oriented programming
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138331&b=5&c=1
-Requirement analysis  
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138330&b=5&c=1
-Data structures
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1
+Web programming<br/>
+  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138325&b=5&c=1<br/>
+Object oriented programming<br/>
+  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138331&b=5&c=1<br/>
+Requirement analysis <br/>
+  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138330&b=5&c=1<br/>
+Data structures<br/>
+  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1<br/>
 
   
