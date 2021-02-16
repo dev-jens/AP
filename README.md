@@ -1,12 +1,9 @@
 # AP
 https://ects.ap.be/opleidingen/2020-21/PBA-EA/4009/¨ </br>
 # Vakken 2019-2020 Semester 1
-Intro ERP<br/>
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138638&b=5&c=1<br/>
-Business processes<br/>
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137004&b=5&c=1<br/>
-systeembeheer<br/>
-
+- [Intro ERP](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138638&b=5&c=1)
+- [Business processes](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137004&b=5&c=1)
+- [systeembeheer]()
 
 # Vakken 2019-2020 Semester 2
 International Business & ICT Communication<br/>
@@ -36,7 +33,7 @@ Object oriented programming<br/>
   https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138331&b=5&c=1<br/>
 Requirement analysis <br/>
   https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138330&b=5&c=1<br/>
-<a href="https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1" target="_blank" rel="noopener noreferrer">Data structures</a>   <br/>
-- [Module 1](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1)
+  <br/>
+- [Module 1]()
 
 
