@@ -1,5 +1,5 @@
 # AP
-https://ects.ap.be/opleidingen/2020-21/PBA-EA/4009/¨ 
+Links naar De inhoud van deze Opleidings Onderdelen
 
 # Vakken 2019-2020 Semester 1
 - [Intro ERP](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138638&b=5&c=1)
