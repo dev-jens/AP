@@ -36,7 +36,6 @@ Object oriented programming<br/>
   https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138331&b=5&c=1<br/>
 Requirement analysis <br/>
   https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138330&b=5&c=1<br/>
-Data structures<br/>
-  https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1<br/>
+<a href="https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1" target="_blank" rel="noopener noreferrer">Data structures</a>   <br/>
 
-   <a href="https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1" target="_blank" rel="noopener noreferrer">Data</a>
+
