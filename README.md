@@ -39,4 +39,4 @@ Requirement analysis <br/>
 Data structures<br/>
   https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1<br/>
 
-  
+   <a href="https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1" target="_blank" rel="noopener noreferrer">Data</a>
