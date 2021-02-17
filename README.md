@@ -1,12 +1,12 @@
 # AP
 Links naar De inhoud van deze Opleidings Onderdelen
 
- # Vakken 2019-2020 Semester 1 ### 19-2020/semester1/Introduction bedrijfsbeleid/
+ # Vakken 2019-2020 Semester 1 ### 
 - [Intro ERP](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138638&b=5&c=1)
 - [Business processes](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137004&b=5&c=1)
 - [systeembeheer]()
 
-# Vakken 2019-2020 Semester 2
+#(19-2020/semester1/Introduction bedrijfsbeleid/) Vakken 2019-2020 Semester 2
 - [International Business & ICT Communication](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=136992&b=5&c=1)
 - [Informatiemanagement]( https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=137033&b=5&c=1)
 - [Web technology](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138340&b=5&c=1)
