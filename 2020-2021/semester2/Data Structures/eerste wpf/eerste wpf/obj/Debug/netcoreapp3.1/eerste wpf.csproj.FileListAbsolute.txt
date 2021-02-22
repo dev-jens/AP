@@ -1,0 +1,19 @@
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\bin\Debug\netcoreapp3.1\eerste wpf.exe
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\bin\Debug\netcoreapp3.1\eerste wpf.deps.json
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\bin\Debug\netcoreapp3.1\eerste wpf.runtimeconfig.json
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\bin\Debug\netcoreapp3.1\eerste wpf.runtimeconfig.dev.json
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\bin\Debug\netcoreapp3.1\eerste wpf.dll
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\bin\Debug\netcoreapp3.1\eerste wpf.pdb
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf_MarkupCompile.cache
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf_MarkupCompile.lref
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.g.resources
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.AssemblyInfo.cs
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.dll
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.pdb
+C:\Users\baete\Desktop\eerste wpf\eerste wpf\obj\Debug\netcoreapp3.1\eerste wpf.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+﻿<Window x:Class="eerste_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:eerste_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="White">
+    <Grid RenderTransformOrigin="0.491,0.507">
+        <Button Content="&#xD;&#xA;SOM &#xD;&#xA;" HorizontalAlignment="Left" Margin="141,347,0,0" VerticalAlignment="Top" Height="49" Width="170" Background="#FF00B9FF" BorderBrush="Black" Click="Button_Click"/>
+        <Button Content="Verschil" HorizontalAlignment="Left" Margin="483,347,0,0" VerticalAlignment="Top" Height="49" Width="212"/>
+        <TextBox x:Name="getal1" HorizontalAlignment="Left" Margin="388,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="27"/>
+        <TextBox x:Name="getal2" HorizontalAlignment="Left" Margin="153,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" Height="27"/>
+        <TextBox x:Name="textbox" HorizontalAlignment="Center" Margin="0,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" Height="107"/>
+
+    </Grid>
+</Window>
