@@ -33,11 +33,11 @@ namespace Armstrong
 
             if (IsArmstrong)
             {
-                outputField.Text = "is een armstrong";
+                outputField.Text = $"{input} is een armstrong";
             }
             else
             {
-                outputField.Text = "is geen armstrong";
+                outputField.Text = $"{input} is geen armstrong";
             }
 
         }

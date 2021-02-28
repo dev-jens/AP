@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Eigenaar\\.nuget\\packages\\": {}
+    "C:\\Users\\baete\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo1\\Armstrong\\Armstrong.csproj",
+      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo1\\Armstrong\\Armstrong.csproj",
       "projectName": "Armstrong",
-      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo1\\Armstrong\\Armstrong.csproj",
-      "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo1\\Armstrong\\obj\\",
+      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo1\\Armstrong\\Armstrong.csproj",
+      "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo1\\Armstrong\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
