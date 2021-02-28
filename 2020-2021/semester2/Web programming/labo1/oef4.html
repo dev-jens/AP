@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sterretjes Piramid</title>
+</head>
+<body>
+    <script>
+
+
+    let input  = prompt("geef een geetal tussen 1 en 10");
+
+    if (input > 0 && input <= 100) 
+    {
+        for (let i = 1; i <= input; i++) {
+           for (let j = 1; j <= i; j++) {
+               document.write("*");
+           }
+           document.write("<br>");
+        }
+    }
+    else
+    {
+        document.write("<h1> EEN GETAL TUSSEN 1 EN 10 DOWN</h1>")    
+    }
+
+
+
+
+    </script>
+</body>
+</html>
