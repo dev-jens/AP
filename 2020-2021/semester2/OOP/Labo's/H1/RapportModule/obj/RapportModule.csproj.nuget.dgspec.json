@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\RapportModule\\RapportModule.csproj": {}
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\RapportModule\\RapportModule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\RapportModule\\RapportModule.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\RapportModule\\RapportModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\RapportModule\\RapportModule.csproj",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\RapportModule\\RapportModule.csproj",
         "projectName": "RapportModule",
-        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\RapportModule\\RapportModule.csproj",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\RapportModule\\RapportModule.csproj",
         "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\RapportModule\\obj\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\RapportModule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",

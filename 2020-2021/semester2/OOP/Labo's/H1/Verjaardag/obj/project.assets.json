@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\Verjaardag\\Verjaardag.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\Verjaardag\\Verjaardag.csproj",
       "projectName": "Verjaardag",
-      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\Verjaardag\\Verjaardag.csproj",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\Verjaardag\\Verjaardag.csproj",
       "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\Verjaardag\\obj\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\Verjaardag\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\StudentKlasse\\StudentKlasse.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\StudentKlasse\\StudentKlasse.csproj",
       "projectName": "StudentKlasse",
-      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\StudentKlasse\\StudentKlasse.csproj",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\StudentKlasse\\StudentKlasse.csproj",
       "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\Object Oriented Programming\\Labos\\H1\\StudentKlasse\\obj\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\OOP\\Labo's\\H1\\StudentKlasse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
