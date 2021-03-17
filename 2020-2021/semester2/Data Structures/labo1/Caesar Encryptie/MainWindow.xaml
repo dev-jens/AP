@@ -7,11 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="Encrypt_btn_" Content="Encrypt" HorizontalAlignment="Left" Height="39" Margin="400,141,0,0" VerticalAlignment="Top" Width="139"/>
-        <Button Content="Decrypt" HorizontalAlignment="Left" Margin="400,217,0,0" VerticalAlignment="Top" Height="42" Width="139"/>
-        <TextBox HorizontalAlignment="Left" Height="39" Margin="53,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123"/>
-        <TextBox HorizontalAlignment="Left" Margin="53,142,0,0" Text="key" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="39" Margin="209,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <Button x:Name="Encrypt_btn_" Content="Encrypt" HorizontalAlignment="Left" Height="39" Margin="400,141,0,0" VerticalAlignment="Top" Width="139" Click="Encrypt_btn__Click"/>
+        <Button x:Name="Decrypt_btn" Content="Decrypt" HorizontalAlignment="Left" Margin="400,217,0,0" VerticalAlignment="Top" Height="42" Width="139" Click="Decrypt_btn_Click"/>
+        <TextBox x:Name="inputField" HorizontalAlignment="Left" Height="39" Margin="53,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123"/>
+        <TextBox x:Name="keyField" HorizontalAlignment="Left" Height="40" Margin="227,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" />
+        <TextBlock x:Name="outputfield" HorizontalAlignment="Left" Margin="603,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="138"><Run Language="nl-be"/></TextBlock>
+        <Button x:Name="copyOutput" Content="copy output" HorizontalAlignment="Left" Height="41" Margin="400,291,0,0" VerticalAlignment="Top" Width="139" Click="copyOutput_Click"/>
 
     </Grid>
 </Window>

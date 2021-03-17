@@ -1,0 +1,15 @@
+﻿<Window x:Class="LeeftijdsBerekening.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeeftijdsBerekening"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DatePicker x:Name="kalender" HorizontalAlignment="Left" Margin="434,109,0,0" VerticalAlignment="Top" Height="28" Width="123"/>
+        <TextBox x:Name="InputField" HorizontalAlignment="Left" Height="29" Margin="96,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191"/>
+        <TextBox x:Name="outputField" HorizontalAlignment="Left" Height="36" Margin="231,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265"/>
+
+    </Grid>
+</Window>

@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong", "Armstrong\Armstrong.csproj", "{DED42F1D-FAAA-4E13-BAD5-45337A3A835F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong", "Armstrong\Armstrong.csproj", "{DED42F1D-FAAA-4E13-BAD5-45337A3A835F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar Encryptie", "Caesar Encryptie\Caesar Encryptie.csproj", "{F917B73A-F752-42B0-AF7F-2204A3409944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caesar Encryptie", "Caesar Encryptie\Caesar Encryptie.csproj", "{F917B73A-F752-42B0-AF7F-2204A3409944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{91BADB0D-86DB-4ED5-A59A-0AD4E1BEA405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorV2", "CalculatorV2\CalculatorV2.csproj", "{A58D82E9-09C6-46AD-A153-D01C42A9F140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeftijdsBerekening", "LeeftijdsBerekening\LeeftijdsBerekening.csproj", "{D013DEA4-1D7C-4668-B0B8-785E75CE511D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{F917B73A-F752-42B0-AF7F-2204A3409944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F917B73A-F752-42B0-AF7F-2204A3409944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F917B73A-F752-42B0-AF7F-2204A3409944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BADB0D-86DB-4ED5-A59A-0AD4E1BEA405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BADB0D-86DB-4ED5-A59A-0AD4E1BEA405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BADB0D-86DB-4ED5-A59A-0AD4E1BEA405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BADB0D-86DB-4ED5-A59A-0AD4E1BEA405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58D82E9-09C6-46AD-A153-D01C42A9F140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58D82E9-09C6-46AD-A153-D01C42A9F140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58D82E9-09C6-46AD-A153-D01C42A9F140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58D82E9-09C6-46AD-A153-D01C42A9F140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D013DEA4-1D7C-4668-B0B8-785E75CE511D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D013DEA4-1D7C-4668-B0B8-785E75CE511D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D013DEA4-1D7C-4668-B0B8-785E75CE511D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D013DEA4-1D7C-4668-B0B8-785E75CE511D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

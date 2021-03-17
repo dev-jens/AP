@@ -1,0 +1,19 @@
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\bin\Debug\netcoreapp3.1\Caesar Encryptie.exe
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\bin\Debug\netcoreapp3.1\Caesar Encryptie.deps.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\bin\Debug\netcoreapp3.1\Caesar Encryptie.runtimeconfig.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\bin\Debug\netcoreapp3.1\Caesar Encryptie.runtimeconfig.dev.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\bin\Debug\netcoreapp3.1\Caesar Encryptie.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\bin\Debug\netcoreapp3.1\Caesar Encryptie.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie_MarkupCompile.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie_MarkupCompile.lref
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.g.resources
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.AssemblyInfo.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo1\Caesar Encryptie\obj\Debug\netcoreapp3.1\Caesar Encryptie.genruntimeconfig.cache

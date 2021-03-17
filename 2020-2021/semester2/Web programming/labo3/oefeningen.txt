@@ -1,0 +1,21 @@
+
+Labo 3
+1. Schrijf met behulp van een javascript functie een HTML pagina waarin je de voornaam van een klasgenoot moet typen en na bevestiging moet je zijn geboortejaar terugkrijgen. Maak gebruik van een array om te zoeken. Tip: maak 1 array waarin je namen van klasgenoten zet, en een tweede array waarin je geboortejaren inzet. (Ga van de veronderstelling uit dat de indexen van de 2 arrays overeenkomen.)
+
+2.Maak een array aan die een todo lijst voorstelt
+
+A/ Voorzie een functie om items aan de lijst toe te voegen
+
+B/ Voorzie een functie om het eerste element van de lijst te halen
+
+C/ voorzie een functie om een prioriteit aan het todo lijstje toe te voegen (dit wil zeggen dat dit het eerste element van de todo lijst wordt
+
+D/ Test alles uit.
+
+3. Schrijf een script om het kleinste en tweede kleinste element van een array terug te geven. (test zeker dat de array meer dan 2 elementen bevat).
+
+4. Maak een scripts waarin je 1000 keer twee willekeurige getallen genereert tussen 1 en 6 (de ogen van een dobbelsteen). De 1000 resultaten neem je op in een array. Je maakt ook een array van 11 elementen waarin je noteert hoeveel maal de computer het getal 2,3,4...12 heeft gegenereerd (met andere woorden een histogram). Deze laatste array print je op een HTML pagina. Maar hiervoor 2 functies.
+
+5.Vraag een tekst op, en begin elk woord van je tekst met een hoofdletter
+
+- bekijk split methode (beschrijf wat de split functie doet, en gebruik dit in je oplossing
