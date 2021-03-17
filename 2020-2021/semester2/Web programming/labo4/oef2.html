@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         class Screen {  
+            constructor(height,width)
+            {
+                this._height =height
+                this._width =width
+            }  
+            set width (width)  {this._width = width}
+            get width ()       {return this._width }
+            set height (height){this._height = height}
+            get height ()      {return this._height }
+
+            diagonal() {          
+                  return Math.sqrt(Math.pow(this.width, 2) + Math.pow(this.height, 2));
+              }
+        
+            dimensions(definition) {
+                  let dimensions = definition.split('x');
+                  this.width = parseInt(dimensions[0]);
+                  this.height = parseInt(dimensions[1]);
+                  console.log(this.height + "x" + this.width);
+              }
+      }
+      
+      //UITVOERING
+      let screen = new Screen(0, 0);
+      screen.dimensions('500x300');
+      screen.width = 400;
+      console.log(screen.diagonal()); // Should print 500
+
+    </script>
+</body>
+</html>

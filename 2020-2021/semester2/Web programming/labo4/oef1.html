@@ -11,28 +11,29 @@
 <body>
     <script>
         class Summer {
-            add(getal) {
-                let number =5;
-                number += getal
-                return number;
+            constructor(){
+                 this.number =0;
             }
-            getCurrentSum(add) {
-                document.write(add)
+
+            add(input) {
+                this.number += input
+            }
+            getCurrentSum() {
+                return this.number;
             }
         }
-
         const s1 = new Summer();
         s1.add(10);
-        let result =s1.add(20);
+        s1.add(20);
         // prints 30
-        console.log(s1.getCurrentSum(result));
+        console.log(s1.getCurrentSum());
 
         const s2 = new Summer();
         s2.add(30);
-        result = s2.add(5);
+        s2.add(5);
     
         // prints 35
-        console.log(s2.getCurrentSum(result));
+        console.log(s2.getCurrentSum());
     </script>
 </body>
 
