@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>stack_reverse</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 

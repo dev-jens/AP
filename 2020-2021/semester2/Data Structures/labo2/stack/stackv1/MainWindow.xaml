@@ -1,0 +1,16 @@
+﻿<Window x:Class="stackV1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:stackV1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="pushKnop" Content="push" HorizontalAlignment="Left" Margin="359,97,0,0" VerticalAlignment="Top" Height="46" Width="153" Click="pushKnop_Click"/>
+        <Button x:Name="popKnop" Content="pop" HorizontalAlignment="Left" Margin="359,190,0,0" VerticalAlignment="Top" Height="45" Width="153" Click="popKnop_Click"/>
+        <TextBox x:Name="inputStack" HorizontalAlignment="Left" Height="46" Margin="85,97,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="249"/>
+        <ListBox x:Name="outputStack" Margin="85,172,466,80"/>
+
+    </Grid>
+</Window>

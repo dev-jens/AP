@@ -1,0 +1,15 @@
+﻿<Window x:Class="stack_reverse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:stack_reverse"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ReverseKnop" Content="Reverse" HorizontalAlignment="Left" Margin="427,129,0,0" VerticalAlignment="Top" Height="54" Width="213" Click="ReverseKnop_Click"/>
+        <TextBox x:Name="inputfield" HorizontalAlignment="Left" Margin="157,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" Height="45"/>
+        <TextBox x:Name="outputField" HorizontalAlignment="Left" Height="173" Margin="157,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201"/>
+
+    </Grid>
+</Window>
