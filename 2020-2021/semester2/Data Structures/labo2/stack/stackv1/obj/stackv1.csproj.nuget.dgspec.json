@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackv1\\stackv1.csproj": {}
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\stackV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackv1\\stackv1.csproj": {
+    "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\stackV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackv1\\stackv1.csproj",
-        "projectName": "stackv1",
-        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackv1\\stackv1.csproj",
-        "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackv1\\obj\\",
+        "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\stackV1.csproj",
+        "projectName": "stackV1",
+        "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\stackV1.csproj",
+        "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,9 +52,12 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
