@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\bin\Debug\netcoreapp3.1\Persoon.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\bin\Debug\netcoreapp3.1\Persoon.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\bin\Debug\netcoreapp3.1\Persoon.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\bin\Debug\netcoreapp3.1\Persoon.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\bin\Debug\netcoreapp3.1\Persoon.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\bin\Debug\netcoreapp3.1\Persoon.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\obj\Debug\netcoreapp3.1\Persoon.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\obj\Debug\netcoreapp3.1\Persoon.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\obj\Debug\netcoreapp3.1\Persoon.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\obj\Debug\netcoreapp3.1\Persoon.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\obj\Debug\netcoreapp3.1\Persoon.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\obj\Debug\netcoreapp3.1\Persoon.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Persoon\obj\Debug\netcoreapp3.1\Persoon.genruntimeconfig.cache

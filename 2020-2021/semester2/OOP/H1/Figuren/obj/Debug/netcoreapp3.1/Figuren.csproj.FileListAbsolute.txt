@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\bin\Debug\netcoreapp3.1\Figuren.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\bin\Debug\netcoreapp3.1\Figuren.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\bin\Debug\netcoreapp3.1\Figuren.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\bin\Debug\netcoreapp3.1\Figuren.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\bin\Debug\netcoreapp3.1\Figuren.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\bin\Debug\netcoreapp3.1\Figuren.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\obj\Debug\netcoreapp3.1\Figuren.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\obj\Debug\netcoreapp3.1\Figuren.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\obj\Debug\netcoreapp3.1\Figuren.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\obj\Debug\netcoreapp3.1\Figuren.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\obj\Debug\netcoreapp3.1\Figuren.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\Figuren\obj\Debug\netcoreapp3.1\Figuren.genruntimeconfig.cache
