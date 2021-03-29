@@ -7,10 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+<<<<<<< HEAD
         <Button x:Name="PushKnop" Content="Push" HorizontalAlignment="Left" Margin="362,77,0,0" VerticalAlignment="Top" Height="56" Width="140" Click="PushKnop_Click"/>
         <Button x:Name="PopKnop" Content="Pop" HorizontalAlignment="Left" Margin="362,161,0,0" VerticalAlignment="Top" Height="56" Width="140" Click="PopKnop_Click"/>
         <TextBox x:Name="InputBox" HorizontalAlignment="Left" Margin="132,91,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Height="28" TextChanged="TextBox_TextChanged"/>
         <ListBox x:Name="OutputBox" Margin="132,161,474,98"/>
+=======
+        <Button x:Name="pushKnop" Content="push" HorizontalAlignment="Left" Margin="359,97,0,0" VerticalAlignment="Top" Height="46" Width="153" Click="pushKnop_Click"/>
+        <Button x:Name="popKnop" Content="pop" HorizontalAlignment="Left" Margin="359,190,0,0" VerticalAlignment="Top" Height="45" Width="153" Click="popKnop_Click"/>
+        <TextBox x:Name="inputStack" HorizontalAlignment="Left" Height="46" Margin="85,97,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="249"/>
+        <ListBox x:Name="outputStack" Margin="85,172,466,80"/>
+>>>>>>> 5365a499a667341701257551a5ff88635fe68db0
 
     </Grid>
 </Window>

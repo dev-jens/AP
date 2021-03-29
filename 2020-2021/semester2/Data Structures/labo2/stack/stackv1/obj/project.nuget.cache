@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "7Hfa2ufhRHu+Hzkj/3SIlLOtiaY5EkeSl+PYtmWwmxRXWxGy9hSIX2V/iDfgjtLLKBj4bHb4Xsc8GXpqbiU41w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\stackV1.csproj",
+=======
+  "dgSpecHash": "TQaIKlkZ3wq+VAfph1VeYuZbTT5sdpRzKB5QCFijFQGAgPE6w4Z/P/91vxNRUyQc3Lrf3bXZOTuKmbUVQdeYEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackV1\\stackV1.csproj",
+>>>>>>> 5365a499a667341701257551a5ff88635fe68db0
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\stackV1.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\stackV1.csproj",
         "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data structures\\labo2\\stack\\stackV1\\obj\\",
+=======
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackV1\\stackV1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackV1\\stackV1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackV1\\stackV1.csproj",
+        "projectName": "stackV1",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackV1\\stackV1.csproj",
+        "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\labo2\\stack\\stackV1\\obj\\",
+>>>>>>> 5365a499a667341701257551a5ff88635fe68db0
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eigenaar\\AppData\\Roaming\\NuGet\\NuGet.Config",

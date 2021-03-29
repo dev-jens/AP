@@ -4,11 +4,16 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\Data structures\labo2\stack\stackV1\obj\Debug\netcoreapp3.1\
+=======
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo2\stack\stackV1\obj\Debug\netcoreapp3.1\
+>>>>>>> 5365a499a667341701257551a5ff88635fe68db0
 stackV1
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+<<<<<<< HEAD
 C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\Data structures\labo2\stack\stackV1\App.xaml
 11407045341
 
@@ -17,4 +22,14 @@ C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\Data structures\labo2\stack\sta
 MainWindow.xaml;
 
 True
+=======
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\labo2\stack\stackV1\App.xaml
+11151548125
+
+3-917710711
+1921654412462
+MainWindow.xaml;
+
+False
+>>>>>>> 5365a499a667341701257551a5ff88635fe68db0
 

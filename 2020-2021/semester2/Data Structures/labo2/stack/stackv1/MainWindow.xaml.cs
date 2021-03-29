@@ -25,6 +25,7 @@ namespace stackV1
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         private void PushKnop_Click(object sender, RoutedEventArgs e)
         {
             int input = int.Parse(InputBox.Text);
@@ -59,5 +60,49 @@ namespace stackV1
 
             return input;
         }
+=======
+        private void pushKnop_Click(object sender, RoutedEventArgs e)
+        {
+            int input = int.Parse(inputStack.Text);
+            push(input);
+
+            inputStack.Text = "";
+
+            // Enable Pop button is it's disabled
+            if (!popKnop.IsEnabled)
+                popKnop.IsEnabled = true;
+        }
+
+        private void popKnop_Click(object sender, RoutedEventArgs e)
+        {
+            int waarde = pop();
+
+            outputStack.Items.Add(waarde.ToString());
+
+       
+        }
+
+        int[] stack = new int[5];
+        int top = -1;
+
+
+        private void push(int input)
+        {
+            if (top == stack.Length-1){ return; }
+            top++;
+            stack[top] = input;
+            
+        }
+
+        private int pop() 
+        {
+            int input = stack[top];
+            top--;  
+            return input;
+        
+        }
+
+
+>>>>>>> 5365a499a667341701257551a5ff88635fe68db0
     }
 }
