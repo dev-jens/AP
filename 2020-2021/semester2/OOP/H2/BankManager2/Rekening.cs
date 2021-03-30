@@ -82,7 +82,21 @@ namespace BankManager2
         {
             for (int i = 0; i < 4; i++)
             {
+                if (houder1.state == RekeningState.Geldig)
+                {
+                    Random r = new Random();
+                    int geld = r.Next(0,100);
+                    houder1.HaalGeldAf(geld);
+                    houder2.StortGeld(geld);
 
+                }
+                else
+                {
+                    Random r = new Random();
+                    int geld = r.Next(0, 100);
+                    houder2.HaalGeldAf(geld);
+                    houder1.StortGeld(geld);
+                }
             }
         }
     }
