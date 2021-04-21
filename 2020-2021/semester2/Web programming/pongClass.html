@@ -1,0 +1,101 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Pong</title></head>
+<body>
+  <canvas id="pongCanvas" width="500" height="300">
+  
+  <script type="text/javascript">
+  
+  class Bal{
+        constructor(x){
+            this.x = x
+            this.y = 0
+            this.vx = 2;
+            this.vy = 2;
+        }
+        update(){
+            this.x+=this.vx
+            this.y+=this.vy
+
+            if(this.y <=0 || this.y >=300)
+                this.vy*=-1
+
+            if(this.x <=0 || this.x >=500)
+                this.vx*=-1
+        }
+
+        draw(){
+            ctx.beginPath();
+            ctx.arc(this.x,this.y, 20, 0, 2 * Math.PI, false);
+            ctx.fill();
+            ctx.closePath();
+        }
+    }
+
+    class Paddle{
+
+        constructor(x){
+            this.x = x
+            this.y = 0
+
+        }
+        update(){
+
+
+        }
+
+        draw(){
+          ctx.rect(this.x, this.y, 20, 50);
+          ctx.fillStyle="red"
+          ctx.fill();
+
+        }
+    }
+
+    let canvas = document.getElementById("pongCanvas");
+    let ctx = canvas.getContext("2d");
+    let bal =new Bal(140)
+    let paddleLeft = new Paddle(40)
+
+  
+
+    function Animate(){
+        ctx.clearRect(0,0,1000,1000)
+
+        //update
+       // paddleLeft.update()
+       bal.update()
+
+       if(paddleHit()==true)
+        bal.vx*=-1
+
+        //bal
+        paddleLeft.draw()
+        bal.draw()
+        
+        setTimeout(Animate,33)
+    }
+
+
+    canvas.addEventListener("mousemove", function(event) {
+      paddleLeft.y = event.clientY;
+    });
+
+    function clear() {
+      ctx.clearRect(0, 0, 500, 300);
+    }
+
+    function paddleHit() {
+      if( bal.y > paddleLeft.y && bal.y < paddleLeft.y + 50){
+          if(bal.x<paddleLeft.x+30){
+              console.log("hit")
+              return true
+          }
+      }
+      return false
+    }
+
+    Animate();
+  </script>
+
+
+</canvas></body></html>

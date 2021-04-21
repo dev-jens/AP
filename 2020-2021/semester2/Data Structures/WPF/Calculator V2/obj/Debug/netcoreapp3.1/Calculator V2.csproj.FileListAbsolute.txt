@@ -1,0 +1,19 @@
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\bin\Debug\netcoreapp3.1\Calculator V2.exe
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\bin\Debug\netcoreapp3.1\Calculator V2.deps.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\bin\Debug\netcoreapp3.1\Calculator V2.runtimeconfig.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\bin\Debug\netcoreapp3.1\Calculator V2.runtimeconfig.dev.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\bin\Debug\netcoreapp3.1\Calculator V2.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\bin\Debug\netcoreapp3.1\Calculator V2.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2_MarkupCompile.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2_MarkupCompile.lref
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.g.resources
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.AssemblyInfo.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\WPF\Calculator V2\obj\Debug\netcoreapp3.1\Calculator V2.genruntimeconfig.cache

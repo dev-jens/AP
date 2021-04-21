@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\bin\Debug\netcoreapp3.1\VirusSimulator.exe
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\bin\Debug\netcoreapp3.1\VirusSimulator.deps.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\bin\Debug\netcoreapp3.1\VirusSimulator.runtimeconfig.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\bin\Debug\netcoreapp3.1\VirusSimulator.runtimeconfig.dev.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\bin\Debug\netcoreapp3.1\VirusSimulator.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\bin\Debug\netcoreapp3.1\VirusSimulator.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\obj\Debug\netcoreapp3.1\VirusSimulator.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\obj\Debug\netcoreapp3.1\VirusSimulator.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\obj\Debug\netcoreapp3.1\VirusSimulator.AssemblyInfo.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\obj\Debug\netcoreapp3.1\VirusSimulator.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\obj\Debug\netcoreapp3.1\VirusSimulator.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\obj\Debug\netcoreapp3.1\VirusSimulator.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\OOP\Test oefening\VirusSimulator\obj\Debug\netcoreapp3.1\VirusSimulator.genruntimeconfig.cache

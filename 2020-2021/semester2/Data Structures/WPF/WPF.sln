@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong", "Armstrong\Armstrong.csproj", "{72CA09E6-E48A-47A2-9328-629653283D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator V2", "Calculator V2\Calculator V2.csproj", "{6FAD47F6-A55A-47C2-A80F-CDC6E298B01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CA09E6-E48A-47A2-9328-629653283D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CA09E6-E48A-47A2-9328-629653283D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CA09E6-E48A-47A2-9328-629653283D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CA09E6-E48A-47A2-9328-629653283D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAD47F6-A55A-47C2-A80F-CDC6E298B01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAD47F6-A55A-47C2-A80F-CDC6E298B01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAD47F6-A55A-47C2-A80F-CDC6E298B01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAD47F6-A55A-47C2-A80F-CDC6E298B01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B366BB91-0F1F-4039-BEFE-E6EA6751E717}
+	EndGlobalSection
+EndGlobal
