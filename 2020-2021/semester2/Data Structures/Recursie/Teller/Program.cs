@@ -4,21 +4,26 @@ namespace Teller
 {
     class Program
     {
+        static void UpCounter(int num)
+        {
+            
+            if (num == 1)
+            {
+                Console.WriteLine(num);
+                return;
+            }
+
+            UpCounter(num - 1);
+            Console.WriteLine(num);
+        }
+
+
         static void Main(string[] args)
         {
-            void Upcounter(int number)
-            {
+            Console.WriteLine("geef een getal in ");
+            int num = int.Parse(Console.ReadLine());
 
-                // Exit condition
-                if (number <= 0)
-                {
-                    return;
-                }
-                Upcounter(number-1);
-                Console.WriteLine(number);
-
-            }
-           Upcounter(5);
+            UpCounter(num);
         }
     }
 }

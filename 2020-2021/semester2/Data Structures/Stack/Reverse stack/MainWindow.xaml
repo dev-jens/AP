@@ -1,0 +1,15 @@
+﻿<Window x:Class="Reverse_stack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reverse_stack"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="inputBox" HorizontalAlignment="Left" Height="36" Margin="67,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186"/>
+        <Button x:Name="Reverse_btn" Content="Reverse" HorizontalAlignment="Left" Height="36" Margin="287,85,0,0" VerticalAlignment="Top" Width="191" Click="Reverse_btn_Click"/>
+        <ListBox x:Name="outputBox" HorizontalAlignment="Left" Height="142" Margin="67,168,0,0" VerticalAlignment="Top" Width="186"/>
+
+    </Grid>
+</Window>

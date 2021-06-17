@@ -1,0 +1,19 @@
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\bin\Debug\netcoreapp3.1\Reverse stack.exe
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\bin\Debug\netcoreapp3.1\Reverse stack.deps.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\bin\Debug\netcoreapp3.1\Reverse stack.runtimeconfig.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\bin\Debug\netcoreapp3.1\Reverse stack.runtimeconfig.dev.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\bin\Debug\netcoreapp3.1\Reverse stack.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\bin\Debug\netcoreapp3.1\Reverse stack.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack_MarkupCompile.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack_MarkupCompile.lref
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.g.resources
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.AssemblyInfo.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Stack\Reverse stack\obj\Debug\netcoreapp3.1\Reverse stack.genruntimeconfig.cache

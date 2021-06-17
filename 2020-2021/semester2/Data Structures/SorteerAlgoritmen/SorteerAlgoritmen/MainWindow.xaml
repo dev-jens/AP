@@ -1,0 +1,19 @@
+﻿<Window x:Class="SorteerAlgoritmen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SorteerAlgoritmen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lbSorted" HorizontalAlignment="Left" Height="224" Margin="502,159,0,0" VerticalAlignment="Top" Width="233"/>
+        <Button x:Name="BubbleSort" Content="BubbleSort" HorizontalAlignment="Left" Height="30" Margin="322,159,0,0" VerticalAlignment="Top" Width="127" Click="BubbleSort_Click"/>
+        <ListBox x:Name="lbUnsorted" HorizontalAlignment="Left" Height="224" Margin="62,159,0,0" VerticalAlignment="Top" Width="224"/>
+        <Button x:Name="SelectioSort_btn" Content="SelctioSort" HorizontalAlignment="Left" Height="30" Margin="322,194,0,0" VerticalAlignment="Top" Width="127" Click="SelectioSort_btn_Click"/>
+        <Button x:Name="InsertionSort" Content="insertionSort" HorizontalAlignment="Left" Height="28" Margin="322,232,0,0" VerticalAlignment="Top" Width="127" Click="InsertionSort_Click"/>
+        <Button x:Name="QuickSort" Content="QuickSort" HorizontalAlignment="Left" Height="28" Margin="322,271,0,0" VerticalAlignment="Top" Width="127" Click="QuickSort_Click"/>
+        <Button x:Name="MergeSort" Content="MergeSort" HorizontalAlignment="Left" Height="28" Margin="322,314,0,0" VerticalAlignment="Top" Width="127" Click="MergeSort_Click"/>
+
+    </Grid>
+</Window>

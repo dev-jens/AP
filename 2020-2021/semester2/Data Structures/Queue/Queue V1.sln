@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj", "{F65A97FA-74EE-49A0-901D-E95F5353E1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queue circular", "queue circular\queue circular.csproj", "{59315C6D-4BAD-48CC-BD83-D7A74E1EBC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65A97FA-74EE-49A0-901D-E95F5353E1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65A97FA-74EE-49A0-901D-E95F5353E1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65A97FA-74EE-49A0-901D-E95F5353E1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65A97FA-74EE-49A0-901D-E95F5353E1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59315C6D-4BAD-48CC-BD83-D7A74E1EBC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59315C6D-4BAD-48CC-BD83-D7A74E1EBC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59315C6D-4BAD-48CC-BD83-D7A74E1EBC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59315C6D-4BAD-48CC-BD83-D7A74E1EBC53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {539683E6-65B8-44CA-95AB-1AE136765216}
+	EndGlobalSection
+EndGlobal

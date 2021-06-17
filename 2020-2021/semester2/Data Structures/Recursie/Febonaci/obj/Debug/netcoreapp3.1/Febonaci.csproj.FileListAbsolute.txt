@@ -1,0 +1,12 @@
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.exe
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.deps.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.runtimeconfig.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.runtimeconfig.dev.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\bin\Debug\netcoreapp3.1\Febonaci.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.AssemblyInfo.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Recursie\Febonaci\obj\Debug\netcoreapp3.1\Febonaci.genruntimeconfig.cache
