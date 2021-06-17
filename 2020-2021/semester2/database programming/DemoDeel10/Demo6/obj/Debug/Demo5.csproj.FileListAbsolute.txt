@@ -1,0 +1,2 @@
+D:\Temp\AP\DemoDeel10\Demo5\obj\Debug\Demo5.csprojAssemblyReference.cache
+D:\Temp\AP\DemoDeel10\Demo5\obj\Debug\Demo5.csproj.CoreCompileInputs.cache

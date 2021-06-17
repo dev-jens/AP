@@ -1,0 +1,10 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\bin\Debug\oefenign4.exe.config
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\bin\Debug\oefenign4.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\bin\Debug\oefenign4.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\obj\Debug\oefening4.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\obj\Debug\oefenign4.Form1.resources
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\obj\Debug\oefenign4.Properties.Resources.resources
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\obj\Debug\oefening4.csproj.GenerateResource.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\obj\Debug\oefening4.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\obj\Debug\oefenign4.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\deel9\oefenign4\obj\Debug\oefenign4.pdb
