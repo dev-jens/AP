@@ -1,0 +1,5 @@
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag6\obj\Debug\Vraag6.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag6\obj\Debug\Vraag6.FormTeams.resources
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag6\obj\Debug\Vraag6.Properties.Resources.resources
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag6\obj\Debug\Vraag6.csproj.GenerateResource.cache
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag6\obj\Debug\Vraag6.csproj.CoreCompileInputs.cache

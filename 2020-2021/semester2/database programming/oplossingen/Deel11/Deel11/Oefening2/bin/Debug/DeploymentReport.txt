@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [MS_Description] (Extended Property)
+       [PRIMARY].[MS_Description] (Extended Property)
+     Create
+       [Oefening2] (Assembly)
+       [dbo].[ContainsRegExp] (Function)
+
+** Supporting actions

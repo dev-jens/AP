@@ -1,15 +1,14 @@
 
+class calculator{
 
-function add(x, y) {
+   add(x, y) {
     return x + y;
   }
   
-  function subtract(x, y) {
+  sub(x, y) {
     return x - y;
   }
 
+}
 
-export  {
-  subtract,
-    add
-    }
+module.exports = calculator;

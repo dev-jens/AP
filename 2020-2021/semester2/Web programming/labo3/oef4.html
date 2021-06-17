@@ -12,7 +12,7 @@
     <script>
        
         let count = [0,0,0,0,0,0,0,0,0,0,0];
-        let n = 60;
+        let n = 10;
         let lijst = dobbelTweeStenen(n);
 
         function dobbelTweeStenen(n) { 
@@ -28,14 +28,15 @@
         }
         function PrintArray(arr) {
             for (let i = 0; i < arr.length; i++) {
-                document.write(`${arr[i]}, `);
+                document.write(`${i+1}: ${arr[i]}, `);
             }
         }
 
         lijst.forEach(number => {
+            console.log(number)
             count[number-2]++;
         });
-
+        
         PrintArray(lijst)
         document.write(`<br>`)
         PrintArray(count);

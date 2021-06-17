@@ -1,0 +1,44 @@
+ALTER VIEW [dbo].[V_PLAYERS_STATS]
+AS
+SELECT 
+	[s].*,
+	(
+		SELECT COUNT(*)
+		FROM [dbo].[WEDSTRIJDEN] [w]
+		WHERE 
+			[w].[SPELERSNR] = [s].[SPELERSNR]
+	) AS GAMESPLAYED,
+	(
+		SELECT COUNT(*)
+		FROM [dbo].[WEDSTRIJDEN] [w]
+		WHERE 
+			[w].[SPELERSNR] = [s].[SPELERSNR]
+			AND [w].[GEWONNEN] > [w].[VERLOREN]
+	) AS GAMESWON,
+	(
+		SELECT COUNT(*)
+		FROM [dbo].[WEDSTRIJDEN] [w]
+		WHERE 
+			[w].[SPELERSNR] = [s].[SPELERSNR]
+			AND [w].[VERLOREN] > [w].[GEWONNEN]
+
+	) AS GAMESLOST,
+	(
+		SELECT COUNT(*)
+		FROM [dbo].[BOETES] [b]
+		WHERE 
+			[b].[SPELERSNR] = [s].[SPELERSNR]
+	) AS NUMBEROFFINES,
+	(
+		SELECT COALESCE(SUM([b].[BEDRAG]),0)
+		FROM [dbo].[BOETES] [b]
+		WHERE 
+			[b].[SPELERSNR] = [s].[SPELERSNR]
+	) AS TOTALFINESAMOUNT
+FROM
+	[dbo].[SPELERS] [s]
+;
+GO
+
+SELECT * FROM [dbo].[V_PLAYERS_STATS];
+GO 

@@ -1,0 +1,10 @@
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\bin\Debug\Oefening1.exe.config
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\bin\Debug\Oefening1.exe
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\bin\Debug\Oefening1.pdb
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\obj\Debug\Oefening1.csprojAssemblyReference.cache
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\obj\Debug\Oefening1.Form1.resources
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\obj\Debug\Oefening1.Properties.Resources.resources
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\obj\Debug\Oefening1.csproj.GenerateResource.cache
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\obj\Debug\Oefening1.csproj.CoreCompileInputs.cache
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\obj\Debug\Oefening1.exe
+F:\AP\AJ 2020-2021\DBPA\Deel10\Oefening1\obj\Debug\Oefening1.pdb

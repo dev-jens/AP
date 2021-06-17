@@ -1,0 +1,6 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\oefeningen7-11\DEEL11\Oefening1\bin\Debug\Oefening1.dacpac
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\oefeningen7-11\DEEL11\Oefening1\bin\Debug\Oefening1.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\oefeningen7-11\DEEL11\Oefening1\bin\Debug\Oefening1.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\oefeningen7-11\DEEL11\Oefening1\obj\Debug\Oefening1.sqlproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\oefeningen7-11\DEEL11\Oefening1\obj\Debug\Oefening1.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\oefeningen7-11\DEEL11\Oefening1\obj\Debug\Oefening1.pdb
