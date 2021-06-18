@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

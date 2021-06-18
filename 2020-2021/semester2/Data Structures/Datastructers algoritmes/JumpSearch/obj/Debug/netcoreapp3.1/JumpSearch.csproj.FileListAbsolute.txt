@@ -1,0 +1,12 @@
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\bin\Debug\netcoreapp3.1\JumpSearch.exe
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\bin\Debug\netcoreapp3.1\JumpSearch.deps.json
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\bin\Debug\netcoreapp3.1\JumpSearch.runtimeconfig.json
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\bin\Debug\netcoreapp3.1\JumpSearch.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\bin\Debug\netcoreapp3.1\JumpSearch.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\bin\Debug\netcoreapp3.1\JumpSearch.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\obj\Debug\netcoreapp3.1\JumpSearch.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\obj\Debug\netcoreapp3.1\JumpSearch.AssemblyInfo.cs
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\obj\Debug\netcoreapp3.1\JumpSearch.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\obj\Debug\netcoreapp3.1\JumpSearch.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\obj\Debug\netcoreapp3.1\JumpSearch.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\JumpSearch\obj\Debug\netcoreapp3.1\JumpSearch.genruntimeconfig.cache
