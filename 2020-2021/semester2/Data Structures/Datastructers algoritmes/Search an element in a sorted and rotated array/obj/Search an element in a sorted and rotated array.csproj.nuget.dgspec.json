@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj",
         "projectName": "Search an element in a sorted and rotated array",
-        "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\Search an element in a sorted and rotated array.csproj",
         "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\obj\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Search an element in a sorted and rotated array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

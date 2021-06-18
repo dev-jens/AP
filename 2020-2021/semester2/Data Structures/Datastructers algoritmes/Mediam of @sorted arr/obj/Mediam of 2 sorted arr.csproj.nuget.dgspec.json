@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj",
         "projectName": "Mediam of 2 sorted arr",
-        "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Mediam of @sorted arr\\Mediam of 2 sorted arr.csproj",
         "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Mediam of @sorted arr\\obj\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Mediam of @sorted arr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

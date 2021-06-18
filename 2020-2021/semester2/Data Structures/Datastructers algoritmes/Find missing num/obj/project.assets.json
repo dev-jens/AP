@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find missing num\\Find missing num.csproj",
+      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find missing num\\Find missing num.csproj",
       "projectName": "Find missing num",
-      "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find missing num\\Find missing num.csproj",
+      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find missing num\\Find missing num.csproj",
       "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find missing num\\obj\\",
+      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find missing num\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

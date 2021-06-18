@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Linieare Search\\Linieare Search recursief.csproj",
+      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Linieare Search\\Linieare Search recursief.csproj",
       "projectName": "Linieare Search recursief",
-      "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Linieare Search\\Linieare Search recursief.csproj",
+      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Linieare Search\\Linieare Search recursief.csproj",
       "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Linieare Search\\obj\\",
+      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Linieare Search\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

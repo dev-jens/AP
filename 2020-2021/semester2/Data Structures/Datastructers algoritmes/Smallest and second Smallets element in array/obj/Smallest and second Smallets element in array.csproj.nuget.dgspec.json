@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj",
         "projectName": "Smallest and second Smallets element in array",
-        "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Smallest and second Smallets element in array\\Smallest and second Smallets element in array.csproj",
         "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Smallest and second Smallets element in array\\obj\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Smallest and second Smallets element in array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

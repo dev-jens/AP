@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj",
         "projectName": "minMax Arr",
-        "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\minMax Arr\\minMax Arr.csproj",
         "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\minMax Arr\\obj\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\minMax Arr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj",
         "projectName": "Find the repeating and the missing",
-        "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find the repeating and the missing\\Find the repeating and the missing.csproj",
         "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Find the repeating and the missing\\obj\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Find the repeating and the missing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\BitonicSort\\BitonicSort.csproj",
+      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\BitonicSort\\BitonicSort.csproj",
       "projectName": "BitonicSort",
-      "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\BitonicSort\\BitonicSort.csproj",
+      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\BitonicSort\\BitonicSort.csproj",
       "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\BitonicSort\\obj\\",
+      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\BitonicSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

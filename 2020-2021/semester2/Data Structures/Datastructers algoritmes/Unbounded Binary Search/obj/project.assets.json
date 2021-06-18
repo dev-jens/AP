@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Unbounded Binary Search\\Unbounded Binary Search.csproj",
+      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Unbounded Binary Search\\Unbounded Binary Search.csproj",
       "projectName": "Unbounded Binary Search",
-      "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Unbounded Binary Search\\Unbounded Binary Search.csproj",
+      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Unbounded Binary Search\\Unbounded Binary Search.csproj",
       "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\Unbounded Binary Search\\obj\\",
+      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\Unbounded Binary Search\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

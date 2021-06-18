@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\HeapSort\\HeapSort.csproj",
+      "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\HeapSort\\HeapSort.csproj",
       "projectName": "HeapSort",
-      "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\HeapSort\\HeapSort.csproj",
+      "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\HeapSort\\HeapSort.csproj",
       "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\HeapSort\\obj\\",
+      "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\HeapSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

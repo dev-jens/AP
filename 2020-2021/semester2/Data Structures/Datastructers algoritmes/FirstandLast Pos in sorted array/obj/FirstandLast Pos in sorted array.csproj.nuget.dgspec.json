@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj": {}
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj": {
+    "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj",
+        "projectUniqueName": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj",
         "projectName": "FirstandLast Pos in sorted array",
-        "projectPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj",
+        "projectPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\FirstandLast Pos in sorted array.csproj",
         "packagesPath": "C:\\Users\\baete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baete\\Desktop\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\obj\\",
+        "outputPath": "C:\\Users\\baete\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Datastructers algoritmes\\FirstandLast Pos in sorted array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baete\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -39,43 +39,47 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doubly Linked List", "Doubl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DLL", "DLL\DLL.csproj", "{B71C9964-BC39-4C3D-B5DF-8BF29482E743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpSearch", "JumpSearch\JumpSearch.csproj", "{510226C6-C9D1-4B40-9B65-83336D1D3324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpSearch", "JumpSearch\JumpSearch.csproj", "{510226C6-C9D1-4B40-9B65-83336D1D3324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation search", "Interpolation search\Interpolation search.csproj", "{DC54E36F-79A0-45C6-A347-8A8F90A44BB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpolation search", "Interpolation search\Interpolation search.csproj", "{DC54E36F-79A0-45C6-A347-8A8F90A44BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponentiele Search", "Exponentiele Search\Exponentiele Search.csproj", "{B9311728-C117-4558-9EE0-14C5C9437B4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exponentiele Search", "Exponentiele Search\Exponentiele Search.csproj", "{B9311728-C117-4558-9EE0-14C5C9437B4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sublist Search (Search a linked list in another list)", "Sublist Search (Search a linked list in another list)\Sublist Search (Search a linked list in another list).csproj", "{41E71016-819E-455D-A120-876C7BA4FB88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sublist Search (Search a linked list in another list)", "Sublist Search (Search a linked list in another list)\Sublist Search (Search a linked list in another list).csproj", "{41E71016-819E-455D-A120-876C7BA4FB88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Febonacci Search", "Febonacci Search\Febonacci Search.csproj", "{FBD90F20-E322-4B63-9BCE-497296E9726C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Febonacci Search", "Febonacci Search\Febonacci Search.csproj", "{FBD90F20-E322-4B63-9BCE-497296E9726C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linieare Search recursief", "Linieare Search\Linieare Search recursief.csproj", "{E1458416-A492-410B-9EF5-424914751D2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linieare Search recursief", "Linieare Search\Linieare Search recursief.csproj", "{E1458416-A492-410B-9EF5-424914751D2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REcursief zoek woord in zin", "REcursief zoek woord in zin\REcursief zoek woord in zin.csproj", "{4A867400-04BD-4F1F-B760-E35F9CB1180F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REcursief zoek woord in zin", "REcursief zoek woord in zin\REcursief zoek woord in zin.csproj", "{4A867400-04BD-4F1F-B760-E35F9CB1180F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unbounded Binary Search", "Unbounded Binary Search\Unbounded Binary Search.csproj", "{BE2499BE-82BD-4C1B-BB03-1A19C2CEC81F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unbounded Binary Search", "Unbounded Binary Search\Unbounded Binary Search.csproj", "{BE2499BE-82BD-4C1B-BB03-1A19C2CEC81F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch Cleaner", "BinarySearch Cleaner\BinarySearch Cleaner.csproj", "{897D8D8C-43E1-41CB-B8CA-F3B1BB4C05E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch Cleaner", "BinarySearch Cleaner\BinarySearch Cleaner.csproj", "{897D8D8C-43E1-41CB-B8CA-F3B1BB4C05E5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coding problems", "Coding problems", "{A851CFF5-570A-4A89-88F2-DDEDDE7D86E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find missing num", "Find missing num\Find missing num.csproj", "{3E870504-455B-44ED-A48E-94B4C7439DC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find missing num", "Find missing num\Find missing num.csproj", "{3E870504-455B-44ED-A48E-94B4C7439DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search an element in a sorted and rotated array", "Search an element in a sorted and rotated array\Search an element in a sorted and rotated array.csproj", "{75AFF6B8-B8DB-4B29-8395-09D537DBCCE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search an element in a sorted and rotated array", "Search an element in a sorted and rotated array\Search an element in a sorted and rotated array.csproj", "{75AFF6B8-B8DB-4B29-8395-09D537DBCCE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediam of 2 sorted arr", "Mediam of @sorted arr\Mediam of 2 sorted arr.csproj", "{151DA3EF-7C81-4BF3-A5B7-29B95FE5A17F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediam of 2 sorted arr", "Mediam of @sorted arr\Mediam of 2 sorted arr.csproj", "{151DA3EF-7C81-4BF3-A5B7-29B95FE5A17F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest and second Smallets element in array", "Smallest and second Smallets element in array\Smallest and second Smallets element in array.csproj", "{386A1364-5385-40C9-A369-98EC90DB9BFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smallest and second Smallets element in array", "Smallest and second Smallets element in array\Smallest and second Smallets element in array.csproj", "{386A1364-5385-40C9-A369-98EC90DB9BFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minMax Arr", "minMax Arr\minMax Arr.csproj", "{264A46C8-597C-48ED-8F45-3CBEA3CDD37F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minMax Arr", "minMax Arr\minMax Arr.csproj", "{264A46C8-597C-48ED-8F45-3CBEA3CDD37F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count voorkomen", "Count voorkomen\Count voorkomen.csproj", "{237A2A1F-D1FC-4AD8-8980-8A7C95AB15BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count voorkomen", "Count voorkomen\Count voorkomen.csproj", "{237A2A1F-D1FC-4AD8-8980-8A7C95AB15BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the repeating and the missing", "Find the repeating and the missing\Find the repeating and the missing.csproj", "{11ACE57D-5B25-4339-AAF1-AF81E829AB90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the repeating and the missing", "Find the repeating and the missing\Find the repeating and the missing.csproj", "{11ACE57D-5B25-4339-AAF1-AF81E829AB90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find Peak element", "find Peak element\find Peak element.csproj", "{4555A232-C849-4F59-B863-F0509CA9EEE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "find Peak element", "find Peak element\find Peak element.csproj", "{4555A232-C849-4F59-B863-F0509CA9EEE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moreThanNdK", "moreThanNdK\moreThanNdK.csproj", "{52067826-3CF5-4910-91A1-8E2F3B68ED4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "moreThanNdK", "moreThanNdK\moreThanNdK.csproj", "{52067826-3CF5-4910-91A1-8E2F3B68ED4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".netklassen", ".netklassen", "{8C0843BD-DAED-4A3C-96A5-D60137649179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList .net", "SortedList .net\SortedList .net.csproj", "{5746532F-5060-468B-8901-67946AA6502D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -211,6 +215,10 @@ Global
 		{52067826-3CF5-4910-91A1-8E2F3B68ED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52067826-3CF5-4910-91A1-8E2F3B68ED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52067826-3CF5-4910-91A1-8E2F3B68ED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5746532F-5060-468B-8901-67946AA6502D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5746532F-5060-468B-8901-67946AA6502D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5746532F-5060-468B-8901-67946AA6502D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5746532F-5060-468B-8901-67946AA6502D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -248,6 +256,7 @@ Global
 		{11ACE57D-5B25-4339-AAF1-AF81E829AB90} = {A851CFF5-570A-4A89-88F2-DDEDDE7D86E5}
 		{4555A232-C849-4F59-B863-F0509CA9EEE6} = {A851CFF5-570A-4A89-88F2-DDEDDE7D86E5}
 		{52067826-3CF5-4910-91A1-8E2F3B68ED4E} = {A851CFF5-570A-4A89-88F2-DDEDDE7D86E5}
+		{5746532F-5060-468B-8901-67946AA6502D} = {8C0843BD-DAED-4A3C-96A5-D60137649179}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {916A1550-0462-4531-9244-37E251A10132}

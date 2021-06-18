@@ -1,0 +1,12 @@
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\bin\Debug\netcoreapp3.1\SortedList .net.exe
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\bin\Debug\netcoreapp3.1\SortedList .net.deps.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\bin\Debug\netcoreapp3.1\SortedList .net.runtimeconfig.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\bin\Debug\netcoreapp3.1\SortedList .net.runtimeconfig.dev.json
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\bin\Debug\netcoreapp3.1\SortedList .net.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\bin\Debug\netcoreapp3.1\SortedList .net.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\obj\Debug\netcoreapp3.1\SortedList .net.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\obj\Debug\netcoreapp3.1\SortedList .net.AssemblyInfo.cs
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\obj\Debug\netcoreapp3.1\SortedList .net.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\obj\Debug\netcoreapp3.1\SortedList .net.dll
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\obj\Debug\netcoreapp3.1\SortedList .net.pdb
+C:\Users\baete\Desktop\AP\2020-2021\semester2\Data Structures\Datastructers algoritmes\SortedList .net\obj\Debug\netcoreapp3.1\SortedList .net.genruntimeconfig.cache
