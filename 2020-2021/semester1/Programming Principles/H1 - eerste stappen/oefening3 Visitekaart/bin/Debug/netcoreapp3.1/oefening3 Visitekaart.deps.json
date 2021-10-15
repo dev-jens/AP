@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "oefening3 Visitekaart/1.0.0": {
+        "runtime": {
+          "oefening3 Visitekaart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oefening3 Visitekaart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.genruntimeconfig.cache

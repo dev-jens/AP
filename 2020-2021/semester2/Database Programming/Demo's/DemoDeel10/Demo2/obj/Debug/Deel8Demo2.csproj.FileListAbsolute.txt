@@ -1,0 +1,14 @@
+D:\Temp\C#\Deel 8\Deel8Demo2\bin\Debug\Deel8Demo2.exe
+D:\Temp\C#\Deel 8\Deel8Demo2\bin\Debug\Deel8Demo2.pdb
+D:\Temp\C#\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.Form1.resources
+D:\Temp\C#\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.Properties.Resources.resources
+D:\Temp\C#\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.csproj.GenerateResource.Cache
+D:\Temp\C#\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.exe
+D:\Temp\C#\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.pdb
+\\Vboxsvr\ap\Academiejaar 2013-2014\Olods\Trajectschijf 2\Database programming and administration\Oefeningen\Deel 8\Oplossingen\Deel 8\Deel8Demo2\bin\Debug\Deel8Demo2.exe
+\\Vboxsvr\ap\Academiejaar 2013-2014\Olods\Trajectschijf 2\Database programming and administration\Oefeningen\Deel 8\Oplossingen\Deel 8\Deel8Demo2\bin\Debug\Deel8Demo2.pdb
+\\Vboxsvr\ap\Academiejaar 2013-2014\Olods\Trajectschijf 2\Database programming and administration\Oefeningen\Deel 8\Oplossingen\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.Form1.resources
+\\Vboxsvr\ap\Academiejaar 2013-2014\Olods\Trajectschijf 2\Database programming and administration\Oefeningen\Deel 8\Oplossingen\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.Properties.Resources.resources
+\\Vboxsvr\ap\Academiejaar 2013-2014\Olods\Trajectschijf 2\Database programming and administration\Oefeningen\Deel 8\Oplossingen\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.csproj.GenerateResource.Cache
+\\Vboxsvr\ap\Academiejaar 2013-2014\Olods\Trajectschijf 2\Database programming and administration\Oefeningen\Deel 8\Oplossingen\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.exe
+\\Vboxsvr\ap\Academiejaar 2013-2014\Olods\Trajectschijf 2\Database programming and administration\Oefeningen\Deel 8\Oplossingen\Deel 8\Deel8Demo2\obj\Debug\Deel8Demo2.pdb

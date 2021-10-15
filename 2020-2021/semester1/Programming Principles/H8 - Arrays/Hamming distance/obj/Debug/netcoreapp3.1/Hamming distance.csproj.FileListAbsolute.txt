@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\bin\Debug\netcoreapp3.1\Hamming distance.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\bin\Debug\netcoreapp3.1\Hamming distance.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\bin\Debug\netcoreapp3.1\Hamming distance.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\bin\Debug\netcoreapp3.1\Hamming distance.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\bin\Debug\netcoreapp3.1\Hamming distance.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\bin\Debug\netcoreapp3.1\Hamming distance.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\obj\Debug\netcoreapp3.1\Hamming distance.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\obj\Debug\netcoreapp3.1\Hamming distance.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\obj\Debug\netcoreapp3.1\Hamming distance.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\obj\Debug\netcoreapp3.1\Hamming distance.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\obj\Debug\netcoreapp3.1\Hamming distance.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H8 - Arrays\Hamming distance\obj\Debug\netcoreapp3.1\Hamming distance.genruntimeconfig.cache

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+       
+        let count = [0,0,0,0,0,0,0,0,0,0,0];
+        let n = 10;
+        let lijst = dobbelTweeStenen(n);
+
+        function dobbelTweeStenen(n) { 
+            let lijst = [];
+            for (let i = 0; i < n; i++) {
+                    let ranNumSteen1 = Math.floor(Math.random() * 6) + 1; 
+                    let ranNumSteen2 = Math.floor(Math.random() * 6) + 1;
+
+                    let som = ranNumSteen1 + ranNumSteen2;
+                    lijst[i] = som;
+            }
+            return lijst
+        }
+        function PrintArray(arr) {
+            for (let i = 0; i < arr.length; i++) {
+                document.write(`${i+1}: ${arr[i]}, `);
+            }
+        }
+
+        lijst.forEach(number => {
+            console.log(number)
+            count[number-2]++;
+        });
+        
+        PrintArray(lijst)
+        document.write(`<br>`)
+        PrintArray(count);
+
+
+    </script>
+</body>
+
+</html>

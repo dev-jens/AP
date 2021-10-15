@@ -1,0 +1,15 @@
+﻿<Window x:Class="WachtwoordGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WachtwoordGenerator"
+        mc:Ignorable="d"
+        Title="WachtwoordGenerator" Height="163" Width="573" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="btnCalculate" Content="Berekenen" HorizontalAlignment="Left" VerticalAlignment="Top" Height="46" Width="122"  FontFamily="Brush Script MT" FontSize="24" FontWeight="Normal" FontStyle="Normal" Foreground="#FF9B0C0C" BorderBrush="#FF291919" Click="btnCalculate_Click" Margin="328,24,0,0"/>
+        <TextBox x:Name="tbLengte" HorizontalAlignment="Left" Margin="139,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168" Height="18"/>
+        <TextBlock x:Name="txtWachtwoord" HorizontalAlignment="Left" Margin="139,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="168" Text="Hier komt het wachtwoord"/>
+        <TextBlock x:Name="tb1" HorizontalAlignment="Left" Margin="66,27,0,0" Text="Geef lengte:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "H4 vierkant/1.0.0": {
+        "runtime": {
+          "H4 vierkant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H4 vierkant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

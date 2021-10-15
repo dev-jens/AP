@@ -1,0 +1,26 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.genruntimeconfig.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\bin\Debug\netcoreapp3.1\Wiskunde Quizprogramma.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\Wiskunde Quizprogramma\obj\Debug\netcoreapp3.1\Wiskunde Quizprogramma.genruntimeconfig.cache

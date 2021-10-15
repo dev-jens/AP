@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        class Summer{
+            constructor(){
+                this.number = 0;
+            }
+
+            add(_number){
+                this.number += _number
+            }
+            getCurrentSum(){
+                return this.number
+            }
+
+        }
+        
+        const s1 = new Summer();
+        const s2 = new Summer();
+        s1.add(10);
+        s1.add(20);
+        s2.add(30);
+        s2.add(5);
+        // prints 30
+        console.log(s1.getCurrentSum());
+        // prints 35
+        console.log(s2.getCurrentSum());
+    </script>
+</body>
+
+</html>

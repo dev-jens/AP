@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\bin\Debug\netcoreapp3.1\Hoger lager.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\bin\Debug\netcoreapp3.1\Hoger lager.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\bin\Debug\netcoreapp3.1\Hoger lager.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\bin\Debug\netcoreapp3.1\Hoger lager.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\bin\Debug\netcoreapp3.1\Hoger lager.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\bin\Debug\netcoreapp3.1\Hoger lager.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\obj\Debug\netcoreapp3.1\Hoger lager.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\obj\Debug\netcoreapp3.1\Hoger lager.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\obj\Debug\netcoreapp3.1\Hoger lager.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\obj\Debug\netcoreapp3.1\Hoger lager.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\obj\Debug\netcoreapp3.1\Hoger lager.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\obj\Debug\netcoreapp3.1\Hoger lager.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Hoger lager\obj\Debug\netcoreapp3.1\Hoger lager.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\bin\Debug\netcoreapp3.1\BankRekening.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\bin\Debug\netcoreapp3.1\BankRekening.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\bin\Debug\netcoreapp3.1\BankRekening.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\bin\Debug\netcoreapp3.1\BankRekening.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\bin\Debug\netcoreapp3.1\BankRekening.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\bin\Debug\netcoreapp3.1\BankRekening.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\obj\Debug\netcoreapp3.1\BankRekening.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\obj\Debug\netcoreapp3.1\BankRekening.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\obj\Debug\netcoreapp3.1\BankRekening.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\obj\Debug\netcoreapp3.1\BankRekening.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\obj\Debug\netcoreapp3.1\BankRekening.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\obj\Debug\netcoreapp3.1\BankRekening.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\BankRekening\obj\Debug\netcoreapp3.1\BankRekening.genruntimeconfig.cache

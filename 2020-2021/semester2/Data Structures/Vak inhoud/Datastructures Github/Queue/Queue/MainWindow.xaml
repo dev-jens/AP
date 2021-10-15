@@ -1,0 +1,36 @@
+﻿<Window x:Class="Queue.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Queue"
+        mc:Ignorable="d"
+        Title="Queue oefeningen" Height="292" Width="642" ResizeMode="NoResize">
+    <Grid>
+        <GroupBox Header="Lineair" Margin="0,0,326,0">
+            <Grid HorizontalAlignment="Left" Width="283">
+                <TextBox x:Name="tbIn" HorizontalAlignment="Left" Margin="40,10,0,0" Text="100" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <ListBox x:Name="lbOut" Margin="40,43,0,0" HorizontalAlignment="Left" Width="111" Height="163" VerticalAlignment="Top" ></ListBox>
+                <Button x:Name="btEnqueue" Content="Enqueue" HorizontalAlignment="Left" Margin="196,10,0,0" VerticalAlignment="Top" Width="75" Click="btEnqueue_Click"/>
+                <Button x:Name="btDequeue" Content="Dequeue" HorizontalAlignment="Left" Margin="196,48,0,0" VerticalAlignment="Top" Width="75" Click="btDequeue_Click"/>
+                <ListBox x:Name="lbStack" Margin="165,87,0,0" Height="119" VerticalAlignment="Top" HorizontalAlignment="Left" Width="95"/>
+                <TextBlock HorizontalAlignment="Left" Margin="76,211,0,0" Text="Out" TextWrapping="Wrap" VerticalAlignment="Top" Width="62"/>
+                <TextBlock HorizontalAlignment="Left" Margin="189,211,0,0" Text="Queue" TextWrapping="Wrap" VerticalAlignment="Top" Width="62"/>
+                <TextBlock HorizontalAlignment="Left" Margin="10,12,0,0" Text="In" TextWrapping="Wrap" VerticalAlignment="Top" Width="25"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Circular" Margin="321,0,10,0">
+            <Grid HorizontalAlignment="Left" Width="283">
+                <TextBox x:Name="tbIn2" HorizontalAlignment="Left" Margin="40,10,0,0" Text="100" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <ListBox x:Name="lbOut2" Margin="40,43,0,0" HorizontalAlignment="Left" Width="111" Height="163" VerticalAlignment="Top" ></ListBox>
+                <Button x:Name="btEnqueue2" Content="Enqueue" HorizontalAlignment="Left" Margin="196,10,0,0" VerticalAlignment="Top" Width="75" Click="btEnqueue2_Click"/>
+                <Button x:Name="btDequeue2" Content="Dequeue" HorizontalAlignment="Left" Margin="196,48,0,0" VerticalAlignment="Top" Width="75" Click="btDequeue2_Click"/>
+                <ListBox x:Name="lbStack2" Margin="165,87,0,0" Height="119" VerticalAlignment="Top" HorizontalAlignment="Left" Width="95"/>
+                <TextBlock HorizontalAlignment="Left" Margin="76,211,0,0" Text="Out" TextWrapping="Wrap" VerticalAlignment="Top" Width="62"/>
+                <TextBlock HorizontalAlignment="Left" Margin="189,211,0,0" Text="Queue" TextWrapping="Wrap" VerticalAlignment="Top" Width="62"/>
+                <TextBlock HorizontalAlignment="Left" Margin="10,12,0,0" Text="In" TextWrapping="Wrap" VerticalAlignment="Top" Width="25"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

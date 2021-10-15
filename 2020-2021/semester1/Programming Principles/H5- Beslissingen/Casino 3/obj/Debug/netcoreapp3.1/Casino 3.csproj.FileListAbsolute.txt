@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\bin\Debug\netcoreapp3.1\Casino 3.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\bin\Debug\netcoreapp3.1\Casino 3.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\bin\Debug\netcoreapp3.1\Casino 3.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\bin\Debug\netcoreapp3.1\Casino 3.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\bin\Debug\netcoreapp3.1\Casino 3.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\bin\Debug\netcoreapp3.1\Casino 3.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\obj\Debug\netcoreapp3.1\Casino 3.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\obj\Debug\netcoreapp3.1\Casino 3.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\obj\Debug\netcoreapp3.1\Casino 3.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\obj\Debug\netcoreapp3.1\Casino 3.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\obj\Debug\netcoreapp3.1\Casino 3.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Casino 3\obj\Debug\netcoreapp3.1\Casino 3.genruntimeconfig.cache

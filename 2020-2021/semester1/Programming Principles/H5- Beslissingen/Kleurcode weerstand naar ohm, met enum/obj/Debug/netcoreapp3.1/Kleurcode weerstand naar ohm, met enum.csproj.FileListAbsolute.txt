@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Kleurcode weerstand naar ohm, met enum\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm, met enum.genruntimeconfig.cache

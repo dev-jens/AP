@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\bin\Debug\netcoreapp3.1\tekenen.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\bin\Debug\netcoreapp3.1\tekenen.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\bin\Debug\netcoreapp3.1\tekenen.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\bin\Debug\netcoreapp3.1\tekenen.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\bin\Debug\netcoreapp3.1\tekenen.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\bin\Debug\netcoreapp3.1\tekenen.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\obj\Debug\netcoreapp3.1\tekenen.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\obj\Debug\netcoreapp3.1\tekenen.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\obj\Debug\netcoreapp3.1\tekenen.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\obj\Debug\netcoreapp3.1\tekenen.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\obj\Debug\netcoreapp3.1\tekenen.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\obj\Debug\netcoreapp3.1\tekenen.genruntimeconfig.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\tekenen\obj\Debug\netcoreapp3.1\tekenen.csprojAssemblyReference.cache

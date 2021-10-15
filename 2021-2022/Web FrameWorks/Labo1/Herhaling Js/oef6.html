@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <title>oefeningn 6 </title>
+</head>
+
+<body>
+    <br>
+    <button class="button is-info" id="page1btn"  onclick="Show(1)" disabled>Page1</button>
+    <button class="button is-info" id="page2btn" onclick="Show(2)">Page2</button>
+    <br>
+    <br>
+    <div class="card is-centered" id="page1" style="padding-left: 25%;padding-right: 25%;">
+        <div class="card-image">
+            <figure class="image is-4by3">
+                <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+            </figure>
+        </div>
+        <div class="card-content">
+            <div class="media">
+                <div class="media-left">
+                    <figure class="image is-48x48">
+                        <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <p class="title is-4">John Smith</p>
+                    <p class="subtitle is-6">@johnsmith</p>
+                </div>
+            </div>
+
+            <div class="content">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                <a href="#">#css</a> <a href="#">#responsive</a>
+                <br>
+                <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+        </div>
+    </div>
+    <div class="card is-centered" id="page2" style="padding-left: 25%;padding-right: 25%;" hidden>
+        <div class="card-image">
+            <figure class="image is-4by3">
+                <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+            </figure>
+        </div>
+        <div class="card-content">
+            <div class="media">
+                <div class="media-left">
+                    <figure class="image is-48x48">
+                        <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <p class="title is-4">jensBaeten</p>
+                    <p class="subtitle is-6">@jensBaeten</p>
+                </div>
+            </div>
+
+            <div class="content">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                <a href="#">#css</a> <a href="#">#responsive</a>
+                <br>
+                <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+        </div>
+    </div>
+    <script>
+        function Show(nummer) {
+            if(push = true){
+                history.pushState(nummer,"","?page" + nummer)
+            }
+            //cards
+            if(nummer ==1 ){
+            document.getElementById("page2").setAttribute("hidden","")
+            document.getElementById("page1").removeAttribute("hidden")
+            //buttons
+            document.getElementById("page1btn").setAttribute("disabled","")
+            document.getElementById("page2btn").removeAttribute("disabled")
+        }else if(nummer == 2){
+             //cards
+             document.getElementById("page1").setAttribute("hidden","")
+            document.getElementById("page2").removeAttribute("hidden")
+            //buttons
+            document.getElementById("page1btn").removeAttribute("disabled")
+            document.getElementById("page2btn").setAttribute("disabled","")
+        }
+ 
+        }
+        
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "H5 - BMI met if/1.0.0": {
+        "runtime": {
+          "H5 - BMI met if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H5 - BMI met if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\bin\Debug\netcoreapp3.1\Eigenhuis.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\bin\Debug\netcoreapp3.1\Eigenhuis.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\bin\Debug\netcoreapp3.1\Eigenhuis.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\bin\Debug\netcoreapp3.1\Eigenhuis.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\bin\Debug\netcoreapp3.1\Eigenhuis.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\bin\Debug\netcoreapp3.1\Eigenhuis.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\obj\Debug\netcoreapp3.1\Eigenhuis.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\obj\Debug\netcoreapp3.1\Eigenhuis.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\obj\Debug\netcoreapp3.1\Eigenhuis.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\obj\Debug\netcoreapp3.1\Eigenhuis.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\obj\Debug\netcoreapp3.1\Eigenhuis.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\obj\Debug\netcoreapp3.1\Eigenhuis.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Eigenhuis\obj\Debug\netcoreapp3.1\Eigenhuis.genruntimeconfig.cache

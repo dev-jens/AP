@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+
+<body>
+    <style>
+        table{
+            border: 1px solid black;
+        }
+        .even{
+            background-color: red;
+        }
+        .oneven{
+            background-color: yellow;
+        }
+    </style>
+    <script>
+        const aantalGetallen = 20;
+        const lengteRij = 5;
+        let aantalRijen = Math.ceil(aantalGetallen / lengteRij);
+        let teller = 0;
+
+
+        document.write("<table>");
+        for (let i = 0; i < aantalRijen; i++) {
+            document.write("<tr>")
+            for (let j = 0; j < lengteRij; j++) {
+                teller++;
+
+                if (teller > aantalGetallen) {
+                    break;
+                }
+                if (teller % 2 == 0) {
+                    document.write("<td class=\"even\">")
+
+                } else {
+                    document.write("<td class=\"oneven\">")
+                }
+                document.write(teller)
+
+                document.write("</td>")
+            }
+            document.write("</tr>")
+        }
+        document.write("</table>")
+    </script>
+</body>
+
+</html>

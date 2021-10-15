@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oefening1 Ramdom getal in prompt</title>
+</head>
+<script>
+function getRamdomNum() { 
+    return Math.round(Math.random() * (100 - 50) + 50);
+   
+}
+
+let input = prompt("wilt u een random getal zien (ja/nee)")
+
+while (input == "ja") {
+    let ramGet = getRamdomNum();
+    alert(ramGet)
+    document.writeln(ramGet)
+    
+    input = prompt("wilt u een random getal zien (ja/nee)")
+}
+
+
+</script>
+
+
+<body>
+    
+</body>
+</html>

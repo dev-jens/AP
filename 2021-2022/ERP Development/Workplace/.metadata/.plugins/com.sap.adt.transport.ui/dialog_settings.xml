@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="TransportSelectionComposite">
+		<section name="columnWidths">
+			<item key="Transport Request" value="121"/>
+			<item key="Owner" value="101"/>
+			<item key="Target" value="101"/>
+			<item key="Description" value="282"/>
+			<item key="CTS Project" value="300"/>
+			<item key="Repository Id" value="300"/>
+			<item key="Last Changed" value="201"/>
+		</section>
+		<section name="columnPositions">
+			<item key="Transport Request" value="0"/>
+			<item key="Owner" value="1"/>
+			<item key="Target" value="2"/>
+			<item key="Description" value="3"/>
+			<item key="CTS Project" value="4"/>
+			<item key="Repository Id" value="5"/>
+			<item key="Last Changed" value="6"/>
+		</section>
+	</section>
+</section>

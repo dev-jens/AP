@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\Herexamen\Teller\bin\Debug\netcoreapp3.1\Teller.exe
+C:\Users\baete\Desktop\Herexamen\Teller\bin\Debug\netcoreapp3.1\Teller.deps.json
+C:\Users\baete\Desktop\Herexamen\Teller\bin\Debug\netcoreapp3.1\Teller.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\Teller\bin\Debug\netcoreapp3.1\Teller.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\Teller\bin\Debug\netcoreapp3.1\Teller.dll
+C:\Users\baete\Desktop\Herexamen\Teller\bin\Debug\netcoreapp3.1\Teller.pdb
+C:\Users\baete\Desktop\Herexamen\Teller\obj\Debug\netcoreapp3.1\Teller.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\Teller\obj\Debug\netcoreapp3.1\Teller.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\Teller\obj\Debug\netcoreapp3.1\Teller.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\Teller\obj\Debug\netcoreapp3.1\Teller.dll
+C:\Users\baete\Desktop\Herexamen\Teller\obj\Debug\netcoreapp3.1\Teller.pdb
+C:\Users\baete\Desktop\Herexamen\Teller\obj\Debug\netcoreapp3.1\Teller.genruntimeconfig.cache
+C:\Users\baete\Desktop\Herexamen\Teller\obj\Debug\netcoreapp3.1\Teller.csprojAssemblyReference.cache

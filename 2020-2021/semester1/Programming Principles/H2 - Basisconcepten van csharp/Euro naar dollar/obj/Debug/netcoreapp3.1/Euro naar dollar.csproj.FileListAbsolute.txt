@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\bin\Debug\netcoreapp3.1\Euro naar dollar.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\bin\Debug\netcoreapp3.1\Euro naar dollar.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\bin\Debug\netcoreapp3.1\Euro naar dollar.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\bin\Debug\netcoreapp3.1\Euro naar dollar.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\bin\Debug\netcoreapp3.1\Euro naar dollar.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\bin\Debug\netcoreapp3.1\Euro naar dollar.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\obj\Debug\netcoreapp3.1\Euro naar dollar.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\obj\Debug\netcoreapp3.1\Euro naar dollar.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\obj\Debug\netcoreapp3.1\Euro naar dollar.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\obj\Debug\netcoreapp3.1\Euro naar dollar.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\obj\Debug\netcoreapp3.1\Euro naar dollar.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\obj\Debug\netcoreapp3.1\Euro naar dollar.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Euro naar dollar\obj\Debug\netcoreapp3.1\Euro naar dollar.genruntimeconfig.cache

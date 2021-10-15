@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\bin\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\bin\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\bin\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\bin\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\bin\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\bin\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\obj\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\obj\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\obj\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\obj\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\obj\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\obj\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Gunyher d's grote stemwijzer\obj\Debug\netcoreapp3.1\Gunyher d's grote stemwijzer.genruntimeconfig.cache

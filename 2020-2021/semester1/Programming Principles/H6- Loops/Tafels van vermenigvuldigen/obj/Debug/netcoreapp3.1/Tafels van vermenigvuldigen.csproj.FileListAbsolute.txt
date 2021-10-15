@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.genruntimeconfig.cache

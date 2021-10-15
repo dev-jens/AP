@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let toDoList = ["boodschappen", "kassen"]
+        let teller = 0;
+
+        function addToList() {
+            let item = prompt("add item to list")
+            toDoList.push(item)
+        }
+
+        function deleteFirstElement() {
+            toDoList.shift()
+
+        }
+
+        function PriotizeElement() {
+            let copy = toDoList[0]
+            toDoList[0] = prompt("prio")
+            toDoList[toDoList.length] = copy
+        }
+
+        function PrintArray(list) {
+            for (let i = 0; i < list.length; i++) {
+                document.write(`${list[i]}, `);
+            }
+        }
+
+        while (teller != 3) {
+
+            switch (teller) {
+                case 0:
+                    addToList()
+                    PrintArray(toDoList)
+                    document.write("<br>")
+                    break;
+                case 1:
+                    deleteFirstElement();
+                    PrintArray(toDoList);
+                    document.write("<br>")
+                    break;
+                case 2:
+                    PriotizeElement();
+                    PrintArray(toDoList);
+                    document.write("<br>")
+                    break;
+
+                default:
+                    break;
+
+            }
+
+            
+            teller++
+
+        }
+    </script>
+</body>
+
+</html>

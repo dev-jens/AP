@@ -1,0 +1,21 @@
+﻿<Window x:Class="Stack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stack"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="320" Width="434">
+    <Grid>
+        <GroupBox Header="Stack" HorizontalAlignment="Left" Height="212" Margin="27,22,0,0" VerticalAlignment="Top" Width="333">
+            <Grid>
+                <TextBox x:Name="tbInputStack" HorizontalAlignment="Left" Margin="16,21,0,137" Text="" TextWrapping="Wrap" Width="120" TextChanged="tbInputStack_TextChanged"/>
+                <Button x:Name="btPush" Content="Push" Height="31" VerticalAlignment="Top" Margin="173,21,34,0" Click="btPush_Click" />
+                <Button x:Name="btPop" Content="Pop" Height="31" VerticalAlignment="Top" Margin="173,74,0,0" HorizontalAlignment="Left" Width="114" Click="btPop_Click" />
+                <ListBox x:Name="lbOutputStack" Margin="16,74,161,24"/>
+            </Grid>
+
+        </GroupBox>
+
+    </Grid>
+</Window>

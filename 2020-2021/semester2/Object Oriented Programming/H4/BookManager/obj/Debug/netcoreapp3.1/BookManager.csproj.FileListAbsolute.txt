@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\obj\Debug\netcoreapp3.1\BookManager.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\obj\Debug\netcoreapp3.1\BookManager.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\obj\Debug\netcoreapp3.1\BookManager.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\obj\Debug\netcoreapp3.1\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\bin\Debug\netcoreapp3.1\BookManager.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\bin\Debug\netcoreapp3.1\BookManager.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\bin\Debug\netcoreapp3.1\BookManager.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\bin\Debug\netcoreapp3.1\BookManager.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\bin\Debug\netcoreapp3.1\BookManager.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\bin\Debug\netcoreapp3.1\BookManager.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\obj\Debug\netcoreapp3.1\BookManager.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\obj\Debug\netcoreapp3.1\BookManager.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H4\BookManager\obj\Debug\netcoreapp3.1\BookManager.genruntimeconfig.cache

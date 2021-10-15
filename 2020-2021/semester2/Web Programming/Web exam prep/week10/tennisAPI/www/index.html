@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+
+        document.addEventListener("DOMContentLoaded",()=>{
+            
+           // LoadDataWithXMLHttpRequest()
+          
+        })
+
+        function LoadDataWithXMLHttpRequest(){
+
+            let request = new XMLHttpRequest()
+            request.open("GET","http://localhost:3000/spelers")            
+            request.onload = ()=>{
+                let response = request.response
+                let parsedData = JSON.parse(response)
+               // console.log(response)
+                console.log(parsedData)
+                const table = document.querySelector("table")
+                parsedData.forEach((item)=>{
+                   
+                    const tr = document.createElement("tr")
+                    const tdNaam = document.createElement("td")
+                    tdNaam.appendChild(document.createTextNode(item.NAAM))
+                    tr.appendChild(tdNaam)
+                    const tdPlaats = document.createElement("td")
+                    tdPlaats.appendChild(document.createTextNode(item.PLAATS))
+                    tr.appendChild(tdPlaats)
+                    table.appendChild(tr)                                       
+                });
+            }
+            request.send()
+        }
+
+        function PostDataWithXMLHttpRequest(){
+        
+            const request = new XMLHttpRequest()
+            request.open("POST","http://localhost:3000/teams")
+            request.onload = ()=>{
+                let response = request.response
+                let parsedData = JSON.parse(response)
+                console.log(response)
+                console.log(parsedData)
+            }
+            const newTeam = {teamnr:10,spelersnr:6,divisie:"test"}            
+            console.log(newTeam)
+            request.setRequestHeader("content-type","application/json")
+            request.send(JSON.stringify(newTeam))        
+        }
+
+        function UpdateDataWithXMLHttpRequest(){
+        
+        const request = new XMLHttpRequest()
+        request.open("PUT","http://localhost:3000/teams/10")
+        request.onload = ()=>{
+            let response = request.response
+            let parsedData = JSON.parse(response)
+            console.log(response)
+            console.log(parsedData)
+        }
+        const newTeam = {teamnr:10,spelersnr:6,divisie:"test123"}            
+        console.log(newTeam)
+        request.setRequestHeader("content-type","application/json")
+        request.send(JSON.stringify(newTeam))        
+    }
+    </script>
+</head>
+<body>
+    <h1>Tennis</h1>
+    <input type="button" value="get data" onclick="LoadDataWithXMLHttpRequest()">
+    <input type="button" value="post data" onclick="PostDataWithXMLHttpRequest()">
+    <input type="button" value="update data" onclick="UpdateDataWithXMLHttpRequest()">
+    <table border="1">
+
+    </table>
+</body>
+</html>

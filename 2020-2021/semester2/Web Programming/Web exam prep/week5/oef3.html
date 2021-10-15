@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let teller = -1;
+        function change() {
+
+        teller++;
+        if(teller > 3){
+          teller = 1;
+        }
+        for (let i = 1; i < 4; i++) {
+            let idToGet = "div"+i
+            let element = document.getElementById(idToGet);
+
+          if(element.style.backgroundColor == "yellow")
+          {
+            element.style.backgroundColor = "";
+          }
+          if(teller == i)
+          {
+            element.style.backgroundColor = "yellow";
+          }
+        }
+
+
+
+        }
+
+    </script>
+
+    <div id="div1">1</div>
+    <div id="div2">2</div>
+    <div id="div3">3</div>
+    <br>
+    <button onclick="change()">butoon</button>
+</body>
+</html>

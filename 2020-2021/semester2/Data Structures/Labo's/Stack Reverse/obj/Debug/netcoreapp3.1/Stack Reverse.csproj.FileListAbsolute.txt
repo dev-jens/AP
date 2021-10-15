@@ -1,0 +1,19 @@
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\bin\Debug\netcoreapp3.1\Stack Reverse.exe
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\bin\Debug\netcoreapp3.1\Stack Reverse.deps.json
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\bin\Debug\netcoreapp3.1\Stack Reverse.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\bin\Debug\netcoreapp3.1\Stack Reverse.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\bin\Debug\netcoreapp3.1\Stack Reverse.dll
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\bin\Debug\netcoreapp3.1\Stack Reverse.pdb
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse_MarkupCompile.cache
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse_MarkupCompile.lref
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.g.resources
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.dll
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.pdb
+C:\Users\baete\Desktop\Herexamen\Stack Reverse\obj\Debug\netcoreapp3.1\Stack Reverse.genruntimeconfig.cache

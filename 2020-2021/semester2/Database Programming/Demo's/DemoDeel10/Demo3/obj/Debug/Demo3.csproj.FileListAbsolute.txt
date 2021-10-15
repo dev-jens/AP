@@ -1,0 +1,12 @@
+D:\Temp\AP\DemoDeel10\Demo3\bin\Debug\Demo3.exe
+D:\Temp\AP\DemoDeel10\Demo3\bin\Debug\Demo3.pdb
+D:\Temp\AP\DemoDeel10\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+D:\Temp\AP\DemoDeel10\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+D:\Temp\AP\DemoDeel10\Demo3\obj\Debug\Demo3.exe
+D:\Temp\AP\DemoDeel10\Demo3\obj\Debug\Demo3.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\DemoDeel10\Demo3\bin\Debug\Demo3.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\DemoDeel10\Demo3\bin\Debug\Demo3.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\DemoDeel10\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\DemoDeel10\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\DemoDeel10\Demo3\obj\Debug\Demo3.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\DemoDeel10\Demo3\obj\Debug\Demo3.pdb

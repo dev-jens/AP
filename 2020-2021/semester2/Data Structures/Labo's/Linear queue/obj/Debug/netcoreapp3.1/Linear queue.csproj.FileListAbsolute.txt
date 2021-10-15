@@ -1,0 +1,19 @@
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue_MarkupCompile.cache
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue_MarkupCompile.lref
+C:\Users\baete\Desktop\Herexamen\Linear queue\bin\Debug\netcoreapp3.1\Linear queue.exe
+C:\Users\baete\Desktop\Herexamen\Linear queue\bin\Debug\netcoreapp3.1\Linear queue.deps.json
+C:\Users\baete\Desktop\Herexamen\Linear queue\bin\Debug\netcoreapp3.1\Linear queue.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\Linear queue\bin\Debug\netcoreapp3.1\Linear queue.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\Linear queue\bin\Debug\netcoreapp3.1\Linear queue.dll
+C:\Users\baete\Desktop\Herexamen\Linear queue\bin\Debug\netcoreapp3.1\Linear queue.pdb
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.g.resources
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.dll
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.pdb
+C:\Users\baete\Desktop\Herexamen\Linear queue\obj\Debug\netcoreapp3.1\Linear queue.genruntimeconfig.cache

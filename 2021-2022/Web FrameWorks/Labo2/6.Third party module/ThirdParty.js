@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var Math = require("mathjs");
+console.log(Math.sqrt(100));
+var num = Math.unit("15 cm");
+var num2 = Math.unit("50 inch");
+console.log('------------------------------');
+console.log(num.to('inch').toString());
+console.log('------------------------------');
+console.log(num2.to('cm').toString());

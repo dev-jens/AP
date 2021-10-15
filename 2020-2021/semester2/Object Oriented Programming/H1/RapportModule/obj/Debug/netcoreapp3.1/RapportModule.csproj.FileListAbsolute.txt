@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\bin\Debug\netcoreapp3.1\RapportModule.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\bin\Debug\netcoreapp3.1\RapportModule.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\bin\Debug\netcoreapp3.1\RapportModule.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\bin\Debug\netcoreapp3.1\RapportModule.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\bin\Debug\netcoreapp3.1\RapportModule.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\bin\Debug\netcoreapp3.1\RapportModule.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\obj\Debug\netcoreapp3.1\RapportModule.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\obj\Debug\netcoreapp3.1\RapportModule.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\obj\Debug\netcoreapp3.1\RapportModule.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\obj\Debug\netcoreapp3.1\RapportModule.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\obj\Debug\netcoreapp3.1\RapportModule.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\H1\RapportModule\obj\Debug\netcoreapp3.1\RapportModule.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructures_2 (1)\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\baete\Downloads\ExamenDatastructuresOplossing\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

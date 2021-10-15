@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>RandomCompany</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"
+    />
+    <style>
+      html,
+      body,
+      #app {
+        height: 100%;
+      }
+
+      #app {
+        min-height: 100%;
+      }
+
+      .footer {
+        margin-top: -12px;
+        background-color: #3c3744;
+        color: #e9e9e9;
+        font-size: 16px;
+        line-height: 22px;
+      }
+
+      .footer strong {
+        color: #e9e9e9;
+        display: block;
+        font-weight: 600;
+        margin-bottom: 12px;
+      }
+
+      .footer a {
+        color: #e9e9e9;
+      }
+    </style>
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  </head>
+  <body>
+    <app-navbar></app-navbar>
+    <section class="main-content columns is-gapless">
+     <app-menu></app-menu>
+
+      <main class="p-5" style="width: 100%">
+        <div class="tile is-ancestor">
+          <div class="tile is-vertical is-8">
+            <div class="tile">
+              <div class="tile is-parent is-vertical">
+                <article class="tile is-child notification is-primary">
+                  <p class="title">Fun Fact</p>
+                  <p class="subtitle">
+                    The original name for the search engine Google was Backrub.
+                    It was renamed Google after the googol, which is the number
+                    one followed by 100 zeros.
+                  </p>
+                </article>
+                <article class="tile is-child notification is-warning">
+                  <p class="title">Drinks</p>
+                  <p class="subtitle">Alcohol</p>
+                  Gin
+                  <progress class="progress" value="35" max="100">35%</progress>
+                  Tequila
+                  <progress class="progress" value="50" max="100">50%</progress>
+                  Beer
+                  <progress class="progress" value="5" max="100">5%</progress>
+                </article>
+              </div>
+              <div class="tile is-parent">
+                <div class="card">
+                  <div class="card-image">
+                    <figure class="image is-4by3">
+                      <img
+                        src="https://m.media-amazon.com/images/M/MV5BZjUyOTJlZmMtMzVkNS00MTNkLTk5ZTAtOTEzNWMwNmNiY2MyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+                        alt="Placeholder image"
+                        style="height: 100%; width: 100%; object-fit: cover"
+                      />
+                    </figure>
+                  </div>
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-48x48">
+                          <img
+                            src="https://pbs.twimg.com/profile_images/3092373536/e098e6697407e50cca45d4e52a13de0e.jpeg"
+                            alt="Placeholder image"
+                          />
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Dr. John A. Zoidberg</p>
+                        <p class="subtitle is-6">@zoidbergj</p>
+                      </div>
+                    </div>
+
+                    <div class="content">
+                      I Don't Like The Look Of This Doctor... I Bet I've Lost
+                      More Patients Than He's Treated
+                      <a>@drhouse</a>.
+                      <br />
+                      <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <app-contact-form></app-contact-form>
+            
+          </div>
+          <div class="tile is-parent">
+            <article class="message">
+              <div class="message-header">
+                <p>Gin</p>
+                <button class="delete" aria-label="delete"></button>
+              </div>
+              <div class="message-body">
+                <p class="mb-3">
+                  Gin /ˈdʒɪn/ is a distilled alcoholic drink that derives its
+                  predominant flavour from juniper berries (Juniperus
+                  communis).[1][2]
+                </p>
+
+                <p class="mb-3">
+                  Gin originated as a medicinal liquor made by monks and
+                  alchemists across Europe, particularly in southern France,
+                  Flanders and the Netherlands, to provide aqua vita from
+                  distillates of grapes and grains. It then became an object of
+                  commerce in the spirits industry. Gin emerged in England after
+                  the introduction of the jenever, a Dutch and Belgian liquor
+                  that was originally a medicine. Although this development had
+                  been taking place since the early 17th century, gin became
+                  widespread after the William of Orange-led 1688 Glorious
+                  Revolution and subsequent import restrictions on French
+                  brandy.
+                </p>
+                <p class="mb-3">
+                  Gin today is produced in different ways from a wide range of
+                  herbal ingredients, giving rise to a number of distinct styles
+                  and brands. After juniper, gin tends to be flavoured with
+                  botanical/herbal, spice, floral or fruit flavours or often a
+                  combination. It is commonly consumed mixed with tonic water in
+                  a gin and tonic. Gin is also often used as a base spirit to
+                  produce flavoured, gin-based liqueurs, for example sloe gin,
+                  traditionally produced by the addition of fruit, flavourings
+                  and sugar.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </main>
+    </section>
+    <app-footer></app-footer>
+  </body>
+</html>

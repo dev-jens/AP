@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\bin\Debug\netcoreapp3.1\Geometrische Figuren.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\bin\Debug\netcoreapp3.1\Geometrische Figuren.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\bin\Debug\netcoreapp3.1\Geometrische Figuren.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\bin\Debug\netcoreapp3.1\Geometrische Figuren.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\bin\Debug\netcoreapp3.1\Geometrische Figuren.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\bin\Debug\netcoreapp3.1\Geometrische Figuren.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\obj\Debug\netcoreapp3.1\Geometrische Figuren.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\obj\Debug\netcoreapp3.1\Geometrische Figuren.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\obj\Debug\netcoreapp3.1\Geometrische Figuren.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\obj\Debug\netcoreapp3.1\Geometrische Figuren.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\obj\Debug\netcoreapp3.1\Geometrische Figuren.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\obj\Debug\netcoreapp3.1\Geometrische Figuren.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H6\Geometrische Figuren\obj\Debug\netcoreapp3.1\Geometrische Figuren.genruntimeconfig.cache

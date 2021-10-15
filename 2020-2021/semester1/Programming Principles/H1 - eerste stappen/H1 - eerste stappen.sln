@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening1 - rommel zin", "Oefening1 - rommel zin\Oefening1 - rommel zin.csproj", "{4267E284-9330-425C-B21B-2A791B014A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oefening2 kleuren veranderen", "Kleuren veranderen\oefening2 kleuren veranderen.csproj", "{02FD3128-B88D-4CE1-8933-C59247AAF4CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oefening3 Visitekaart", "oefening3 Visitekaart\oefening3 Visitekaart.csproj", "{56C61A98-3C97-4D2E-8EB0-C36C811C45CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4267E284-9330-425C-B21B-2A791B014A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4267E284-9330-425C-B21B-2A791B014A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4267E284-9330-425C-B21B-2A791B014A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4267E284-9330-425C-B21B-2A791B014A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FD3128-B88D-4CE1-8933-C59247AAF4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FD3128-B88D-4CE1-8933-C59247AAF4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FD3128-B88D-4CE1-8933-C59247AAF4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FD3128-B88D-4CE1-8933-C59247AAF4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C61A98-3C97-4D2E-8EB0-C36C811C45CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C61A98-3C97-4D2E-8EB0-C36C811C45CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C61A98-3C97-4D2E-8EB0-C36C811C45CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C61A98-3C97-4D2E-8EB0-C36C811C45CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEFC5EC9-1501-4EF6-808F-141FCDA5AC42}
+	EndGlobalSection
+EndGlobal

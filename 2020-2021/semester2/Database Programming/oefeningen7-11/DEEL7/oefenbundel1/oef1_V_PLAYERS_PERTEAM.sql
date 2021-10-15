@@ -1,0 +1,19 @@
+CREATE OR ALTER VIEW [dbo].[V_PLAYERS_PERTEAM]
+AS
+SELECT
+	[T].TEAMNR,
+	(
+		SELECT
+			COUNT(DISTINCT [SPELERSNR])
+		FROM
+			dbo.WEDSTRIJDEN W
+		WHERE
+			W.TEAMNR = t.TEAMNR
+	) as gamesplayed
+FROM	
+	[dbo].TEAMS [t]
+
+go
+
+select * FROM [dbo].[V_PLAYERS_PERTEAM]
+GO

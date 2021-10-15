@@ -1,0 +1,9 @@
+D:\Temp\AP\DemoDeel10\Demo2\bin\Debug\Demo2.exe
+D:\Temp\AP\DemoDeel10\Demo2\bin\Debug\Demo2.pdb
+D:\Temp\AP\DemoDeel10\Demo2\obj\Debug\Demo2.csprojAssemblyReference.cache
+D:\Temp\AP\DemoDeel10\Demo2\obj\Debug\Demo2.Form1.resources
+D:\Temp\AP\DemoDeel10\Demo2\obj\Debug\Demo2.Properties.Resources.resources
+D:\Temp\AP\DemoDeel10\Demo2\obj\Debug\Demo2.csproj.GenerateResource.cache
+D:\Temp\AP\DemoDeel10\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+D:\Temp\AP\DemoDeel10\Demo2\obj\Debug\Demo2.exe
+D:\Temp\AP\DemoDeel10\Demo2\obj\Debug\Demo2.pdb

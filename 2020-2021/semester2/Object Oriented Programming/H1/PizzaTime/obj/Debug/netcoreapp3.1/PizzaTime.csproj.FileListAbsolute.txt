@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.genruntimeconfig.cache

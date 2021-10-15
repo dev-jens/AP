@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        function change() {
+
+            let div = document.getElementById("div")
+
+            if (div.style.backgroundColor == "yellow") {
+                div.style.backgroundColor = "white";
+            } else {
+                div.style.backgroundColor = "yellow"
+            }
+
+        }
+    </script>
+
+    <div id="div">1</div>
+    <button onclick="change()">verander</button>
+</body>
+
+</html>

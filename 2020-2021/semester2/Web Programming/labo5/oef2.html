@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ollema</title>
+</head>
+<body>
+    <script>
+        document.addEventListener("DOMContentLoaded",(event)=>{
+            document.getElementById("sumbit").addEventListener("click",(event)=>{
+                console.log("klik")
+                let text = document.getElementById("text")
+                let input = document.getElementById("input")
+
+                text.innerHTML = input.value
+            })
+        })
+    </script>
+
+    
+
+    <div>
+        <p id="text" type="text"></p>
+        <br>
+        <input  id="input" type="text"></input>
+        <button id="sumbit" type="button">sumbiteruuuuuuuu</button>
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\bin\Debug\netcoreapp3.1\De opwarmers.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\bin\Debug\netcoreapp3.1\De opwarmers.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\bin\Debug\netcoreapp3.1\De opwarmers.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\bin\Debug\netcoreapp3.1\De opwarmers.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\bin\Debug\netcoreapp3.1\De opwarmers.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\bin\Debug\netcoreapp3.1\De opwarmers.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\obj\Debug\netcoreapp3.1\De opwarmers.csprojAssemblyReference.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\obj\Debug\netcoreapp3.1\De opwarmers.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\obj\Debug\netcoreapp3.1\De opwarmers.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\obj\Debug\netcoreapp3.1\De opwarmers.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\obj\Debug\netcoreapp3.1\De opwarmers.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\obj\Debug\netcoreapp3.1\De opwarmers.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\De opwarmers\obj\Debug\netcoreapp3.1\De opwarmers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\bin\Debug\netcoreapp3.1\FinalSesh_Generics.exe
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\bin\Debug\netcoreapp3.1\FinalSesh_Generics.deps.json
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\bin\Debug\netcoreapp3.1\FinalSesh_Generics.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\bin\Debug\netcoreapp3.1\FinalSesh_Generics.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\bin\Debug\netcoreapp3.1\FinalSesh_Generics.dll
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\bin\Debug\netcoreapp3.1\FinalSesh_Generics.pdb
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\obj\Debug\netcoreapp3.1\FinalSesh_Generics.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\obj\Debug\netcoreapp3.1\FinalSesh_Generics.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\obj\Debug\netcoreapp3.1\FinalSesh_Generics.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\obj\Debug\netcoreapp3.1\FinalSesh_Generics.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\obj\Debug\netcoreapp3.1\FinalSesh_Generics.dll
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\obj\Debug\netcoreapp3.1\FinalSesh_Generics.pdb
+C:\Users\baete\Desktop\Herexamen\FinalSesh_Generics\obj\Debug\netcoreapp3.1\FinalSesh_Generics.genruntimeconfig.cache

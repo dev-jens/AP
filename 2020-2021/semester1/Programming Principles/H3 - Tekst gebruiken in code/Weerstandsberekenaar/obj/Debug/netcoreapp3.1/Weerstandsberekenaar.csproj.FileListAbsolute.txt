@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\bin\Debug\netcoreapp3.1\Weerstandsberekenaar.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\bin\Debug\netcoreapp3.1\Weerstandsberekenaar.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\bin\Debug\netcoreapp3.1\Weerstandsberekenaar.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\bin\Debug\netcoreapp3.1\Weerstandsberekenaar.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\bin\Debug\netcoreapp3.1\Weerstandsberekenaar.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\bin\Debug\netcoreapp3.1\Weerstandsberekenaar.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\obj\Debug\netcoreapp3.1\Weerstandsberekenaar.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\obj\Debug\netcoreapp3.1\Weerstandsberekenaar.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\obj\Debug\netcoreapp3.1\Weerstandsberekenaar.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\obj\Debug\netcoreapp3.1\Weerstandsberekenaar.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\obj\Debug\netcoreapp3.1\Weerstandsberekenaar.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\obj\Debug\netcoreapp3.1\Weerstandsberekenaar.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H3 - Tekst gebruiken in code\Weerstandsberekenaar\obj\Debug\netcoreapp3.1\Weerstandsberekenaar.genruntimeconfig.cache

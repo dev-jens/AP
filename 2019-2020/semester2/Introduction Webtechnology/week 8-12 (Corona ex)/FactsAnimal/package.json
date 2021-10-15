@@ -1,0 +1,29 @@
+{
+  "name": "animalfacts",
+  "version": "1.0.0",
+  "description": "Allowing animal facts to be retrieved via proxy",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/APWebtechnology/animalfacts.git"
+  },
+  "keywords": [
+    "animal",
+    "facts",
+    "proxy",
+    "cors"
+  ],
+  "author": "Nicolas Goris <nicolas.goris@ap.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/APWebtechnology/animalfacts/issues"
+  },
+  "homepage": "https://github.com/APWebtechnology/animalfacts#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0"
+  }
+}

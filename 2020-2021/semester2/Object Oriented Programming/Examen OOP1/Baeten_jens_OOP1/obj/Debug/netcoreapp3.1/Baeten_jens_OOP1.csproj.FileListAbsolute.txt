@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\bin\Debug\netcoreapp3.1\Baeten_jens_OOP1.exe
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\bin\Debug\netcoreapp3.1\Baeten_jens_OOP1.deps.json
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\bin\Debug\netcoreapp3.1\Baeten_jens_OOP1.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\bin\Debug\netcoreapp3.1\Baeten_jens_OOP1.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\bin\Debug\netcoreapp3.1\Baeten_jens_OOP1.dll
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\bin\Debug\netcoreapp3.1\Baeten_jens_OOP1.pdb
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\obj\Debug\netcoreapp3.1\Baeten_jens_OOP1.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\obj\Debug\netcoreapp3.1\Baeten_jens_OOP1.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\obj\Debug\netcoreapp3.1\Baeten_jens_OOP1.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\obj\Debug\netcoreapp3.1\Baeten_jens_OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\obj\Debug\netcoreapp3.1\Baeten_jens_OOP1.dll
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\obj\Debug\netcoreapp3.1\Baeten_jens_OOP1.pdb
+C:\Users\Eigenaar\Desktop\Baeten_jens_OOP1\Baeten_jens_OOP1\obj\Debug\netcoreapp3.1\Baeten_jens_OOP1.genruntimeconfig.cache

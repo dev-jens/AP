@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        document.addEventListener("DOMContentLoaded",(arg)=>{
+
+            document.querySelector("#laatste").addEventListener("click",(arg)=>{
+
+                let request = new XMLHttpRequest()
+                request.open("GET","http://localhost:3000/laatstewaarde")
+
+                request.onload = ()=>{
+
+                    console.log(request.response)
+                    document.querySelector("h1").innerHTML = request.response
+                }
+
+               
+                request.send()
+            })
+          
+
+            document.querySelector("#double").addEventListener("click",(arg)=>{
+                console.log("klik")
+                let request = new XMLHttpRequest()
+                request.open("POST","http://localhost:3000/dubbel")
+
+                request.onload = ()=>{
+
+                    let getal = JSON.parse(request.response)
+                    console.log(getal)
+                    document.querySelector("#value").value = getal.getal
+                }
+
+                let data = document.querySelector("#value").value
+                const getal = {
+                    "value":data
+                }
+                console.log(getal)
+                request.setRequestHeader("content-type","application/json")
+                request.send(JSON.stringify(getal))
+            })
+
+    
+        })
+    </script>
+</head>
+<body>
+    
+<form>
+  <input id="value" name="value" type="text" value="1"/>
+  <input id="double" name="submit" type="button" value="Dubbel"/>
+</form>
+
+<input type="button" id="laatste" value="Toon Laatste waarde"/>
+<h1></h1>
+</body>
+</html>

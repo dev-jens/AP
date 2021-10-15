@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\bin\Debug\netcoreapp3.1\H4 vierkant.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\bin\Debug\netcoreapp3.1\H4 vierkant.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\bin\Debug\netcoreapp3.1\H4 vierkant.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\bin\Debug\netcoreapp3.1\H4 vierkant.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\bin\Debug\netcoreapp3.1\H4 vierkant.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\bin\Debug\netcoreapp3.1\H4 vierkant.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\obj\Debug\netcoreapp3.1\H4 vierkant.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\obj\Debug\netcoreapp3.1\H4 vierkant.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\obj\Debug\netcoreapp3.1\H4 vierkant.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\obj\Debug\netcoreapp3.1\H4 vierkant.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\obj\Debug\netcoreapp3.1\H4 vierkant.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\obj\Debug\netcoreapp3.1\H4 vierkant.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\H4 vierkant\obj\Debug\netcoreapp3.1\H4 vierkant.genruntimeconfig.cache

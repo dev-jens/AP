@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Baeten_Jens_OOP2/1.0.0": {
+        "runtime": {
+          "Baeten_Jens_OOP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Baeten_Jens_OOP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

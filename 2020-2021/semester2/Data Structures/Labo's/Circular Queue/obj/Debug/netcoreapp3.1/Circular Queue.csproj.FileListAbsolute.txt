@@ -1,0 +1,19 @@
+C:\Users\baete\Desktop\Herexamen\Circular Queue\bin\Debug\netcoreapp3.1\Circular Queue.exe
+C:\Users\baete\Desktop\Herexamen\Circular Queue\bin\Debug\netcoreapp3.1\Circular Queue.deps.json
+C:\Users\baete\Desktop\Herexamen\Circular Queue\bin\Debug\netcoreapp3.1\Circular Queue.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\Circular Queue\bin\Debug\netcoreapp3.1\Circular Queue.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\Circular Queue\bin\Debug\netcoreapp3.1\Circular Queue.dll
+C:\Users\baete\Desktop\Herexamen\Circular Queue\bin\Debug\netcoreapp3.1\Circular Queue.pdb
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue_MarkupCompile.cache
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue_MarkupCompile.lref
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.g.resources
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.dll
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.pdb
+C:\Users\baete\Desktop\Herexamen\Circular Queue\obj\Debug\netcoreapp3.1\Circular Queue.genruntimeconfig.cache

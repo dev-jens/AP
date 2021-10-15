@@ -1,0 +1,8 @@
+@AbapCatalog.sqlViewName: 'ZSD040SPFLI'
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'Interface view Flights Schedule'
+define view ZSD_040_SPFLI as select from data_source_name {
+    
+}

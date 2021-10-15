@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "oefening2 kleuren veranderen/1.0.0": {
+        "runtime": {
+          "oefening2 kleuren veranderen.dll": {}
+        }
+      },
+      "Oefening1 - rommel zin/1.0.0": {
+        "runtime": {
+          "Oefening1 - rommel zin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oefening2 kleuren veranderen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oefening1 - rommel zin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

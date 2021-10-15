@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\bin\Debug\netcoreapp3.1\Het Orakel van Delphi.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\bin\Debug\netcoreapp3.1\Het Orakel van Delphi.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\bin\Debug\netcoreapp3.1\Het Orakel van Delphi.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\bin\Debug\netcoreapp3.1\Het Orakel van Delphi.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\bin\Debug\netcoreapp3.1\Het Orakel van Delphi.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\bin\Debug\netcoreapp3.1\Het Orakel van Delphi.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\obj\Debug\netcoreapp3.1\Het Orakel van Delphi.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\obj\Debug\netcoreapp3.1\Het Orakel van Delphi.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\obj\Debug\netcoreapp3.1\Het Orakel van Delphi.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\obj\Debug\netcoreapp3.1\Het Orakel van Delphi.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\obj\Debug\netcoreapp3.1\Het Orakel van Delphi.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\Het Orakel van Delphi\obj\Debug\netcoreapp3.1\Het Orakel van Delphi.genruntimeconfig.cache

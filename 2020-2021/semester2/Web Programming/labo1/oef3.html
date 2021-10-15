@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tekst_AdventureGame</title>
+</head>
+<body>
+    <script>
+
+        function GetRamdomNumber(min, max) {
+            return Math.random() * (max - min) + min;
+        }
+
+        let wapen =  prompt("Choose a Waepon: 1:Bow, 2:battle axe, 3:katana, 4: plumbus"); 
+        let dmg = 0; 
+        let hitPoints = GetRamdomNumber(0,100);
+        console.log(wapen)
+        switch (wapen) {
+            case "1":
+                document.write("You choose the bow and arrow <br>");
+                dmg = 30;
+
+                if(hitPoints < dmg)   
+                    document.write("BOOM HEADSHOT <br> WINNER !!!");
+                    
+                else
+                    document.write("WHERE ARE YOU AIMING AT <br> LOSER !!! ");
+
+                break;
+            case "2":
+                document.write("You choose the battle axe <br>");
+                dmg = 70;
+                
+                if(hitPoints < dmg)   
+                    document.write("SWING hit <br> WINNER !!! <br>");
+                    
+                else
+                    document.write(" Hit or Miss i Guess you missed huh? <br> LOSER !!! ");
+
+                break;
+                break;
+            case "3":
+                document.write("You choose the katana <br>");
+                dmg = 55;
+
+                if(hitPoints < dmg)   
+                    document.write("SHING SHING <br> WINNER !!!");
+                    
+                else
+                    document.write("Teemo blind dart hit <br> LOSER !!! ");
+
+                break;
+                break;
+            case "4":
+                document.write("You choose the Plumbus <br>");
+                dmg = 90;
+
+                if(hitPoints < dmg)   
+                    document.write("You are Mr. Poopy butthole ricks save the day <br> WINNER !!!");
+                    
+                else
+                    document.write("You are morty and rick doesn't give a shit about you <br> LOSER !!!");
+                
+                break;
+            default:
+                document.write("Something went wrong");
+                break;
+        }
+        
+      
+
+
+    </script>
+</body>
+</html>

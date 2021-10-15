@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\bin\Debug\netcoreapp3.1\Ohm berekenaar.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\bin\Debug\netcoreapp3.1\Ohm berekenaar.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\bin\Debug\netcoreapp3.1\Ohm berekenaar.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\bin\Debug\netcoreapp3.1\Ohm berekenaar.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\bin\Debug\netcoreapp3.1\Ohm berekenaar.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\bin\Debug\netcoreapp3.1\Ohm berekenaar.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\obj\Debug\netcoreapp3.1\Ohm berekenaar.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\obj\Debug\netcoreapp3.1\Ohm berekenaar.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\obj\Debug\netcoreapp3.1\Ohm berekenaar.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\obj\Debug\netcoreapp3.1\Ohm berekenaar.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\obj\Debug\netcoreapp3.1\Ohm berekenaar.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\obj\Debug\netcoreapp3.1\Ohm berekenaar.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Ohm berekenaar\obj\Debug\netcoreapp3.1\Ohm berekenaar.genruntimeconfig.cache

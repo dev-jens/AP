@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\bin\Debug\netcoreapp3.1\Tafels.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\bin\Debug\netcoreapp3.1\Tafels.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\bin\Debug\netcoreapp3.1\Tafels.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\bin\Debug\netcoreapp3.1\Tafels.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\bin\Debug\netcoreapp3.1\Tafels.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\bin\Debug\netcoreapp3.1\Tafels.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\obj\Debug\netcoreapp3.1\Tafels.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\obj\Debug\netcoreapp3.1\Tafels.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\obj\Debug\netcoreapp3.1\Tafels.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\obj\Debug\netcoreapp3.1\Tafels.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\obj\Debug\netcoreapp3.1\Tafels.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\obj\Debug\netcoreapp3.1\Tafels.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H2 - Basisconcepten van csharp\Tafels\obj\Debug\netcoreapp3.1\Tafels.genruntimeconfig.cache

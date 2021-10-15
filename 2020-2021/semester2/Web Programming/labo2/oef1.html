@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>print woord met een keuze</title>
+</head>
+
+<body>
+    <script>
+
+        function print(printFunction) {
+            const value = prompt("geef een woord in");
+            printFunction(value);
+        }
+
+        function sendAlert(woord) {
+            alert(woord);
+        }
+
+        function sendConsoleLog(woord) {
+            console.log(woord)
+        }
+
+        print(sendConsoleLog);
+
+
+
+
+
+
+
+
+
+
+        /*
+            function print() {
+                const value = prompt("geef een woord in");
+                let printType = prompt("geef een getal 1:alert, 2:Console log")      
+                switch (printType) {
+                    case "1":
+                        sendAlert(value)
+                        break;
+                    case "2":
+                        sendConsoleLog(value);
+                        break
+                    default:
+                        alert("foute input gegeven")
+                        break;
+                }      
+            }
+
+            function sendAlert(value){
+                alert(value);
+            }
+            function sendConsoleLog(value){
+                console.log(value)
+            }
+           
+            print()
+            */
+    </script>
+</body>
+
+</html>

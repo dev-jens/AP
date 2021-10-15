@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [MS_Description] (Extended Property)
+       [PRIMARY].[MS_Description] (Extended Property)
+     Create
+       [Oefening5] (Assembly)
+       [dbo].[GetAdressTypes] (Procedure)
+       [dbo].[PriceSum] (Procedure)
+
+** Supporting actions

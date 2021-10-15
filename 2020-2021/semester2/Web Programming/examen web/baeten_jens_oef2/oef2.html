@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    canvas {
+      border: 1px solid black;
+    }
+</style>
+<body>
+    <canvas id="canvas" width="500" height="500"></canvas>
+    <button onclick="links()" type="button" value="linksbtn">links </button>
+    <br>
+    <button onclick="rechts()" type="button" value="rechtsbtn">rechts </button>
+    
+    <script>
+        class vierkant{
+            constructor(x,y,snelheid, lengte,kleur){
+                this.x = x
+                this.y = y
+                this.snelheid = snelheid
+                this.lengte = lengte
+                this.kleur = kleur
+            }
+            draw(ctx){
+                ctx.rect(this.x, this.y, 15, this.lengte);
+                ctx.fillStyle = this.kleur;
+                ctx.fill();
+            }
+            move(){
+                this.x += this.snelheid
+      
+                if(this.x <= 0){
+                    this.snelheid *= -2
+                    ctx.fillStyle = "red";
+                }
+                if(this.x >= 500 ){
+                    this.snelheid *= -1
+                }
+                
+            }
+            
+        }
+
+        function links(){
+            let btn = document.getElementsByTagName("linksbtn")
+            btn.setAttribute('id', 'links')
+        }
+        function rechts(){
+            let btn = document.getElementsByTagName("rechtsbtn")
+            btn.setAttribute('id', 'rechts')
+            
+        }
+
+        function GameLoop(){
+     
+            let canvas = document.getElementById("canvas");
+            let ctx = canvas.getContext("2d");
+
+            ctx.clearRect(0, 0, 500, 500)
+            
+
+
+            let vierHoek = new vierkant(50,50,4,80,"black");
+            vierHoek.draw(ctx)
+            vierHoek.move()
+            vierHoek.draw(ctx)
+
+            setTimeout(GameLoop, 22)
+
+      
+    }
+
+    GameLoop();
+     
+
+        
+    </script>
+</body>
+</html>

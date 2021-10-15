@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\bin\Debug\netcoreapp3.1\oefening3 Visitekaart.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\bin\Debug\netcoreapp3.1\oefening3 Visitekaart.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\bin\Debug\netcoreapp3.1\oefening3 Visitekaart.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\bin\Debug\netcoreapp3.1\oefening3 Visitekaart.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\bin\Debug\netcoreapp3.1\oefening3 Visitekaart.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\bin\Debug\netcoreapp3.1\oefening3 Visitekaart.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\obj\Debug\netcoreapp3.1\oefening3 Visitekaart.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\obj\Debug\netcoreapp3.1\oefening3 Visitekaart.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\obj\Debug\netcoreapp3.1\oefening3 Visitekaart.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\obj\Debug\netcoreapp3.1\oefening3 Visitekaart.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\obj\Debug\netcoreapp3.1\oefening3 Visitekaart.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\obj\Debug\netcoreapp3.1\oefening3 Visitekaart.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\oefening3 Visitekaart\obj\Debug\netcoreapp3.1\oefening3 Visitekaart.csprojAssemblyReference.cache

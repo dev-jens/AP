@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\bin\Debug\netcoreapp3.1\SSL.exe
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\bin\Debug\netcoreapp3.1\SSL.deps.json
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\bin\Debug\netcoreapp3.1\SSL.runtimeconfig.json
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\bin\Debug\netcoreapp3.1\SSL.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\bin\Debug\netcoreapp3.1\SSL.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\bin\Debug\netcoreapp3.1\SSL.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\obj\Debug\netcoreapp3.1\SSL.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\obj\Debug\netcoreapp3.1\SSL.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\obj\Debug\netcoreapp3.1\SSL.AssemblyInfo.cs
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\obj\Debug\netcoreapp3.1\SSL.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\obj\Debug\netcoreapp3.1\SSL.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\obj\Debug\netcoreapp3.1\SSL.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\SSL\obj\Debug\netcoreapp3.1\SSL.genruntimeconfig.cache

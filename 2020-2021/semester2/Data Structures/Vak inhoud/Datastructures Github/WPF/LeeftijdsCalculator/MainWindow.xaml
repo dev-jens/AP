@@ -1,0 +1,21 @@
+﻿<Window x:Class="LeeftijdsCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeeftijdsCalculator"
+        mc:Ignorable="d"
+        Title="LeeftijdsCalculator" Height="218" Width="672" ResizeMode="NoResize">
+    <Grid>
+        <GroupBox Header="Geef je geboortedatum in (DD/MM/YYYY)" HorizontalAlignment="Left" Width="292" Height="114" VerticalAlignment="Top">
+            <Grid>
+                <TextBox x:Name="tbBirthDate" HorizontalAlignment="Left" Margin="17,10,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Button x:Name="btCalculate" Content="Bereken" HorizontalAlignment="Left" Margin="154,9,0,0" VerticalAlignment="Top" Click="btCalculate_Click"/>
+                <TextBlock x:Name="lblAge" HorizontalAlignment="Center" Margin="0,36,0,0" Text="---" TextWrapping="Wrap" VerticalAlignment="Top" Width="242" Height="51"/>
+
+            </Grid>
+        </GroupBox>
+        <DatePicker x:Name="dtBirth" HorizontalAlignment="Left" Margin="328,16,0,0" VerticalAlignment="Top" SelectedDateChanged="dtBirth_SelectedDateChanged"/>
+        <Calendar x:Name="calBirth" HorizontalAlignment="Left" Margin="445,8,0,0" VerticalAlignment="Top" SelectedDatesChanged="calBirth_SelectedDatesChanged"/>
+    </Grid>
+</Window>

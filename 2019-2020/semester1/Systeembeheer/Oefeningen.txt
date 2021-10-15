@@ -1,0 +1,251 @@
+-----------------------------------------------DEEL 2----------------------------------------------
+2.1) Belgie map
+    - cd Limburg
+    - cd ../Atnwerpen
+
+2.2) relatief vs absoluut:
+    - cd map/mapinmap
+    - cd /home/jef/map/mapinmap
+
+2.3) 2 vervolg met tekstbestand:
+    - nano /map/mapinmap/tekst
+    - nano /home/jef/map/mapinmap/tekst
+
+2.4) source en destination:
+    In ~
+    - mkdir source destination
+    - cd source; touch file1 File2 FILE3
+    - cp file1 File2 ../destination
+    - mv FILE3 ../destination
+
+2.5) Wildcards:
+    In ~
+    - mkdir Smartphones
+    - touch apple galaxy htc iphone iphone5 iphone6 iphone7 iphone8 samsung Apple Galaxy HTC Iphone iphone-5 iphone-6 iphone-7 iphone-8 Samsung
+    - ls
+    - ls h*
+    - ls ?????
+    - ls ?????*
+    - ls [ag]*
+    - ls [!sS]*
+    - ls *[[:digit:]]
+    - ls [[:upper:]]*
+
+
+
+    
+---------------------------------------------DEEL 3------------------------------------------------
+3.1) Password wijzigen
+    - passwd
+   (- man passwd ,etc...)
+
+3.2) usr directory
+    - ls /usr
+    
+3.3) aliasen
+    - alias jef='ls /usr'
+    -> Alias verdwijnt nadat de terminal opnieuw wordt opgestart
+
+3.4) Permanente alias
+    In ~
+    - touch .bash_aliases
+    - gedit .bash_aliases
+    In .bash_aliases
+    - alias jef='ls /usr'
+    Restart terminal
+    Vragen:
+    - Bestanden beginnend met "." zijn "onzichtbare" bestanden, je kan ze niet zien met gewoon "ls"
+    - ls -all
+    
+3.5) omleiden stdout
+    - ls -l /usr/bin > output
+    - less output
+    - ls -l output
+    - ls -l /usr/bin > output
+    - ls -l output
+        -> de operator ">" overschrijft, dus de grote blijft hetzelfde
+        
+3.6) 3.5 maar met >>
+    - ls -l /usr/bin >> output
+    - ls -l output
+    - 3X ls -l /usr/bin >> output
+        -> de operator ">>" overschrijft niet, maar voegt vanachter toe
+        
+3.7) stdout en stderr omleiden.
+    stdout: 
+    - ls map 1> output
+    stderr:
+    - ls onbestaande map 2> output
+    
+3.8) cat
+    - cat file1 file2
+
+3.9) cat - standaardinvoer
+    - touch file1 file2
+    - cat | tee file1 file2
+    
+    - cat file1 file2
+
+3.10) Omleiden standard input
+    - echo a b c d e f > alfabet
+    - cat alfabet | tr " " "," > alfabetkomma
+
+
+----------------------------------------------DEEL4------------------------------------------------
+4.1) passwd
+    - cat /etc/passwd
+
+4.2) shadow
+    - sudo cat /etc/passwd
+    - "Jef$6$" -> Id = 6 dus, SHA-512
+    
+    - sudo useradd Frank
+    - sudo cat /etc/passwd
+        -> Bij frank staat er "!" ipv zijn gehashte passwoord
+
+4.3) gebruikers aanmaken
+    - Gewoon useradd en adduser gebruiken
+    
+4.4) su
+    - sudo passwd Frank
+    - su Frank
+    - su Jef
+    
+4.5) Gebruiker (un)locken
+    - sudo usermod -L Frank
+    - su Frank (gaat niet)
+    - sudo usermod -U Frank
+    - su Frank (gaat wel nu)
+    - su jef
+    
+4.6) Gebruiker deactiveren
+    - sudo usermod -e 1 Frank
+    - su Frank (gaat niet)
+    - sudo usermod -e -1 Frank
+    - su Frank (gaat wel nu)
+    - su jef
+    
+4.7) Gebruiker verwijderen
+    - sudo userdel -f Frank
+    - cat /etc/passwd : staat geen Frank meer bij
+    
+4.8) Groepen aanmaken en leden toevoegen
+    - groupadd prim
+    - groupadd sec
+    - useradd user1 -g prim -G sec
+    - useradd user2
+    - usermod -aG sec user2
+    - cat /etc/group
+        -> Kan je zien wie in welke groepen zit
+    - deluser user1 sec
+    
+    
+---------------------------------------------DEEL 5----------------------------------------------
+5.1) Processen beheren
+    - xlogo
+    - sluiten
+    - xlogo &
+    - kill -19 [PID]
+        -> Als je "jobs" doet kan je zien of het gepauzeerd is
+    - kill -18 [PID]
+        -> Als je "jobs" doet kan je zien dat het terug wordt uitgevoerd
+    - kill [PID]
+    
+
+---------------------------------------------DEEL 6----------------------------------------------
+6.1) Een archief maken
+    Staat uitgelegd in pp
+    
+6.2) Lange oef van archieven
+    - sudo useradd -m Frank
+    - sudo passwd Frank
+    In mijn home folder, met archive.tar:
+    - sudo cp archive.tar ../Frank
+    - cd ../Frank
+    - sudo chmod 666 archive.tar
+    - su Frank
+    - "pwd" -> verander naar Frank's homefolder indien je er niet inzit
+    - tar xf archive.tar archive
+    
+    - mkdir -p speeltuinen/speeltuin-{001..100}
+    - touch speeltuinen/speeltuin-{001..100}/file-{A..Z}
+    - tar cf relativepath.tar speeltuinen
+        -> Maakt een archive van speeltuinen genaamd relativepath.tar
+    - mkdir relativepath
+    - cd relativepath
+    - tar xf ../relativepath.tar speeltuinen
+        -> Unarchived relativepath.tar in de nieuwe aangemaakte map speeltuinen
+    - speeltuinen
+    
+    - tar cf absolutepath.tar /home/Frank/speeltuinen
+        -> Maakt archive van speeltuinen met gebruik van absolutepath. De naam van de archive wordt absolutepath
+    - mkdir absolutepath; cd absolutepath
+    - tar xf /home/Frank/absolutepath.tar
+    - De "speeltuinen" map die we extracten zit nu in de nieuwe mappen: home/Frank/speeltuinen
+        -> Omdat we geen naam specifieerde, zet tar deze map in alle andere mappen die we opsomden
+        
+        
+6.3) ZIP
+   (- mkdir playground/map{0..10})
+    - zip -r playgroud.zip playground
+    - mkdir unzip; cd unzip
+    - unzip ../playground.zip
+
+6.4) rsync
+    - mkdir syncfolder
+    - rsync -a playground syncfolder
+    - touch playground/map/file
+    - rsync -a playground syncfolder
+        -> Rsync heeft de nieuwe bestanden van in playground ook in syncfolder toegevoegd
+        
+----------------------------------------------DEEL 7---------------------------------------------
+7.1) PATH
+    - export PATH=~/bin:"$PATH"
+
+----------------------------------------------DEEL 8---------------------------------------------
+8.1) Puntjes:
+
+        #!/bin/bash
+        count=1
+
+        while [[ $count -le 5 ]]; do
+            echo .
+            count=$((count + 1))
+            sleep 1s
+        done
+
+8.2) While lus, break, continue
+1)
+        #!/bin/bash
+        count=1
+
+        while [[ $count -le 5 ]]; do
+            echo $count
+            
+            count=$((count+1))
+        done
+        
+2)
+        #!/bin/bash
+        count=1
+
+        while [[ $count -le 5 ]]; do
+            if (( $count == 4 )); then
+                count=$((count+1))
+                continue;
+            fi
+            echo $count
+            
+            count=$((count+1))
+        done
+    
+8.3) Until lus
+        #!/bin/bash
+        count=0
+
+        until [[ $count -ge 5 ]]; do
+            count=$((count + 1))
+        done
+
+        echo $count
+        

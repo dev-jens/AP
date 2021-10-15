@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\bin\Debug\netcoreapp3.1\Dierentuin Advanced.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\bin\Debug\netcoreapp3.1\Dierentuin Advanced.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\bin\Debug\netcoreapp3.1\Dierentuin Advanced.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\bin\Debug\netcoreapp3.1\Dierentuin Advanced.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\bin\Debug\netcoreapp3.1\Dierentuin Advanced.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\bin\Debug\netcoreapp3.1\Dierentuin Advanced.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\obj\Debug\netcoreapp3.1\Dierentuin Advanced.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\obj\Debug\netcoreapp3.1\Dierentuin Advanced.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\obj\Debug\netcoreapp3.1\Dierentuin Advanced.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\obj\Debug\netcoreapp3.1\Dierentuin Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\obj\Debug\netcoreapp3.1\Dierentuin Advanced.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\obj\Debug\netcoreapp3.1\Dierentuin Advanced.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H8\Dierentuin Advanced\obj\Debug\netcoreapp3.1\Dierentuin Advanced.genruntimeconfig.cache

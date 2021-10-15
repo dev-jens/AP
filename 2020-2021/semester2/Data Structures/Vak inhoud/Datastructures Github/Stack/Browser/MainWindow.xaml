@@ -1,0 +1,16 @@
+﻿<Window xmlns:Controls="clr-namespace:Microsoft.Toolkit.Wpf.UI.Controls;assembly=Microsoft.Toolkit.Wpf.UI.Controls.WebView" x:Class="Browser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Browser"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Controls:WebView x:Name="Browser" Margin="0,25,0,0" Source="https://www.ap.be" NavigationStarting="Browser_NavigationStarting"/>
+        <TextBox x:Name="tbUrl" HorizontalAlignment="Left" Margin="81,0,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="657"/>
+        <Button x:Name="btBack" Content="BACK" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="53" Click="btBack_Click"/>
+        <Button x:Name="btGo" Content="GO" HorizontalAlignment="Left" Margin="747,0,0,0" VerticalAlignment="Top" Width="53" Click="btGo_Click"/>
+
+    </Grid>
+</Window>

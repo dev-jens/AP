@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\Herexamen\Coundown raket\bin\Debug\netcoreapp3.1\Coundown raket.exe
+C:\Users\baete\Desktop\Herexamen\Coundown raket\bin\Debug\netcoreapp3.1\Coundown raket.deps.json
+C:\Users\baete\Desktop\Herexamen\Coundown raket\bin\Debug\netcoreapp3.1\Coundown raket.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\Coundown raket\bin\Debug\netcoreapp3.1\Coundown raket.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\Coundown raket\bin\Debug\netcoreapp3.1\Coundown raket.dll
+C:\Users\baete\Desktop\Herexamen\Coundown raket\bin\Debug\netcoreapp3.1\Coundown raket.pdb
+C:\Users\baete\Desktop\Herexamen\Coundown raket\obj\Debug\netcoreapp3.1\Coundown raket.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Herexamen\Coundown raket\obj\Debug\netcoreapp3.1\Coundown raket.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\Coundown raket\obj\Debug\netcoreapp3.1\Coundown raket.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\Coundown raket\obj\Debug\netcoreapp3.1\Coundown raket.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\Coundown raket\obj\Debug\netcoreapp3.1\Coundown raket.dll
+C:\Users\baete\Desktop\Herexamen\Coundown raket\obj\Debug\netcoreapp3.1\Coundown raket.pdb
+C:\Users\baete\Desktop\Herexamen\Coundown raket\obj\Debug\netcoreapp3.1\Coundown raket.genruntimeconfig.cache

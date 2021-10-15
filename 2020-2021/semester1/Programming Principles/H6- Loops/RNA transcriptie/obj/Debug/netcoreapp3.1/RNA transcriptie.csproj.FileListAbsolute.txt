@@ -1,0 +1,13 @@
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\bin\Debug\netcoreapp3.1\RNA transcriptie.exe
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\bin\Debug\netcoreapp3.1\RNA transcriptie.deps.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\bin\Debug\netcoreapp3.1\RNA transcriptie.runtimeconfig.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\bin\Debug\netcoreapp3.1\RNA transcriptie.runtimeconfig.dev.json
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\bin\Debug\netcoreapp3.1\RNA transcriptie.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\bin\Debug\netcoreapp3.1\RNA transcriptie.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\obj\Debug\netcoreapp3.1\RNA transcriptie.csproj.CoreCompileInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\obj\Debug\netcoreapp3.1\RNA transcriptie.AssemblyInfoInputs.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\obj\Debug\netcoreapp3.1\RNA transcriptie.AssemblyInfo.cs
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\obj\Debug\netcoreapp3.1\RNA transcriptie.dll
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\obj\Debug\netcoreapp3.1\RNA transcriptie.pdb
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\obj\Debug\netcoreapp3.1\RNA transcriptie.genruntimeconfig.cache
+C:\Users\baete\OneDrive\Bureaublad\AP\2020-2021\semester1\Programming Principles\H6- Loops\H6- Loops\RNA transcriptie\obj\Debug\netcoreapp3.1\RNA transcriptie.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Kleuren veranderen.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Kleuren veranderen.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Kleuren veranderen.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Kleuren veranderen.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Kleuren veranderen.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\bin\Debug\netcoreapp3.1\Kleuren veranderen.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\Kleuren veranderen.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\Kleuren veranderen.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\Kleuren veranderen.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\Kleuren veranderen.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\Kleuren veranderen.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\Kleuren veranderen.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H1 - eerste stappen\Kleuren veranderen\obj\Debug\netcoreapp3.1\Kleuren veranderen.genruntimeconfig.cache

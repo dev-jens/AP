@@ -1,0 +1,12 @@
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.exe
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.deps.json
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.json
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfo.cs
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.dll
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.pdb
+C:\Users\baete\Desktop\Datastructers algoritmes\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.genruntimeconfig.cache

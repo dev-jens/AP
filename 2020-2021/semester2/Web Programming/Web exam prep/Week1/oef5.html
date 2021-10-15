@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+        table,
+    th,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        padding: 15px;
+        text-align: left;
+    }
+
+    .even {
+        background-color: blue;
+    }
+
+    .oneven {
+        background-color: red;
+    }
+</style>
+<body>
+    <script>
+         const maxAantalGetal = 20;
+        const lengteRij = 5;
+        let aantalRijen = Math.ceil(maxAantalGetal/lengteRij);
+        let teller = 0;
+
+        document.write("<table>")
+            for(let i=0;i<aantalRijen;i++)
+            {
+                document.write("<tr>")
+                    for(let x=0;x<lengteRij;x++)
+                    {
+                        teller++;
+                        if(teller > maxAantalGetal){
+                            break;
+                        }
+                        if(teller%2==0){
+                            document.write("<td class=\"even\">")
+                        }
+                        else{
+                            document.write("<td class=\"oneven\">")
+                        }
+
+                        document.write(teller)
+
+                        document.write("</td>")
+                    }
+                document.write("</tr>")
+            }
+        document.write("</table>")        
+    </script>
+</body>
+</html>

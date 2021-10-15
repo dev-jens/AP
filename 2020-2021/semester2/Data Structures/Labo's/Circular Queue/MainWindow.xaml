@@ -1,0 +1,16 @@
+﻿<Window x:Class="Circular_Queue.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Circular_Queue"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_EnQueue" Content="Enqueue" HorizontalAlignment="Left" Margin="299,64,0,0" VerticalAlignment="Top" Width="79" Height="27" Click="btn_EnQueue_Click"/>
+        <Button x:Name="btn_Dequeue" Content="DeQueue" HorizontalAlignment="Left" Margin="299,144,0,0" VerticalAlignment="Top" Width="79" Height="29" Click="btn_Dequeue_Click"/>
+        <TextBox x:Name="tb_input" HorizontalAlignment="Left" Height="26" Margin="89,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <ListBox x:Name="lb_output" HorizontalAlignment="Left" Height="186" Margin="89,130,0,0" VerticalAlignment="Top" Width="170"/>
+
+    </Grid>
+</Window>

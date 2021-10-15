@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oef4</title>
+</head>
+
+<body>
+    <script>
+        input = parseInt(prompt("geef een getal in tussen 1 en 10"));
+        if (input > 10) {
+            document.write("FOUT BOODSCHAP")
+        } else {
+            for (let i = 1; i <= input; i++) {
+                for (let j = 0; j < i; j++) {
+                    document.write("*")
+                }
+                document.write("<br>")
+
+            }
+        }
+    </script>
+</body>
+
+</html>

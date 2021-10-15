@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\bin\Debug\netcoreapp3.1\OO Datastructuren.exe
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\bin\Debug\netcoreapp3.1\OO Datastructuren.deps.json
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\bin\Debug\netcoreapp3.1\OO Datastructuren.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\bin\Debug\netcoreapp3.1\OO Datastructuren.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\bin\Debug\netcoreapp3.1\OO Datastructuren.dll
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\bin\Debug\netcoreapp3.1\OO Datastructuren.pdb
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\obj\Debug\netcoreapp3.1\OO Datastructuren.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\obj\Debug\netcoreapp3.1\OO Datastructuren.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\obj\Debug\netcoreapp3.1\OO Datastructuren.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\obj\Debug\netcoreapp3.1\OO Datastructuren.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\obj\Debug\netcoreapp3.1\OO Datastructuren.dll
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\obj\Debug\netcoreapp3.1\OO Datastructuren.pdb
+C:\Users\baete\Desktop\Herexamen\OO Datastructuren\obj\Debug\netcoreapp3.1\OO Datastructuren.genruntimeconfig.cache

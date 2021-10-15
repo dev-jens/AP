@@ -1,0 +1,5 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\Deel10\Oefening1\obj\Debug\Oefening1.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\Deel10\Oefening1\obj\Debug\Oefening1.Form1.resources
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\Deel10\Oefening1\obj\Debug\Oefening1.Properties.Resources.resources
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\Deel10\Oefening1\obj\Debug\Oefening1.csproj.GenerateResource.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\database programming\Deel10\Oefening1\obj\Debug\Oefening1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\bin\Debug\netcoreapp3.1\Schaak.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\bin\Debug\netcoreapp3.1\Schaak.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\bin\Debug\netcoreapp3.1\Schaak.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\bin\Debug\netcoreapp3.1\Schaak.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\bin\Debug\netcoreapp3.1\Schaak.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\bin\Debug\netcoreapp3.1\Schaak.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\obj\Debug\netcoreapp3.1\Schaak.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\obj\Debug\netcoreapp3.1\Schaak.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\obj\Debug\netcoreapp3.1\Schaak.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\obj\Debug\netcoreapp3.1\Schaak.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\obj\Debug\netcoreapp3.1\Schaak.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\obj\Debug\netcoreapp3.1\Schaak.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester1\Programming Principles\H5- Beslissingen\Schaak\obj\Debug\netcoreapp3.1\Schaak.genruntimeconfig.cache

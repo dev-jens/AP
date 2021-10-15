@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\bin\Debug\netcoreapp3.1\StudentKlasse.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\bin\Debug\netcoreapp3.1\StudentKlasse.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\bin\Debug\netcoreapp3.1\StudentKlasse.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\bin\Debug\netcoreapp3.1\StudentKlasse.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\bin\Debug\netcoreapp3.1\StudentKlasse.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\bin\Debug\netcoreapp3.1\StudentKlasse.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\obj\Debug\netcoreapp3.1\StudentKlasse.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\obj\Debug\netcoreapp3.1\StudentKlasse.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\obj\Debug\netcoreapp3.1\StudentKlasse.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\obj\Debug\netcoreapp3.1\StudentKlasse.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\obj\Debug\netcoreapp3.1\StudentKlasse.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\obj\Debug\netcoreapp3.1\StudentKlasse.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H1\StudentKlasse\obj\Debug\netcoreapp3.1\StudentKlasse.genruntimeconfig.cache

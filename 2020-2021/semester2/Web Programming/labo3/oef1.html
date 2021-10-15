@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <input type="text" id="input" name="fname"> <br>
+
+</head>
+<body>
+    <script>    
+        const namenLijst=["jens","tokke", "jef", "sam", "jordi", "Zwangere Guy"]
+        const geboorteJaar=[2001, 1999,2003,2001,2001,1998]
+        
+        //let input = document.getElementById('input')
+        let input = prompt("geef een naam")
+        for (let i = 0; i < namenLijst.length; i++) {
+            if (namenLijst[i] == input) {
+                document.write(`het geboortejaar van ${namenLijst[i]} is ${geboorteJaar[i]}`);
+            }
+            
+        }
+
+    </script>
+</body>
+</html>

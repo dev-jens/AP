@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.exe
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.deps.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.dll
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.pdb
+C:\Users\Eigenaar\Desktop\AP\2jaar\Programming Principles\H4 - Werken met data\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.genruntimeconfig.cache

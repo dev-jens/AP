@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>R36_201_devsd-040_en</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.sap.adt.abapnature</nature>
+		<nature>com.sap.adt.abapnature</nature>
+	</natures>
+</projectDescription>

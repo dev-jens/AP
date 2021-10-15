@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\bin\Debug\netcoreapp3.1\Ziekenhuis.exe
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\bin\Debug\netcoreapp3.1\Ziekenhuis.deps.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\bin\Debug\netcoreapp3.1\Ziekenhuis.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\bin\Debug\netcoreapp3.1\Ziekenhuis.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\bin\Debug\netcoreapp3.1\Ziekenhuis.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\bin\Debug\netcoreapp3.1\Ziekenhuis.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\obj\Debug\netcoreapp3.1\Ziekenhuis.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\obj\Debug\netcoreapp3.1\Ziekenhuis.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\obj\Debug\netcoreapp3.1\Ziekenhuis.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\obj\Debug\netcoreapp3.1\Ziekenhuis.dll
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\obj\Debug\netcoreapp3.1\Ziekenhuis.pdb
+C:\Users\Eigenaar\Desktop\AP\2020-2021\semester2\OOP\H5\Ziekenhuis\obj\Debug\netcoreapp3.1\Ziekenhuis.genruntimeconfig.cache

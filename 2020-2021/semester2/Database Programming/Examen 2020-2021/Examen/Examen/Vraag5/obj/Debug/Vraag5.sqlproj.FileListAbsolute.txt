@@ -1,0 +1,10 @@
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\bin\Debug\Vraag5.dacpac
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\bin\Debug\Vraag5.dll
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\bin\Debug\Vraag5.pdb
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\obj\Debug\Vraag5.sqlproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\obj\Debug\Model.xml
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\obj\Debug\refactor.xml
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\obj\Debug\postdeploy.sql
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\obj\Debug\predeploy.sql
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\obj\Debug\Vraag5.dll
+C:\Users\Eigenaar\Desktop\Examen\Examen\Vraag5\obj\Debug\Vraag5.pdb

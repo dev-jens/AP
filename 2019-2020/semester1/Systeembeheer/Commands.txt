@@ -1,0 +1,239 @@
+-----------------------------DEEL 2----------------------------
+
+pwd:            Toont in welke map we ons bevinden
+cd:             Laat ons toe van map te wisselen
+ls:             Toont de inhoud van de map
+
+cp:             Kopieer bestanden en directories
+mv:             Verplaats/hernoem bestanden en directories
+mkdir:          Maak directories
+rm(dir):        Verwijder bestanden (en directories)
+
+-WILDCARDS-:
+*:              0 of meerdere karakters
+?:              1 karakter
+[characters]:   Elk karakter dat lid is van de set characters
+[!characters]:  Elk karakter dat GEEN lid is van de set characters
+[[:class:]]:    Elk karakter dat behoort tot de gespicifieerde class
+                        - [[:alpnum:]] a b c A B C 1 2 3
+                        - [[:alpha:]]  a b c A B C
+                        - [[:digit:]]  1 2 3
+                        - [[:upper:]]  A B C
+                        - [[:lower:]]  a b c
+                        
+        BOEK: P 1-41 Behalve harde links
+        
+
+-----------------------------DEEL 3---------------------------
+
+type:           Geeft aan wat voor commando het commando is
+which:          Geeft het absolute path naar het uitvoerbaar programma terug
+man:            Toont de handleiding van een commando
+apropos:        Toont een lijst van passende commando's
+help:           Toont help voor shell bullitins
+info:           Toont de info entry van een commando
+whatis:         Toont een zeer summiere omschrijving van een commando
+
+passwd:         Met dit command kan een gebruiker zijn wachtwoord wijzigen
+
+-ALIASEN-:
+alias:          Maak een nieuwe alias -> 'alias [aliasname]="name"'
+unalias:        Verwijder een alias -> 'unalias [aliasname]'
+
+-IO REDIRECTION-:
+">":            Standard output om leiden (overschrijft)
+">>":           Standard output om leiden (overschrijft niet maar voegt toe vanachter)
+"<":            Standard input om leiden
+
+                        Kan ook met: "#>"           Gewoon > of >> leid ook stderr om
+                            - stdin "0>"
+                            - stdout "1>"
+                            - stderr "2>"
+
+cat:            Lees tekstbestanden
+tr:             Verwijdert/vervangt karakters van stdin
+
+-PIPING-:
+"|":            Laat toe om stdout van 1ste commando om te leiden naar stdin van het 2de
+
+uniq:           Tonen of weglaten van dubbele lijnen
+wc:             Toon aantal lijnen, woorden en bytes die bestanden bevatten
+grep:           Print lijnen die overeenkomen met een patroon, bruikbaar om tekst patronen te     vinden in bestanden
+head/tail:      Print eerste/laatste deel van bestanden (default 10 lijnen)
+tee:            Less van stdin en kopieer de output naar stdout en bijkomende bestanden
+
+
+        BOEK: P 42-66
+
+------------------------------DEEL 4 Gebruikerbeheer----------------------------------
+
+su:             Switch user account. Gebruik zonder parameters -> login als root
+useradd:        Gebruikersaccount toevoegen. "useradd (-m) [useraccountname]"
+                        Indien je -m gebruikt wordt er ook automatisch een home directory aangemaakt
+adduser:        Interactieve command om een gebruikersaccount toe te voegen
+
+passwd:         Wachtwoord in te stellen/wijzigen van een gebruikersaccount
+usermod:        Gebruikt om gebruikersaccount opties te wijzigen:
+                       - "usermod -L [useraccountname]" zal bijvoorbeeld het account locken
+                       - "usermod -U [useraccountname]" zal het weer unlocken
+                       
+                       Dit kan ook door:
+                       - "passwd -l/u [useraccountname]"
+                       - of door manueel een "!" als wachtwoord in te stellen
+                        
+                        
+                       Gebruiker uit roulatie nemen:
+                       - "usermod -e [1 or date value] [useraccountname]"
+                            Dit zal ervoor zorgen dat de gebruikersaccount niet meer bruikbaar is.
+                       - "usermod -e [-1 or date value] [useraccountname]"
+                            Dit zal het weer bruikbaar maken. (Met -1 zal het nooit vervallen)
+
+userdel:        Commando om een gebruikersaccount te verwijderen
+                    Indien -r gebruikt wordt zal ook de home folder automatisch verwijderd worden
+                    
+groups:         Toont de groepen waarvan een gebruikersaccount lid is
+groupadd:       Om een groep toe te voegen
+groupdel:       Om een groep te verwijderen
+
+-GEBRUIKERS TOEVOEGEN AAN GROEPEN-
+(bij het aanmaken van een gebruikersaccount met het "useradd" commando)
+    - Gebruik de optie "-g" om primaire groep toe te voegen
+    - Gebruik de optie "-G" voor bijkomende groepen
+    
+(Wanneer een gebruikersaccount al bestaat)
+    - Voeg toe door het "usermod commando met de optie "aG"
+        "usermod -aG [groupnames] [useraccountname]
+
+-WISSEL/VERWIJDER GEBRUIKER VAN EEN GROEP-
+(Wisselen kan enkel gedaan worden voor de primaire groep)
+    - Gebruik "usermod" met de optie "-g"
+        "usermod -g [groupname] [useraccountname]"
+
+(Gebruiker verwijderen van een groep)
+    - Gebruik deluser maar voeg achteraan de groepsnaam aan toe:
+        "deluser [useraccountname] [groupname]
+    - Gebruik "gpasswd" met de optie "-d"
+        "gpasswd -d [useraccountname] [group]"
+        
+------------------------------------DEEL 4 Permissions------------------------------------------
+-ATRIBUTEN-
+r:              Read = het bestand openen en lezen. Inhoud van de map zien
+w:              Write = De inhoud van het bestand wijzigen. Niet het bestand wissen of de naam wijzigen. Maken, wissen en naam wijzigen van bestanden in de map.
+x:              Execute = Een bestand uitvoeren als het een executable betreft. Laat toe om naar de map te gaan (cd)
+
+
+chmod:          Permissies veranderen (Enkel eigenaar van een bestand of superuser kan dit doen)
+                       "chmod [permissies] [bestand/map]
+umask:          Bekijken/Wijzigen van default permissies
+chown:          Eigenaar of groepseigenaar van een bestand/map veranderen
+
+
+        BOEK:   P 89-108
+        
+        
+        
+----------------------------------------DEEL 5--------------------------------------------------
+ps:             Toont processen (enkel diegene die geassocieerd zijn met de huidige terminal sessie)
+top:            Toont processen maar met een meer dynamisch beeld
+job:            Toont alle jobs die werden gestart van deze terminal
+fg:             Wordt gebruikt om een process naar de voorgrond te brengen
+                        "fg [job_spec]"  -> job_spec = %[job_number]
+bg:             Wordt gebruikt om een process naar de achtergrond te brengen. Werkt zoals "fg"
+kill:           Wordt gebruikt om een programma te beeindigen. Of andere signalen te sturen.
+                        "kill [-signal] PID"
+killall:        Wordt gebruikt om signalen naar meerdere programma's te suren. 
+                        "killall [-u user] [-signal] name
+pstree:         Geeft een lijst van proessen georganiseerd in boomstructuurachtig patroon waarbij parent/child relaties tussen processen worden getoond
+vmstat:         Geeft een snapshot terug van systeem resources gebruik waaronder (wissel)geheugen en schij I/O.
+xload:          Een grafisch programma dat een grafiek tekent die de systeembelasting toont over een tijdspanne
+tload:          Gelijkaardig aan het xload programma, maar tekent de grafiek in de terminal. Beeindig de output me <ctrl>+c
+
+
+        BOEK: P 109-124
+        
+        
+--------------------------------------------DEEL 6------------------------------------------------
+gzip:           Wordt gebruikt om bestanden te comprimeren
+tar:            Wordt gebruikt om bestanden/mappen te archiveren
+                    - "tar mode[options] pathname
+                    modes:
+                        - c:        Archief v/e lijst benstanden/directories
+                        - x:        Pak een archief terug uit
+                        - r:        Voeg bestanden/directories toe aan het einde van het archief
+                        - t:        Toont enkel de inhoud van het archief
+                        - f:        Geeft aan dat de output van tar naar een bestand wordt gestuurd ipv stdout
+                        - v:        Meer gedetailleerde oplijsting
+
+zip:            Programma gebruikt voor compressie en archiveren van bestanden/mappen
+                    - optie "-r" om ook de subdirectories te zippen
+unzip:          Het zippen weer ongedaan maken
+                    - optie "-l" om alleen de inhoud te tonen
+rsync:          Command om 1 of meerdere directories gesyncroniseerd met elkaar te houden
+                    - "rsync options source destination"
+                    - 1 van de 2 (source/destination) moet zoizo een lokale directory zijn
+pgrep cron:     Checkt of cron aanstaat
+service:        Start services zoals bv cron:
+                    - "sudo service cron start/stop/restart"
+crontab:        Aanpassen, etc.. van het crontab bestand:
+                    - -e:       Aanpassen van het crontab bestand
+                    - -l:       Controleren of job correct gepland is
+                    - -r:       Jobs verwijderen uit het crontab bestand
+                    
+                    
+        BOEK P 230 - 246
+        
+        
+----------------------------------------DEEL 7-------------------------------------------------
+#!/bin/bash:    Zo begin je elke shell script
+export:         Command gebruikt om variabelen aan te passen, zoals bijvoorbeel een map (/home/jef/bin) toe te voegen aan het PATH
+                    - export PATH=~/bin:"$PATH"
+var="":         Manier waarop we variabelen een waarde geven
+$var:           $ voor de naam van een variabele roept de waarde op
+
+regex:          Lijkt beetje op globing(wildcards). Maar wordt gebruikt voor expressions in een shell script
+                Gebruik eerst altijd: "~" om aan te geven dat regex gebruikt worden
+                    - []:       Zelfde als bij wildcards. Geldt voor alles wat ertussen staat voor 1 karakter
+                    - -:        Tussen []: range
+                           a[1-3]c -> a1c a2c a3c
+                    - ^:        Tussen []: negates: Alles buiten deze karakters
+                                Zonder []: zoekt aan het begin van de lijn
+                    - $:        zoekt aan het einde van de lijn
+                    - .:        eender welk karakter
+                    - ?:        Het vorige karakter 0 of 1 keer
+                    - *:        Het vorige karakter 0 of meerdere keren
+                    - +:        Het vorige karakter 1 of meerdere keren
+Logische poorten:
+    - AND -a &&
+    - OR  -o ||
+    - NOT !  !
+
+-------------------------------------DEEL 8-----------------------------------------------------
+echo -n:        de -n optie bij echo zorgt ervoor dat er geen nieuwe lijn gecreeerd wordt
+read:           Input in een variable te steken
+                    Opties:
+                        - p:        Voorziet een propmt (geen echo meer nodig voor de vraag)
+                        - s:        Verbergt de input (goed voor wachtwoorden)
+                        - t:        Timeout, eindigt input na x seconden.
+if:             Maakt een if statement: 
+                        If (()) [[]]; then
+                            ...
+                        fi
+while:          Maakt while lussen:
+                        - Break:    stop de lus, programma gaat verder na de while lus
+                        - Continue: slaag de rest van de loop over, programma gaat verder bij volgende integratie van de wile loop
+
+Until:          Omgekeerde van de while lus, stopt pas als condition true is
+
+Case:           Meerdere if statements
+                        Case word in
+                            [pattern [|pattern]..) commands;;]..
+                        esac
+
+for:            Maakt for loops:
+
+                1)      for i in {A..D}; do echo $i; done
+                
+                2) C vorm:
+                        for (( exp1; exp2; exp3 )); do
+                            cmds
+                        done

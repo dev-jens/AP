@@ -1,0 +1,13 @@
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\bin\Debug\netcoreapp3.1\Faculteit bereken.exe
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\bin\Debug\netcoreapp3.1\Faculteit bereken.deps.json
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\bin\Debug\netcoreapp3.1\Faculteit bereken.runtimeconfig.json
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\bin\Debug\netcoreapp3.1\Faculteit bereken.runtimeconfig.dev.json
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\bin\Debug\netcoreapp3.1\Faculteit bereken.dll
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\bin\Debug\netcoreapp3.1\Faculteit bereken.pdb
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\obj\Debug\netcoreapp3.1\Faculteit bereken.csprojAssemblyReference.cache
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\obj\Debug\netcoreapp3.1\Faculteit bereken.AssemblyInfoInputs.cache
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\obj\Debug\netcoreapp3.1\Faculteit bereken.AssemblyInfo.cs
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\obj\Debug\netcoreapp3.1\Faculteit bereken.csproj.CoreCompileInputs.cache
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\obj\Debug\netcoreapp3.1\Faculteit bereken.dll
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\obj\Debug\netcoreapp3.1\Faculteit bereken.pdb
+C:\Users\baete\Desktop\Herexamen\Faculteit bereken\obj\Debug\netcoreapp3.1\Faculteit bereken.genruntimeconfig.cache

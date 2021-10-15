@@ -1,0 +1,21 @@
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: invalid group: ‘baete:baete’
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.
+chown: missing operand after ‘:’
+Try 'chown --help' for more information.

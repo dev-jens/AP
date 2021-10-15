@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oef3 </title>
+</head>
+<body>
+    <script>
+
+        let waepon = parseInt(prompt("kies een wapen 1:boog ,2: seldge hammer 3: doge"))
+
+        switch (waepon) {
+            case 1:
+                waepon = 35;
+                break;
+            case 2:
+                waepon = 55;
+                break;
+            case 3:
+                waepon = 90;
+                break;
+            default:
+                alert("foute nummer refresh en speel opnieuw")
+                break;
+        }
+
+        let ranDmg = Math.round(Math.random()*100)
+        document.write("ran = " +ranDmg + "<br>")
+        document.write("wapon = " + waepon + "<br>")
+
+        if (ranDmg > waepon) {
+            
+            document.write("you lose")
+
+        }else{
+            document.write("you win")
+        }
+
+    </script>
+</body>
+</html>

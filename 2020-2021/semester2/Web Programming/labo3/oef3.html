@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        
+
+        function getTwoSmallest() {
+            let lijst = [15, 4, 4, 6, 34, 86, 3, 2];
+            let smallest = Infinity;
+            let secSmallest = Infinity;
+
+            for (let i = 0; i < lijst.length; i++) {
+                    if (lijst[i] < smallest) {
+                        secSmallest = smallest;
+                        smallest = lijst[i];
+                        
+                    } else if (lijst[i] < secSmallest) {
+                        secSmallest = lijst[i];
+                    }
+                }
+                document.write(`kleinste: ${smallest}, 2dekleisnte: ${secSmallest}`);
+            } 
+        getTwoSmallest();
+    
+    </script>
+</body>
+
+</html>
