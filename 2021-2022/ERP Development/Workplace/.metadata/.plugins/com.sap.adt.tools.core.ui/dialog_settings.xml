@@ -18,4 +18,22 @@
 		<item key="DIALOG_HEIGHT" value="843"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
+	<section name="ABAP Log View">
+	</section>
+	<section name="TMView">
+		<section name="columnWidths">
+			<item key="REQUEST" value="700"/>
+			<item key="OWNER" value="100"/>
+			<item key="Type" value="220"/>
+			<item key="DESCRIPTION" value="220"/>
+			<item key="LAST_CHANGED" value="500"/>
+		</section>
+		<section name="columnPositions">
+			<item key="REQUEST" value="0"/>
+			<item key="OWNER" value="1"/>
+			<item key="Type" value="2"/>
+			<item key="DESCRIPTION" value="3"/>
+			<item key="LAST_CHANGED" value="4"/>
+		</section>
+	</section>
 </section>

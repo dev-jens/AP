@@ -1,6 +1,6 @@
-//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.DDLS/DF=Header data definition\rSOHeader data definition\rSOITEM\rCustomer\rSFLIGHT\rInterface view Flights\rInterface view Flights Bookings\rInterface view Flights Schedule\rInterface view SCOUNTER\rInterface view SCARR\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.DDLS/DF=Header data definition\rSOHeader data definition\rSOITEM\rCustomer\rSFLIGHT\rInterface view Flights\rInterface view Flights Schedule\rInterface view SCOUNTER\rInterface view SCARR\rInterface view Flights Bookings\rInterface view FlightPrice\rInterface view Currency Conversion\rInterface view Association view\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.DEVC/K=MyDevelopment\r
-//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.DDLS/DF=ZSD_040_HEADER\rZSD_040_SOHEADER\rZSD_040_SOITEM\rZSD_040_CUSTOMER\rZSD_040_SFLIGHT\rZSD_040_SBOOKS\rZSD_040_SPFLI\rZSD_040_SCOUNTER\rZSD_040_SCARR\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.DDLS/DF=ZSD_040_HEADER\rZSD_040_SOHEADER\rZSD_040_SOITEM\rZSD_040_CUSTOMER\rZSD_040_SFLIGHT\rZSD_040_SBOOKS\rZSD_040_SPFLI\rZSD_040_SCOUNTER\rZSD_040_SCARR\rZSD_040_FlightPrice\rZSD_040_C_Currency_Conversion\rZSD_040_Association_view\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.DEVC/K=ZSD_040_DEVELOPMENT\r
 com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.PackageSoftwareComponent=HOME\r
 com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.package.context=ZSD_040_DEVELOPMENT\r
