@@ -1,7 +1,18 @@
-
 <div>
-    <p>Oef1</p>
-    <button (click)="increment()" [innerText]="counter" ></button>
+  <p>Calculator</p>
+  <div>
+    <button (click)="increment()" [innerText]="counter"></button>
+    <input type="number" [value]="counter">
+  </div>
 </div>
+<br>
+<p>Red Box</p>
+
+{{FillText()}}
+<div>
+  <canvas (mousemove)="DoSomething($event)" (show)="FillText()"
+    style="background-color: red; height: 200px; width: 200px;">{{FillText()}}</canvas>
+</div>
+ 
 <br>
 <br>

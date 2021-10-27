@@ -8,6 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class CalculatorComponent implements OnInit {
 
   counter : number = 0;
+  x : number = 0 ; 
+  y : number = 0 ;
+  cordinates : string = ""
 
   constructor() { }
 
@@ -17,5 +20,16 @@ export class CalculatorComponent implements OnInit {
   increment = () =>{
      return this.counter++;
   } 
+
+  DoSomething = (info : MouseEvent) => {
+    this.x = info.offsetX 
+    this.y = info.offsetY
+    this.cordinates = `${this.x}/${this.y}`
+    console.log("x = " + this.x + "y = " + this.y) 
+  }
+
+  FillText = () =>{
+    return this.cordinates;
+  }
 
 }
