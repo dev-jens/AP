@@ -10,7 +10,6 @@ import { Component, OnInit } from '@angular/core';
 export class TodoLijstComponent implements OnInit {
 
   list : string[] = ['Webframeworks maken', "kassen" ,"schoonmaken"];
-  
   constructor() { }
 
   ngOnInit(): void {
@@ -21,19 +20,14 @@ export class TodoLijstComponent implements OnInit {
   }
 
   addTask(task : string){
-    let button = <HTMLButtonElement> document.getElementById('btn');
+    
     if(task == ""){
-      button.disabled = true
       return;
     }
     else{
-      button.disabled = false;
       this.list.push(task)
       console.log(task)
     }
-  
-    
-    
   }
   
   removeTask(toDel : number){

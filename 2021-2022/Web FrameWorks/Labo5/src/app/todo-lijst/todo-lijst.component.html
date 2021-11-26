@@ -6,7 +6,7 @@
         <li *ngFor="let task of list; let i = index">
             {{task}} <button (click)="removeTask(i)">X</button></li>
     </ol>
-<input #inp1 type="text" >
+<input #inp1 (input) = "btn.disabled =inp1.value =='' ? true : false "  type="text" >
 
-<button (click)="addTask(inp1.value)">X</button>
+<button #btn (click)="addTask(inp1.value)" [disabled] = "inp1.value == '' ">X</button>
 </div>

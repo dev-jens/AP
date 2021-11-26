@@ -5,6 +5,7 @@ org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.internal.ui.navigator.librariesnode=true
 org.eclipse.jdt.ui.formatterprofiles.version=21
 spelling_locale_initialized=true
+spelling_problems_threshold=999999999
 typefilter_migrated=true
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true
