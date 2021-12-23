@@ -8730,3 +8730,208 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-12-10 11:30:40.840 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=11.0.12
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=nl_BE
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-10 11:30:42.600
+!MESSAGE Both 'com.sap.adt.chke' and 'com.sap.adt.chke' register a package for 'http://www.sap.com/adt/atc/checkexemptionsview'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-10 11:30:42.609
+!MESSAGE Both 'com.sap.adt.tm.model' and 'com.sap.adt.tm.model' register a package for 'http://www.sap.com/cts/adt/tk'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-10 11:30:42.625
+!MESSAGE Both 'com.sap.adt.chke' and 'com.sap.adt.chke' register an extension parser for 'chkelist'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-10 11:30:42.626
+!MESSAGE Both 'com.sap.adt.tools.core' and 'com.sap.adt.wda.common.ui' register an extension parser for 'configuration'
+
+!ENTRY org.eclipse.jface 2 0 2021-12-10 11:30:57.938
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-10 11:30:57.938
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4c376b44,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47596e9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.sap.adt.util 1 0 2021-12-10 11:31:00.892
+!MESSAGE try to find keystore(s) of operating system
+
+!ENTRY com.sap.adt.util 1 0 2021-12-10 11:31:01.041
+!MESSAGE successfully loaded keystore "Windows-ROOT"
+
+!ENTRY com.sap.adt.util 1 0 2021-12-10 11:31:01.249
+!MESSAGE successfully loaded keystore "Windows-MY"
+
+!ENTRY com.sap.adt.destinations.model 2 0 2021-12-10 11:31:01.517
+!MESSAGE No message servers found in landscape.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-10 11:31:02.539
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eigenaar'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-12-22 15:29:45.310 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=11.0.12
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=nl_BE
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 15:29:48.096
+!MESSAGE Both 'com.sap.adt.chke' and 'com.sap.adt.chke' register a package for 'http://www.sap.com/adt/atc/checkexemptionsview'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 15:29:48.106
+!MESSAGE Both 'com.sap.adt.tm.model' and 'com.sap.adt.tm.model' register a package for 'http://www.sap.com/cts/adt/tk'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 15:29:48.127
+!MESSAGE Both 'com.sap.adt.chke' and 'com.sap.adt.chke' register an extension parser for 'chkelist'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 15:29:48.129
+!MESSAGE Both 'com.sap.adt.tools.core' and 'com.sap.adt.wda.common.ui' register an extension parser for 'configuration'
+
+!ENTRY org.eclipse.jface 2 0 2021-12-22 15:30:10.372
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-22 15:30:10.372
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74cad577,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@350ede1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.sap.adt.util 1 0 2021-12-22 15:30:13.956
+!MESSAGE try to find keystore(s) of operating system
+
+!ENTRY com.sap.adt.util 1 0 2021-12-22 15:30:14.158
+!MESSAGE successfully loaded keystore "Windows-ROOT"
+
+!ENTRY com.sap.adt.util 1 0 2021-12-22 15:30:14.278
+!MESSAGE successfully loaded keystore "Windows-MY"
+
+!ENTRY com.sap.adt.destinations.model 2 0 2021-12-22 15:30:14.554
+!MESSAGE No message servers found in landscape.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-22 15:30:15.802
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eigenaar'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.databinding 4 0 2021-12-22 15:38:48.881
+!MESSAGE Unhandled exception: Parameter swcomp could not be found.
+!STACK 0
+com.sap.adt.compatibility.exceptions.OutDatedClientException: Parameter swcomp could not be found.
+	at com.sap.adt.compatibility.internal.filter.CompatibleRestResourceFilter.filterResponse(CompatibleRestResourceFilter.java:63)
+	at com.sap.adt.compatibility.filter.AbstractCompatibleRestResourceFilterAdapter.filterResponse(AbstractCompatibleRestResourceFilterAdapter.java:38)
+	at com.sap.adt.communication.internal.resources.RestResource.runResponseFilters(RestResource.java:214)
+	at com.sap.adt.communication.internal.resources.RestResource.invoke(RestResource.java:139)
+	at com.sap.adt.communication.internal.resources.RestResource.post(RestResource.java:91)
+	at com.sap.adt.packages.internal.checkservice.AdtPackageCommonCheckService.check(AdtPackageCommonCheckService.java:138)
+	at com.sap.adt.packages.ui.internal.wizards.v1.NewPackageWizard.doValidatePackagePage(NewPackageWizard.java:365)
+	at com.sap.adt.packages.ui.internal.wizards.v1.PackagePropertiesWizardPage$PageChangeListener.lambda$0(PackagePropertiesWizardPage.java:494)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.core.databinding 4 0 2021-12-22 15:38:48.886
+!MESSAGE Unhandled exception: Parameter swcomp could not be found.
+!STACK 0
+com.sap.adt.compatibility.exceptions.OutDatedClientException: Parameter swcomp could not be found.
+	at com.sap.adt.compatibility.internal.filter.CompatibleRestResourceFilter.filterResponse(CompatibleRestResourceFilter.java:63)
+	at com.sap.adt.compatibility.filter.AbstractCompatibleRestResourceFilterAdapter.filterResponse(AbstractCompatibleRestResourceFilterAdapter.java:38)
+	at com.sap.adt.communication.internal.resources.RestResource.runResponseFilters(RestResource.java:214)
+	at com.sap.adt.communication.internal.resources.RestResource.invoke(RestResource.java:139)
+	at com.sap.adt.communication.internal.resources.RestResource.post(RestResource.java:91)
+	at com.sap.adt.packages.internal.checkservice.AdtPackageCommonCheckService.check(AdtPackageCommonCheckService.java:138)
+	at com.sap.adt.packages.ui.internal.wizards.v1.NewPackageWizard.doValidatePackagePage(NewPackageWizard.java:365)
+	at com.sap.adt.packages.ui.internal.wizards.v1.PackagePropertiesWizardPage$PageChangeListener.lambda$0(PackagePropertiesWizardPage.java:494)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+!SESSION 2021-12-22 17:08:13.651 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=11.0.12
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=nl_BE
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 17:08:15.120
+!MESSAGE Both 'com.sap.adt.chke' and 'com.sap.adt.chke' register a package for 'http://www.sap.com/adt/atc/checkexemptionsview'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 17:08:15.128
+!MESSAGE Both 'com.sap.adt.tm.model' and 'com.sap.adt.tm.model' register a package for 'http://www.sap.com/cts/adt/tk'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 17:08:15.141
+!MESSAGE Both 'com.sap.adt.chke' and 'com.sap.adt.chke' register an extension parser for 'chkelist'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2021-12-22 17:08:15.141
+!MESSAGE Both 'com.sap.adt.tools.core' and 'com.sap.adt.wda.common.ui' register an extension parser for 'configuration'
+
+!ENTRY org.eclipse.jface 2 0 2021-12-22 17:08:24.860
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-22 17:08:24.860
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74cad577,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@350ede1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-22 17:08:27.654
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eigenaar'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.sap.adt.util 1 0 2021-12-22 17:08:27.865
+!MESSAGE try to find keystore(s) of operating system
+
+!ENTRY com.sap.adt.util 1 0 2021-12-22 17:08:27.965
+!MESSAGE successfully loaded keystore "Windows-ROOT"
+
+!ENTRY com.sap.adt.util 1 0 2021-12-22 17:08:28.061
+!MESSAGE successfully loaded keystore "Windows-MY"
+
+!ENTRY com.sap.adt.destinations.model 2 0 2021-12-22 17:08:28.256
+!MESSAGE No message servers found in landscape.
