@@ -1,0 +1,18 @@
+@AbapCatalog.sqlViewName: 'ZSD040TEST'
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'test vieuws'
+define view ZSD_040_TEST as select from hrp1000 {
+
+        key plvar as Plvar,
+        key otype as Otype,
+        key objid as Objid,
+        key istat as Istat,
+        key begda as Begda,
+        key endda as Endda,
+        key langu as Langu,
+        key seqnr as Seqnr,
+ 
+    
+}

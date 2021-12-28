@@ -1,0 +1,28 @@
+@AbapCatalog.sqlViewName: 'ZSD040C_PERSVIEW'
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'overview personnel fiori annotations'
+
+@OData.publish: true
+
+
+define view ZSD_040_C_PERS_VIEW as select from ZSD_040_TEST_VIEW{
+
+            
+           
+           
+          
+
+
+
+          @UI.lineItem: [{position: 10, label: 'Personnel number'}]
+          key Pernr,
+          @UI.lineItem: [{position: 20, label: 'Lastname'}]
+          key Endda,
+          @UI.lineItem: [{position: 30, label: 'Firstname'}]
+          key Begda,
+          @UI.lineItem: [{position: 40, label: 'Birth Date'}]
+          key Seqnr
+            
+}

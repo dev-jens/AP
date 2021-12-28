@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmlns:ui="http://www.eclipse.org/ui/2010/UIModel/application/ui" xmi:id="_0Rs9wEkfEeyYLbUnSjoipg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_0Rs9wUkfEeyYLbUnSjoipg" bindingContexts="_0Rwo6UkfEeyYLbUnSjoipg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.packages.ui.editors.PackageEditorV1&quot; name=&quot;zsd_040_examen_ed.devck&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_examen_ed/zsd_040_examen_ed.devck&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_examen_ed/zsd_040_examen_ed.devck&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_carriers.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_carriers/zsd_040_c_carriers.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_carriers/zsd_040_c_carriers.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_association_view.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_association_view/zsd_040_association_view.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_association_view/zsd_040_association_view.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.abapClassEditor&quot; name=&quot;zcl_zsd_040_c_carriers.apclass&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_c_carriers/zcl_zsd_040_c_carriers.apclass&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_c_carriers/zcl_zsd_040_c_carriers.apclass&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.abapClassEditor&quot; name=&quot;zcl_zsd_040_scarr.apclass&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_scarr/zcl_zsd_040_scarr.apclass&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_scarr/zcl_zsd_040_scarr.apclass&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.programs.ui.AdtProgramEditor&quot; name=&quot;zsd_040_test.asprog&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/programs/programs/zsd_040_test/zsd_040_test.asprog&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/programs/programs/zsd_040_test/zsd_040_test.asprog&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_scarr.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scarr/zsd_040_scarr.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scarr/zsd_040_scarr.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_currency_conversion.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_sflight.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sflight/zsd_040_sflight.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sflight/zsd_040_sflight.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_customer.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_customer/zsd_040_customer.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_customer/zsd_040_customer.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_sbooks.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sbooks/zsd_040_sbooks.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sbooks/zsd_040_sbooks.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_scounter.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scounter/zsd_040_scounter.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scounter/zsd_040_scounter.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_soheader.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soheader/zsd_040_soheader.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soheader/zsd_040_soheader.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_soitem.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soitem/zsd_040_soitem.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soitem/zsd_040_soitem.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.ddic.domain.editor&quot; name=&quot;zsd_040_d_id.domadd&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_d_id/zsd_040_d_id.domadd&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_d_id/zsd_040_d_id.domadd&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.ddic.domain.editor&quot; name=&quot;zsd_040_dt_id.domadd&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_dt_id/zsd_040_dt_id.domadd&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_dt_id/zsd_040_dt_id.domadd&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_currency_conversion.asddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.asddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.asddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_flightprice.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_flightprice/zsd_040_flightprice.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_flightprice/zsd_040_flightprice.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_spfli.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_spfli/zsd_040_spfli.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_spfli/zsd_040_spfli.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_header.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_header/zsd_040_header.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_header/zsd_040_header.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.packages.ui.editors.PackageEditorV1&quot; name=&quot;zsd_040_development.devck&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_development/zsd_040_development.devck&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_development/zsd_040_development.devck&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_personnel_overview.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_personnel_overview/zsd_040_personnel_overview.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_personnel_overview/zsd_040_personnel_overview.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_carriers.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_carriers/zsd_040_c_carriers.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_carriers/zsd_040_c_carriers.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_person.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_person/zsd_040_c_person.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_person/zsd_040_c_person.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_personnel_overview.asddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_personnel_overview/zsd_040_personnel_overview.asddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_personnel_overview/zsd_040_personnel_overview.asddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_person.asddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_person/zsd_040_c_person.asddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_person/zsd_040_c_person.asddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_pers_view.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_pers_view/zsd_040_c_pers_view.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_pers_view/zsd_040_c_pers_view.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_test_view2.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test_view2/zsd_040_test_view2.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test_view2/zsd_040_test_view2.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_test.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test/zsd_040_test.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test/zsd_040_test.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_test_view.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_test_view/zsd_040_c_test_view.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_test_view/zsd_040_c_test_view.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.wbobj.dictionary.tabldt.ui.editors.DdicTableEditor&quot; name=&quot;zsd_040_person.aptabldt&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj2/dictionary/tabldt/zsd_040_person/zsd_040_person.aptabldt&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj2/dictionary/tabldt/zsd_040_person/zsd_040_person.aptabldt&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_pers_view.asddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_pers_view/zsd_040_c_pers_view.asddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_pers_view/zsd_040_c_pers_view.asddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_test_view.asddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test_view/zsd_040_test_view.asddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test_view/zsd_040_test_view.asddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_test_view.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test_view/zsd_040_test_view.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_test_view/zsd_040_test_view.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.abapClassEditor&quot; name=&quot;zcl_zsd_040_c_pers_view.apclass&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_c_pers_view/zcl_zsd_040_c_pers_view.apclass&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_c_pers_view/zcl_zsd_040_c_pers_view.apclass&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.abapClassEditor&quot; name=&quot;zcl_zsd_040_personnel_overview.aclass&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_personnel_overview/zcl_zsd_040_personnel_overview.aclass&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_personnel_overview/zcl_zsd_040_personnel_overview.aclass&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_scarr.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scarr/zsd_040_scarr.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scarr/zsd_040_scarr.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_personnel_overview.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_personnel_overview/zsd_040_c_personnel_overview.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_personnel_overview/zsd_040_c_personnel_overview.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.abapClassEditor&quot; name=&quot;zcl_zsd_040_scarr.aclass&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_scarr/zcl_zsd_040_scarr.aclass&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_scarr/zcl_zsd_040_scarr.aclass&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.functions.ui.includes.abapFunctionGroupEditor&quot; name=&quot;zsd_040_functions.apfugr&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/functions/groups/zsd_040_functions/zsd_040_functions.apfugr&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/functions/groups/zsd_040_functions/zsd_040_functions.apfugr&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.abapClassEditor&quot; name=&quot;zcl_zsd_040_scarr.apclass&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_scarr/zcl_zsd_040_scarr.apclass&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_scarr/zcl_zsd_040_scarr.apclass&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.abapClassEditor&quot; name=&quot;zcl_zsd_040_c_carriers.apclass&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_c_carriers/zcl_zsd_040_c_carriers.apclass&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/classlib/classes/zcl_zsd_040_c_carriers/zcl_zsd_040_c_carriers.apclass&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.packages.ui.editors.PackageEditorV1&quot; name=&quot;zsd_040_examen_ed.devck&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_examen_ed/zsd_040_examen_ed.devck&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_examen_ed/zsd_040_examen_ed.devck&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.packages.ui.editors.PackageEditorV1&quot; name=&quot;zsd_040_test_package.devck&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_test_package/zsd_040_test_package.devck&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_test_package/zsd_040_test_package.devck&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.packages.ui.editors.PackageEditorV1&quot; name=&quot;zsd_040_development.devck&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_development/zsd_040_development.devck&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/packages/devck/zsd_040_development/zsd_040_development.devck&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_personeel_overzicht.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_personeel_overzicht/zsd_040_personeel_overzicht.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_personeel_overzicht/zsd_040_personeel_overzicht.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_currency_conversion.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_soheader.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soheader/zsd_040_soheader.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soheader/zsd_040_soheader.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_soitem.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soitem/zsd_040_soitem.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_soitem/zsd_040_soitem.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.wbobj.dictionary.tablds.ui.editors.DdicStructureEditor&quot; name=&quot;zsd_040_s_person.aptablds&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj2/dictionary/tablds/zsd_040_s_person/zsd_040_s_person.aptablds&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj2/dictionary/tablds/zsd_040_s_person/zsd_040_s_person.aptablds&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.ddic.dataelement.ui.editors.BlueEditor&quot; name=&quot;zsd_040_dt_name.dtelde&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/dictionary/dtelde/zsd_040_dt_name/zsd_040_dt_name.dtelde&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/dictionary/dtelde/zsd_040_dt_name/zsd_040_dt_name.dtelde&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.ddic.dataelement.ui.editors.BlueEditor&quot; name=&quot;zsd_040_dt_id.dtelde&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/dictionary/dtelde/zsd_040_dt_id/zsd_040_dt_id.dtelde&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/dictionary/dtelde/zsd_040_dt_id/zsd_040_dt_id.dtelde&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_association_view.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_association_view/zsd_040_association_view.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_association_view/zsd_040_association_view.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.programs.ui.AdtProgramEditor&quot; name=&quot;zsd_040_test.asprog&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/programs/programs/zsd_040_test/zsd_040_test.asprog&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/programs/programs/zsd_040_test/zsd_040_test.asprog&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_sflight.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sflight/zsd_040_sflight.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sflight/zsd_040_sflight.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_customer.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_customer/zsd_040_customer.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_customer/zsd_040_customer.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_sbooks.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sbooks/zsd_040_sbooks.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_sbooks/zsd_040_sbooks.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_scounter.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scounter/zsd_040_scounter.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_scounter/zsd_040_scounter.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.ddic.domain.editor&quot; name=&quot;zsd_040_d_id.domadd&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_d_id/zsd_040_d_id.domadd&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_d_id/zsd_040_d_id.domadd&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.ddic.domain.editor&quot; name=&quot;zsd_040_dt_id.domadd&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_dt_id/zsd_040_dt_id.domadd&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/wbobj/dictionary/domadd/zsd_040_dt_id/zsd_040_dt_id.domadd&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_currency_conversion.asddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.asddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_currency_conversion/zsd_040_c_currency_conversion.asddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_flightprice.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_flightprice/zsd_040_flightprice.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_flightprice/zsd_040_flightprice.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_spfli.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_spfli/zsd_040_spfli.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_spfli/zsd_040_spfli.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_header.apddls&quot; tooltip=&quot;R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_header/zsd_040_header.apddls&quot;>&#xD;&#xA;&lt;persistable path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_header/zsd_040_header.apddls&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_0Rs9wUkfEeyYLbUnSjoipg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_0Rs9wkkfEeyYLbUnSjoipg" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="982" height="1054">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_0Rs9wUkfEeyYLbUnSjoipg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_0Rs9wkkfEeyYLbUnSjoipg" label="%trimmedwindow.label.eclipseSDK" x="2778" y="-13" width="653" height="695">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -70,7 +70,7 @@
           <tags>persp.newWizSC:org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard</tags>
           <tags>persp.actionSet:org.eclipse.jdt.junit.JUnitActionSet</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs9xUkfEeyYLbUnSjoipg" selectedElement="_0Rs9zkkfEeyYLbUnSjoipg" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs9xUkfEeyYLbUnSjoipg" selectedElement="_0Rs9xkkfEeyYLbUnSjoipg" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs9xkkfEeyYLbUnSjoipg" containerData="2500" selectedElement="_0Rs9x0kfEeyYLbUnSjoipg">
               <children xsi:type="basic:PartStack" xmi:id="_0Rs9x0kfEeyYLbUnSjoipg" elementId="left" containerData="6000" selectedElement="_0Rs9yEkfEeyYLbUnSjoipg">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
@@ -160,7 +160,7 @@
           </children>
         </children>
         <children xsi:type="advanced:Perspective" xmi:id="_0Rs930kfEeyYLbUnSjoipg" elementId="com.sap.adt.ui.AbapPerspective" selectedElement="_0Rs94EkfEeyYLbUnSjoipg" label="ABAP" iconURI="platform:/plugin/com.sap.adt.tools.core.ui/icons/view/abap_perspective.png">
-          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
           <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
           <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
           <tags>persp.actionSet:org.eclipse.text.quicksearch.actionSet</tags>
@@ -173,34 +173,33 @@
           <tags>persp.actionSet:org.eclipse.ui.NavigateActionSet</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
           <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.presentation</tags>
-          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
-          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
-          <tags>persp.viewSC:org.eclipse.ui.views.PropertySheet</tags>
-          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
-          <tags>persp.viewSC:org.eclipse.ui.texteditor.TemplatesView</tags>
-          <tags>persp.viewSC:org.eclipse.pde.runtime.LogView</tags>
-          <tags>persp.viewSC:com.sap.adt.communication.ui.views.LoggingView</tags>
-          <tags>persp.viewSC:org.eclipse.search.ui.views.SearchView</tags>
-          <tags>persp.viewSC:org.eclipse.ui.views.ProgressView</tags>
-          <tags>persp.viewSC:com.sap.adt.tools.abapsource.ui.abapunit.TestRunnerView</tags>
-          <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
-          <tags>persp.newWizSC:com.sap.adt.abapProjectWizard</tags>
-          <tags>persp.newWizSC:com.sap.adt.a4c.abap.cloud.authentication.ui.abapCloudProjectWizard</tags>
-          <tags>persp.newWizSC:com.sap.adt.oo.ui.newWizards.NewClassWizard</tags>
-          <tags>persp.newWizSC:com.sap.adt.oo.ui.newWizards.NewInterfaceWizard</tags>
-          <tags>persp.newWizSC:com.sap.adt.packages.ui.wizards.v1.NewPackageWizard</tags>
           <tags>persp.showIn:org.eclipse.ui.navigator.ProjectExplorer</tags>
-          <tags>persp.viewSC:com.sap.adt.objectrelations.ui.AdtObjectNetworkView</tags>
-          <tags>persp.viewSC:com.sap.mts.esr.ui.esrbrowserview</tags>
-          <tags>persp.viewSC:com.sap.mts.serviceregistry.ui.serviceregistryview</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
-          <tags>persp.perspSC:com.sap.adt.profiler.ui.ProfilingPerspective</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.profileActionSet</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs94EkfEeyYLbUnSjoipg" selectedElement="_0Rs94UkfEeyYLbUnSjoipg" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs94UkfEeyYLbUnSjoipg" containerData="2385" selectedElement="_0Rs94kkfEeyYLbUnSjoipg">
+          <tags>persp.newWizSC:com.sap.adt.abapProjectWizard</tags>
+          <tags>persp.newWizSC:com.sap.adt.packages.ui.wizards.v1.NewPackageWizard</tags>
+          <tags>persp.newWizSC:com.sap.adt.a4c.abap.cloud.authentication.ui.abapCloudProjectWizard</tags>
+          <tags>persp.newWizSC:com.sap.adt.oo.ui.newWizards.NewInterfaceWizard</tags>
+          <tags>persp.newWizSC:com.sap.adt.oo.ui.newWizards.NewClassWizard</tags>
+          <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
+          <tags>persp.perspSC:com.sap.adt.profiler.ui.ProfilingPerspective</tags>
+          <tags>persp.viewSC:com.sap.adt.communication.ui.views.LoggingView</tags>
+          <tags>persp.viewSC:com.sap.adt.objectrelations.ui.AdtObjectNetworkView</tags>
+          <tags>persp.viewSC:com.sap.adt.tools.abapsource.ui.abapunit.TestRunnerView</tags>
+          <tags>persp.viewSC:com.sap.mts.esr.ui.esrbrowserview</tags>
+          <tags>persp.viewSC:com.sap.mts.serviceregistry.ui.serviceregistryview</tags>
+          <tags>persp.viewSC:org.eclipse.ui.texteditor.TemplatesView</tags>
+          <tags>persp.viewSC:org.eclipse.search.ui.views.SearchView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProgressView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.PropertySheet</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.eclipse.pde.runtime.LogView</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs94EkfEeyYLbUnSjoipg" selectedElement="_0Rs96EkfEeyYLbUnSjoipg" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs94UkfEeyYLbUnSjoipg" containerData="3271" selectedElement="_0Rs94kkfEeyYLbUnSjoipg">
               <children xsi:type="basic:PartStack" xmi:id="_0Rs94kkfEeyYLbUnSjoipg" elementId="topLeftArea" containerData="6000" selectedElement="_0Rs940kfEeyYLbUnSjoipg">
-                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_0Rs940kfEeyYLbUnSjoipg" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_0RuzAUkfEeyYLbUnSjoipg" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -221,8 +220,8 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs96EkfEeyYLbUnSjoipg" containerData="7615" selectedElement="_0Rs96UkfEeyYLbUnSjoipg">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs96UkfEeyYLbUnSjoipg" containerData="6600" selectedElement="_0Rs96kkfEeyYLbUnSjoipg" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs96EkfEeyYLbUnSjoipg" containerData="6729" selectedElement="_0Rs96UkfEeyYLbUnSjoipg">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs96UkfEeyYLbUnSjoipg" containerData="6567" selectedElement="_0Rs96kkfEeyYLbUnSjoipg" horizontal="true">
                 <children xsi:type="basic:PartSashContainer" xmi:id="_0Rs96kkfEeyYLbUnSjoipg" containerData="6600" selectedElement="_0Rs960kfEeyYLbUnSjoipg" horizontal="true">
                   <children xsi:type="advanced:Placeholder" xmi:id="_0Rs960kfEeyYLbUnSjoipg" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_0Ruy9kkfEeyYLbUnSjoipg"/>
                   <children xsi:type="basic:PartStack" xmi:id="_0Rs97EkfEeyYLbUnSjoipg" elementId="com.sap.mts.serviceregistry.ui.serviceregistryviewMStack" toBeRendered="false" containerData="3000">
@@ -257,10 +256,15 @@
                     <tags>View</tags>
                     <tags>categoryTag:ABAP</tags>
                   </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_oyiyoWZGEeyc49yGqNQK8Q" elementId="com.sap.adt.docu.atc.view:com.sap.adt.docu.atc.view1640521411270" toBeRendered="false" ref="_oyiyoGZGEeyc49yGqNQK8Q" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:ABAP</tags>
+                  </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_0Rs99UkfEeyYLbUnSjoipg" elementId="bottomRightArea" containerData="3400" selectedElement="_0Rs99kkfEeyYLbUnSjoipg">
+              <children xsi:type="basic:PartStack" xmi:id="_0Rs99UkfEeyYLbUnSjoipg" elementId="bottomRightArea" containerData="3433" selectedElement="_0Rs99kkfEeyYLbUnSjoipg">
                 <tags>ABAP</tags>
+                <tags>Terminal</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_0Rs99kkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.views.ProblemView" ref="_0RuzG0kfEeyYLbUnSjoipg" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -293,6 +297,14 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_0Rs9_UkfEeyYLbUnSjoipg" elementId="com.sap.adt.ddic.ui.LogView:067447a8-30bb-4de1-8f47-a7e1294a7343" toBeRendered="false" ref="_0RuzV0kfEeyYLbUnSjoipg" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:ABAP</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_WDETcWWQEeyrWfZRX-fZcw" elementId="com.sap.adt.ddic.ui.LogView:6ff13474-feea-49b0-a123-07009a203d55" ref="_WDETcGWQEeyrWfZRX-fZcw" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:ABAP</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_Ks-x4GXFEeyzIMOzB4_Gmg" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" ref="_0RuzQEkfEeyYLbUnSjoipg" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:Terminal</tags>
                 </children>
               </children>
             </children>
@@ -346,9 +358,30 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_0Ruy9kkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.editorss" selectedElement="_0Ruy90kfEeyYLbUnSjoipg">
-      <children xsi:type="basic:PartStack" xmi:id="_0Ruy90kfEeyYLbUnSjoipg" elementId="org.eclipse.e4.primaryDataStack">
+      <children xsi:type="basic:PartStack" xmi:id="_0Ruy90kfEeyYLbUnSjoipg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_pd26UGZjEeyc49yGqNQK8Q">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <tags>active</tags>
+        <children xsi:type="basic:Part" xmi:id="_n_FrsGZiEeyc49yGqNQK8Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[R36] ZSD_040_C_PERSON" iconURI="platform:/plugin/com.sap.adt.cds.ddl.ui/icons/obj/ddl_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_person.asddls&quot; partName=&quot;[R36] ZSD_040_C_PERSON&quot; title=&quot;[R36] ZSD_040_C_PERSON&quot; tooltip=&quot;Data Definition ZSD_040_C_PERSON [R36]  - inactive, locked - R36_201_devsd-040_en&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_person/zsd_040_c_person.asddls&quot;/>&#xD;&#xA;&lt;editorState activeTabOnSaveState=&quot;0&quot;>&#xD;&#xA;&lt;selectionOffsetzsd_040_c_person.asddls selectionOffset=&quot;598&quot;/>&#xD;&#xA;&lt;selectionLengthzsd_040_c_person.asddls selectionLength=&quot;0&quot;/>&#xD;&#xA;&lt;/editorState>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_pd26UGZjEeyc49yGqNQK8Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[R36] ZSD_040_PERSONNEL_OVERVIEW" iconURI="platform:/plugin/com.sap.adt.cds.ddl.ui/icons/obj/ddl_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_personnel_overview.asddls&quot; partName=&quot;[R36] ZSD_040_PERSONNEL_OVERVIEW&quot; title=&quot;[R36] ZSD_040_PERSONNEL_OVERVIEW&quot; tooltip=&quot;Data Definition ZSD_040_PERSONNEL_OVERVIEW [R36]  - active, locked - R36_201_devsd-040_en&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_personnel_overview/zsd_040_personnel_overview.asddls&quot;/>&#xD;&#xA;&lt;editorState activeTabOnSaveState=&quot;0&quot;>&#xD;&#xA;&lt;selectionOffsetzsd_040_personnel_overview.asddls selectionOffset=&quot;350&quot;/>&#xD;&#xA;&lt;selectionLengthzsd_040_personnel_overview.asddls selectionLength=&quot;0&quot;/>&#xD;&#xA;&lt;/editorState>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_pdziEGaGEeyc49yGqNQK8Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="[R36] ZSD_040_C_CARRIERS" iconURI="platform:/plugin/com.sap.adt.cds.ddl.ui/icons/obj/ddl_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor&quot; name=&quot;zsd_040_c_carriers.asddls&quot; partName=&quot;[R36] ZSD_040_C_CARRIERS&quot; title=&quot;[R36] ZSD_040_C_CARRIERS&quot; tooltip=&quot;Data Definition ZSD_040_C_CARRIERS [R36]  - active - R36_201_devsd-040_en&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/R36_201_devsd-040_en/.adt/ddic/ddlsources/zsd_040_c_carriers/zsd_040_c_carriers.asddls&quot;/>&#xD;&#xA;&lt;editorState activeTabOnSaveState=&quot;0&quot;>&#xD;&#xA;&lt;selectionOffsetzsd_040_c_carriers.asddls selectionOffset=&quot;388&quot;/>&#xD;&#xA;&lt;selectionLengthzsd_040_c_carriers.asddls selectionLength=&quot;68&quot;/>&#xD;&#xA;&lt;/editorState>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>com.sap.adt.cds.ddl.ui.editors.DdlSourceEditor</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_0Ruy_UkfEeyYLbUnSjoipg" elementId="org.eclipse.jdt.ui.PackageExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Package Explorer" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/package.png" tooltip="" closeable="true">
@@ -374,8 +407,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1633079149405&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_0RuzAkkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -385,7 +416,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzG0kfEeyYLbUnSjoipg" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.ProblemsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;150&quot; org.eclipse.ui.ide.markerType=&quot;150&quot; org.eclipse.ui.ide.pathField=&quot;200&quot; org.eclipse.ui.ide.resourceField=&quot;150&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;500&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Errors&quot;/>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings (1 item)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;150&quot; org.eclipse.ui.ide.markerType=&quot;150&quot; org.eclipse.ui.ide.pathField=&quot;200&quot; org.eclipse.ui.ide.resourceField=&quot;150&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;500&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_0RuzHEkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.views.ProblemView">
@@ -421,8 +452,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzL0kfEeyYLbUnSjoipg" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.BookmarksView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.descriptionField&quot; categoryGroup=&quot;none&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.bookmarksGenerator&quot; partName=&quot;Bookmarks&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.descriptionField=&quot;500&quot; org.eclipse.ui.ide.locationField=&quot;150&quot; org.eclipse.ui.ide.pathField=&quot;200&quot; org.eclipse.ui.ide.resourceField=&quot;150&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.descriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <menus xmi:id="_t2jUwGWmEeyt0bJlPiZf2w" elementId="org.eclipse.ui.views.BookmarkView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_t2jUwWWmEeyt0bJlPiZf2w" elementId="org.eclipse.ui.views.BookmarkView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzMEkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.views.ProgressView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.progress.ProgressView"/>
@@ -445,8 +482,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzPUkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.texteditor.TemplatesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Templates" iconURI="platform:/plugin/com.sap.adt.tools.core.ui/icons/view/templates.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.texteditor.templates.TemplatesView"/>
       <persistedState key="originalCompatibilityViewBundle" value="com.sap.adt.tools.core.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <menus xmi:id="_tvVScGWmEeyt0bJlPiZf2w" elementId="org.eclipse.ui.texteditor.TemplatesView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_tvVScWWmEeyt0bJlPiZf2w" elementId="org.eclipse.ui.texteditor.TemplatesView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzPkkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.views.minimap.MinimapView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Minimap" iconURI="platform:/plugin/org.eclipse.ui.workbench.texteditor/icons/full/eview16/minimap.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.minimap.MinimapView"/>
@@ -463,8 +506,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzQEkfEeyYLbUnSjoipg" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Terminal" iconURI="platform:/plugin/org.eclipse.tm.terminal.view.ui/icons/eview16/terminal_view.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.tm.terminal.view.ui.view.TerminalsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.tm.terminal.view.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view>&#xD;&#xA;&lt;terminalConnections id=&quot;org.eclipse.tm.terminal.view.ui.TerminalsView&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Terminal</tags>
+      <menus xmi:id="_KtPQkGXFEeyzIMOzB4_Gmg" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_KtPQkWXFEeyzIMOzB4_Gmg" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzQUkfEeyYLbUnSjoipg" elementId="org.eclipse.jdt.junit.ResultView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="JUnit" iconURI="platform:/plugin/org.eclipse.jdt.junit/icons/full/eview16/junit.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.junit.ui.TestRunnerViewPart"/>
@@ -493,8 +542,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzSEkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.views.PropertySheet" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.properties.PropertySheet"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <menus xmi:id="_tm2E0GWmEeyt0bJlPiZf2w" elementId="org.eclipse.ui.views.PropertySheet">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_tm2E0WWmEeyt0bJlPiZf2w" elementId="org.eclipse.ui.views.PropertySheet" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzSUkfEeyYLbUnSjoipg" elementId="com.sap.adt.cds.ddl.ui.ActiveObjectView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Active Annotations" iconURI="platform:/plugin/com.sap.adt.cds.ddl.ui/icons/obj/Annotation.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="com.sap.adt.cds.ddl.ui.internal.views.activeannotations.DdlActiveAnnotationViewPart"/>
@@ -554,8 +609,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzU0kfEeyYLbUnSjoipg" elementId="com.sap.adt.feedreader.ui.FeedsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Feed Reader" iconURI="platform:/plugin/com.sap.adt.feedreader.ui/icons/etool/feed_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="com.sap.adt.feedreader.ui.internal.view.FeedsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="com.sap.adt.feedreader.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:ABAP</tags>
+      <menus xmi:id="_t-8bwGWmEeyt0bJlPiZf2w" elementId="com.sap.adt.feedreader.ui.FeedsView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_t-8bwWWmEeyt0bJlPiZf2w" elementId="com.sap.adt.feedreader.ui.FeedsView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_0RuzVEkfEeyYLbUnSjoipg" elementId="com.sap.adt.tm.ui.tmview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Transport Organizer" iconURI="platform:/plugin/com.sap.adt.tm.ui/icons/etool/transport.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="com.sap.adt.tm.ui.internal.view.TMView"/>
@@ -581,6 +642,30 @@
       </menus>
       <toolbar xmi:id="_0RuzWUkfEeyYLbUnSjoipg" elementId="com.sap.adt.ddic.ui.LogView" visible="false"/>
     </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_WDETcGWQEeyrWfZRX-fZcw" elementId="com.sap.adt.ddic.ui.LogView:6ff13474-feea-49b0-a123-07009a203d55" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Dictionary Log" iconURI="platform:/plugin/com.sap.adt.ddic.ui/icons/etool/abap_log.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="com.sap.adt.ddic.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="com.sap.adt.ddic.ui.internal.log.LogView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:ABAP</tags>
+      <menus xmi:id="_WDSV4GWQEeyrWfZRX-fZcw" elementId="com.sap.adt.ddic.ui.LogView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_WDSV4WWQEeyrWfZRX-fZcw" elementId="com.sap.adt.ddic.ui.LogView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_oyiyoGZGEeyc49yGqNQK8Q" elementId="com.sap.adt.docu.atc.view:com.sap.adt.docu.atc.view1640521411270" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="ABAP Problem Description" iconURI="platform:/plugin/com.sap.adt.docu.ui/icons/etool/abap_help.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="com.sap.adt.docu.ui"/>
+      <persistedState key="originalCompatibilityViewClass" value="com.sap.adt.docu.ui.internal.AtcHelpContentView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:ABAP</tags>
+      <menus xmi:id="_oyyDMGZGEeyc49yGqNQK8Q" elementId="com.sap.adt.docu.atc.view">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_oyyDMWZGEeyc49yGqNQK8Q" elementId="com.sap.adt.docu.atc.view" visible="false"/>
+    </sharedElements>
     <trimBars xmi:id="_0RuzWkkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.platform">
       <children xsi:type="menu:ToolBar" xmi:id="_0RuzW0kfEeyYLbUnSjoipg" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -588,18 +673,33 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0RuzXUkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ZHAtIGNBEey9063jA7xw1Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_0R4k1EkfEeyYLbUnSjoipg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_drHIAGZCEeyc49yGqNQK8Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_0R4k1EkfEeyYLbUnSjoipg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0RuzakkfEeyYLbUnSjoipg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_0Ruza0kfEeyYLbUnSjoipg" elementId="group.edit" toBeRendered="false"/>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_0RuzbEkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.workbench.edit" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_0RuzbEkfEeyYLbUnSjoipg" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0RuzcEkfEeyYLbUnSjoipg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_0RuzcUkfEeyYLbUnSjoipg" elementId="additions" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_wHXIsGXFEeyzIMOzB4_Gmg" elementId="org.eclipse.egit.ui.gitaction" visible="false">
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_wI1IUGXFEeyzIMOzB4_Gmg" elementId="org.eclipse.team.ui.actionSet" visible="false">
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_wJdacGXFEeyzIMOzB4_Gmg" elementId="org.eclipse.ui.WorkingSetActionSet" visible="false">
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_wJHcMGXFEeyzIMOzB4_Gmg" elementId="org.eclipse.ui.WorkingSetModificationActionSet" visible="false">
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_wJyKkGXFEeyzIMOzB4_Gmg" elementId="org.eclipse.wst.ws.explorer.explorer" visible="false">
+        <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0RvaJ0kfEeyYLbUnSjoipg" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
@@ -619,7 +719,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0RvaO0kfEeyYLbUnSjoipg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ZHDwcGNBEey9063jA7xw1Q" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_0R4kdUkfEeyYLbUnSjoipg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_drMnkGZCEeyc49yGqNQK8Q" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_0R4kdUkfEeyYLbUnSjoipg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_0RvaSUkfEeyYLbUnSjoipg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2081,10 +2181,10 @@
       <command href="platform:/plugin/com.sap.adt.tools.core.ui/fragment.e4xmi#_J8TRgDjgEeiURaPJBnuGYA"/>
     </children>
   </toolBarContributions>
-  <toolBarContributions xmi:id="_YMQ8IWNBEey9063jA7xw1Q" elementId="com.sap.adt.tools.core.ui.toolbarcontribution.refresh" contributorURI="platform:/plugin/com.sap.adt.tools.core.ui" parentId="com.sap.adt.tools.core.ui.toolbar" positionInParent="after=com.sap.adt.tools.core.ui.toolbarcontribution.handledtoolitem.unlock">
-    <children xsi:type="menu:HandledToolItem" xmi:id="_YMQ8ImNBEey9063jA7xw1Q" elementId="com.sap.adt.tools.core.ui.toolbarcontribution.handledtoolitem.refresh" contributorURI="platform:/plugin/com.sap.adt.tools.core.ui" accessibilityPhrase="%command.refresh.name_xmit" label="" iconURI="platform:/plugin/com.sap.adt.tools.core.ui/icons/etool/refresh_nav.png" tooltip="%command.refresh.name_xmit" command="_0R39WUkfEeyYLbUnSjoipg">
+  <toolBarContributions xmi:id="_cfrPoWZCEeyc49yGqNQK8Q" elementId="com.sap.adt.tools.core.ui.toolbarcontribution.refresh" contributorURI="platform:/plugin/com.sap.adt.tools.core.ui" parentId="com.sap.adt.tools.core.ui.toolbar" positionInParent="after=com.sap.adt.tools.core.ui.toolbarcontribution.handledtoolitem.unlock">
+    <children xsi:type="menu:HandledToolItem" xmi:id="_cfrPomZCEeyc49yGqNQK8Q" elementId="com.sap.adt.tools.core.ui.toolbarcontribution.handledtoolitem.refresh" contributorURI="platform:/plugin/com.sap.adt.tools.core.ui" accessibilityPhrase="%command.refresh.name_xmit" label="" iconURI="platform:/plugin/com.sap.adt.tools.core.ui/icons/etool/refresh_nav.png" tooltip="%command.refresh.name_xmit" command="_0R39WUkfEeyYLbUnSjoipg">
       <tags>e4_disabled_icon_image_key=platform:/plugin/com.sap.adt.tools.core.ui/icons/dtool/refresh_nav.png</tags>
-      <visibleWhen xsi:type="ui:CoreExpression" xmi:id="_YMQ8I2NBEey9063jA7xw1Q" contributorURI="platform:/plugin/com.sap.adt.tools.core.ui" coreExpressionId="com.sap.adt.tools.core.ui.toolsActive"/>
+      <visibleWhen xsi:type="ui:CoreExpression" xmi:id="_cfrPo2ZCEeyc49yGqNQK8Q" contributorURI="platform:/plugin/com.sap.adt.tools.core.ui" coreExpressionId="com.sap.adt.tools.core.ui.toolsActive"/>
     </children>
   </toolBarContributions>
   <toolBarContributions xmi:id="_0R2vXkkfEeyYLbUnSjoipg" elementId="com.sap.adt.tools.abapsource.ui.toolbarcontribution.switchActiveInactive" contributorURI="platform:/plugin/com.sap.adt.tools.abapsource.ui" accessibilityPhrase="" parentId="com.sap.adt.tools.core.ui.toolbar" positionInParent="after=com.sap.adt.activation.ui.command.multiActivation">

@@ -1,0 +1,23 @@
+@AbapCatalog.sqlViewName: 'ZSD040OZCHT'
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'persooneel overzicht'
+define view ZSD_040_PERSONEEL_OVERZICHT as select from pa0001 as pa1
+left outer join pa0002 as pa2
+    on pa1.itbld = pa2.itbld {
+    
+    
+    key pa1.pernr as Personel_Number,
+    key pa2.vnamc as Firstname,
+    key pa2.nchmc as Lastname,
+    key pa1.ename as name_of_employee,
+    key pa1.sname as voorachter,
+    
+    key pa2.gbdat as Birth_date,
+    key pa1.werks as Personel_Area,
+    key pa1.bukrs as Company_Code,
+    key pa1.btrtl as Personel_Subgroup
+
+    
+}

@@ -1,0 +1,8 @@
+@EndUserText.label : 'Person'
+@AbapCatalog.enhancementCategory : #NOT_EXTENSIBLE
+define structure zsd_040_s_person {
+  mandt : mandt;
+  id    : zsd_040_dt_id;
+  name  : zsd_040_dt_name;
+
+}
