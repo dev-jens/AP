@@ -1,6 +1,11 @@
 eclipse.preferences.version=1
 rndWordCompletionCounter$parameters.price=1
-rndWordCompletionCounterWordList=rndWordCompletionCounteras select;rndWordCompletionCounterfrom;
+rndWordCompletionCounterWordList=rndWordCompletionCounteras select;rndWordCompletionCountercast(;rndWordCompletionCounterfrom;
 rndWordCompletionCounteras\ select=1
+rndWordCompletionCountercast(=2
 rndWordCompletionCounterfrom=1
+rndWordCompletionCounterinner\ join=1
+rndWordCompletionCounterjoin=1
+rndWordCompletionCounterkey=2
+rndWordCompletionCounterleft\ outer=1
 rndWordCompletionCounterparameters=1

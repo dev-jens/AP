@@ -1,0 +1,10 @@
+@EndUserText.label : 'PERSON DB'
+@AbapCatalog.enhancementCategory : #NOT_CLASSIFIED
+@AbapCatalog.tableCategory : #TRANSPARENT
+@AbapCatalog.deliveryClass : #A
+@AbapCatalog.dataMaintenance : #LIMITED
+define table zsd_040_person {
+  key mandt : mandt not null;
+  key id    : id not null;
+
+}

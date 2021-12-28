@@ -1,0 +1,18 @@
+@AbapCatalog.sqlViewName: ''
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'overview personnel fiori annotations'
+define view ZSD_040_C_PERSONNEL_OVERVIEW as select from ZSD_040_PERSONNEL_OVERVIEW {
+        
+        
+        key Personel_Number,
+        key Lastname,
+        key Firstname,
+        key Birth_date,
+        key Personel_Area,
+        key Company_Code,
+        key Personel_Subgroup,
+        key orgUnit_name
+    
+}

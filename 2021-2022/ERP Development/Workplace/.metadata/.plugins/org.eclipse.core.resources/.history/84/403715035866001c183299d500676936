@@ -1,0 +1,12 @@
+@AbapCatalog.sqlViewName: ''
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'fiori test'
+define view ZSD_040_C_TEST_VIEW as select from ZSD_040_TEST_VIEW2 {
+        key Pernr,
+        key Endda,
+        key Begda,
+        key Seqnr
+    
+}

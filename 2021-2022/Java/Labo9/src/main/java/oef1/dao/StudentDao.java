@@ -28,9 +28,6 @@ public class StudentDao {
 
     }
 
-
-
-
     public List<Student> getStudents(){
         try(Session session = hibernateUtil.getSessionFactory().openSession()) {
             return session.createQuery("SELECT s FROM Student s", Student.class).list();

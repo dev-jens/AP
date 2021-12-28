@@ -1,0 +1,51 @@
+@AbapCatalog.sqlViewName: 'ZSD040C_PERSON'
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'fiori personnel view fiori app'
+
+@OData.publish: true
+@Search.searchable: true
+@UI.headerInfo: {
+  typeName: 'Personnel info',
+  title: {
+    value: 'Personel_Number',
+    type: #STANDARD
+  }
+}
+
+
+define view ZSD_040_C_PERSON as select from ZSD_040_PERSONNEL_OVERVIEW {
+ 
+
+    @UI.lineItem: [{position: 10, label: 'Personel Number'}]
+    
+    key Personel_Number,
+    
+    @UI.lineItem: [{position: 20, label: 'Lastname'}]
+    @Search.defaultSearchElement: true
+    @Search.fuzzinessThreshold: 0.7
+    
+    Lastname,
+    
+    @UI.lineItem: [{position: 30, label: 'Firstname'}]
+    @Search.defaultSearchElement: true
+    @Search.fuzzinessThreshold: 0.7  
+    @UI.dataPoint.title : 'Firstname'
+    Firstname,
+    
+    @UI.lineItem: [{position: 40, label: 'birthday'}]
+    @UI.selectionField.position : 10
+    @UI.dataPoint.title : 'birthday'
+  
+    birthday,
+    
+    @UI.lineItem: [{position: 50, label: 'Company Code'}]
+    @UI.selectionField.position : 20
+    @UI.dataPoint.title : 'company_Code'
+    Company_Code
+    
+    
+    
+    
+}

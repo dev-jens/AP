@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="price as Price,"/>
+		<item key="selection" value="left outer join hrp1000 as hrp"/>
 		<list key="findhistory">
+			<item value="left outer join hrp1000 as hrp"/>
 			<item value="price as Price,"/>
 		</list>
 	</section>
