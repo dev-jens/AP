@@ -1,6 +1,7 @@
 package Labo1.Vliegtuig;
 
 import java.util.ArrayList;
+import java.util.TreeSet;
 
 public class FlightController {
     public static void main(String[] args) {
@@ -13,6 +14,8 @@ public class FlightController {
         passengerList.add(p2);
 
         System.out.println(passengerList);
+
+
 
     }
 }
