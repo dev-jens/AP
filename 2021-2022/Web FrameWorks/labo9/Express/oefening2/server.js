@@ -60,9 +60,7 @@ router.route('/api/pokemons')
 router.route("/api/pokemons/:id")
 
 .get((req, res) => {
-    var id = req.params.id;
-    console.log(pokemons[id])
-    res.send(pokemons[id-1])
+    res.send(pokemons[req.params.id -1])
 })
 
 .delete((req, res) => {

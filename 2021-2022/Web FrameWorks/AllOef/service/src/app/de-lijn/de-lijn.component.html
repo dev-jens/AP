@@ -1,0 +1,14 @@
+<table>
+    <tr>
+      <th>lijnnummer</th>
+      <th>bestemming</th>
+      <th>tijd</th>
+    </tr>
+    <tr *ngFor="let i of bestemmingen">
+        <th>{{i.lijnnummer}}</th>
+        <th>{{i.bestemming}}</th>
+        <th>{{i.dienstregelingTijdstip | date:'HH:mm:ss'}}</th>
+    </tr>
+
+   
+  </table>
