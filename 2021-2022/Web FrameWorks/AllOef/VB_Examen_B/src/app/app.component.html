@@ -1,0 +1,13 @@
+<!-- De 'columns' zijn Bulma classes die ervoor zorgen dat het scherm in kolommen wordt opgedeeld  -->
+
+<h1 class="title is-4">Shopping list</h1>
+<div class="columns">
+    <div class="column"></div>
+    <div class="column">
+        <button #btn1 class="button is-light"  routerLink="/add" routerLinkActive="is-active">Ingeven</button>
+        <button #btn2 class="button is-light" routerLink="/summary" routerLinkActive="is-active">Overzicht</button>
+    </div>
+    <div class="column"></div>
+</div>
+<router-outlet></router-outlet>
+
