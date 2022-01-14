@@ -2,10 +2,12 @@
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.DDLS/DF=Interface view Association view\rCARRIERS\roverzicht personeel datz\roverzicht personeel data\roverzicht van personeel\rpersooneel overzicht\rtest vieuws\rtest views\rhelp\rTEST 03\rtest\roverview personnel\roverview personnel fiori annotations\rtest view\rfiori test\rfiori personnel view fiori app\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.DEVC/K=MyDevelopment\rTEST PACKAGE\rEXAMEN 2021-2022\rEXAMEN 2021-2022 Baeten Jens\rtest package\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.PROG/P=testprog\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.desription.TABL/DT=Personel_overview Table\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.CLAS/OC=ZCL_ZSD_040_PERSONNEL_OVERVIEW\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.DDLS/DF=ZSD_040_Association_view\rZSD_040_FlightPrice\rZSD_040_C_CARRIERS\rZSD_040_PERSONEEL_OVERZICHT\rZSD_040_TEST\rZSD_040_TEST03\rZSD_040_TEST04\rZSD_040_TEST22o\rZSD_040_TEST22\rZSD_040_PERSONNEL_OVERVIEW\rZSD_040_C_PERS_VIEW\rZSD_040_TEST_VIEW\rZSD_040_TEST_VIEW2\rZSD_040_C_TEST_VIEW\rZSD_040_C_PERSONNEL_OVERVIEW\rZSD_040_C_PERSON\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.DEVC/K=ZSD_040_DEVELOPMENT\rZSD_040_EXAMEN_ED\rZSD_040_TEST_PACKAGE\r
 //com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.PROG/P=ZSD_040_TEST\r
+//com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.com.sap.adt.object.name.TABL/DT=PERSONEL_TABLE\r
 com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.PackageSoftwareComponent=HOME\r
 com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.PackageSuperPackage=ZSD_040_DEVELOPMENT\r
 com.sap.adt.util.ui.contentassist.FieldHistoryProposalProvider.PackageTransportLayer=ZR36\r

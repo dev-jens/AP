@@ -1,0 +1,26 @@
+@AbapCatalog.sqlViewName: 'ZSD040PERS_VIEW'
+@AbapCatalog.compiler.compareFilter: true
+@AbapCatalog.preserveKey: true
+@AccessControl.authorizationCheck: #CHECK
+@EndUserText.label: 'overview personnel'
+
+
+define view ZSD_040_PERSONNEL_OVERVIEW as select from pa0001 as pa1  
+left outer join pa0002 as pa2
+    on pa1.pernr = pa2.pernr
+left outer join hrp1000 as hrp
+    on hrp.mandt = pa1.mandt  
+    { 
+  
+     key pa1.pernr as Personel_Number,
+     pa2.nchmc as Lastname,
+     pa2.vnamc as Firstname,
+     cast(pa2.gbdat as abap.dats(8)) as birthday,
+     pa1.werks as Personnel_Area,
+     pa1.bukrs as Company_Code,
+     pa1.btrtl as Personnel_Subgroup,
+     hrp.stext as Organization_Unit_Name
+
+}
+where   pa1.endda > pa1.begda //laat al de current users zien die nog in het bedrijf zitten 
+

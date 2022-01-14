@@ -1,5 +1,0 @@
-verschil tussen HTTP en EXPRESS
-
-waarom --inspect voor nodemon
-
-Query verduidelijken

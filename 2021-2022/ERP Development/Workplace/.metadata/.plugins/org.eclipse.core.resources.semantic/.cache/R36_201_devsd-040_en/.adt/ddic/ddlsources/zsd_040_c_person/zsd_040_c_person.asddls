@@ -18,7 +18,6 @@ description: {
   }
 }
 
-
 define view ZSD_040_C_PERSON as select from ZSD_040_PERSONNEL_OVERVIEW {
  
 
@@ -41,16 +40,17 @@ define view ZSD_040_C_PERSON as select from ZSD_040_PERSONNEL_OVERVIEW {
     @UI.lineItem: [{position: 40, label: 'birthday'}]
     @UI.selectionField.position : 10
     @UI.dataPoint.title : 'birthday'
-  
-    birthday,
+ 
+    cast(Birthday as abap.dats(8)) as Birthday,
     
     @UI.lineItem: [{position: 50, label: 'Company Code'}]
     @UI.selectionField.position : 20
-    @UI.dataPoint.title : 'company_Code'
+    @UI.dataPoint.title : 'company Code'
     
     Company_Code,
     
-    Fullname
+    
+    concat_with_space(Lastname, Firstname, 1) as Fullname
     
     
     
