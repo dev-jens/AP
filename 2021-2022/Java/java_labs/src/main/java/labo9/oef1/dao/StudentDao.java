@@ -9,7 +9,11 @@ import java.util.List;
 
 public class StudentDao {
 
-    public void saveStudent(Student student) {
+    // add a student to the list , deze geeft ook een student terug zodat je die kan gebruiken in u main
+    public Student Create(String firstname ,String lastname , String email) {
+        // create student
+        Student student = new Student(firstname, lastname, email);
+
         Transaction transaction = null;
         try (Session session = HibernateUtil.getSessionFactory().openSession()) {
 
@@ -23,9 +27,27 @@ public class StudentDao {
             }
             e.printStackTrace();
         }
-
+        return student;
     }
 
+    // add object from main to DB
+    public void AddStudent(Student student){
+        Transaction transaction = null;
+        try(Session session = HibernateUtil.getSessionFactory().openSession()){
+
+            transaction = session.beginTransaction();
+            session.save(student);
+            transaction.commit();
+
+        } catch(Exception e){
+            if(transaction != null){
+                transaction.rollback();
+            }
+            e.printStackTrace();
+        }
+    }
+
+    // get student list to see al the students
     public List<Student> getStudents(){
         try(Session session = HibernateUtil.getSessionFactory().openSession()) {
             return session.createQuery("SELECT s FROM Student s", Student.class).list();
@@ -36,18 +58,59 @@ public class StudentDao {
         return null;
     }
 
-    public void deleteStudent(Student student){
+    // update a student id (als de student bestaat zal deze overschreven worden )
+    public void update(Student student, Integer id) {
+        student.setId(id);
 
-        try(Session session = HibernateUtil.getSessionFactory().openSession()) {
-//            student = session.get(Student.class,student.getId());
-            session.delete(student);
-            System.out.println("\n " + student.getEmail() + " is verwijdert??");
+        Transaction transaction = null;
+        try(Session session = HibernateUtil.getSessionFactory().openSession()){
+            transaction = session.beginTransaction();
 
+            session.update(student);
 
-        }catch (Exception e){
+            transaction.commit();
+        } catch(Exception e){
+            if(transaction != null){
+                transaction.rollback();
+            }
             e.printStackTrace();
         }
     }
 
+    // delete a student form the list on ID
+    public void Delete(int id) {
+        Student student = new Student();
+        student.setId(id);
+
+        Transaction transaction = null;
+        try (Session session = HibernateUtil.getSessionFactory().openSession()){
+            transaction = session.beginTransaction();
+            session.delete(student);
+            transaction.commit();
+        } catch (Exception e) {
+
+            if(transaction != null)
+                transaction.rollback();
+            e.printStackTrace();
+        }
+    }
+
+    // delete student on object
+    public void Delete(Student student) {
+        Transaction transaction = null;
+        try (Session session = HibernateUtil.getSessionFactory().openSession()){
+
+            transaction = session.beginTransaction();
+            session.delete(student);
+            transaction.commit();
+        } catch (Exception e) {
+
+            if(transaction != null)
+                transaction.rollback();
+            e.printStackTrace();
+        }
+    }
+
+    //
 
 }

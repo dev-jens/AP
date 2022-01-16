@@ -9,25 +9,24 @@ public class StudentController {
     public static void main(String[] args) {
 
         StudentDao studentDao = new StudentDao();
-        Student student = new Student("Jens", "Baeten","Baetenjens07@gmail.com");
-        Student student2 = new Student("Amber", "Gillard","Amber.gillard7@gmail.com");
-        Student student3 = new Student("Jef", "Van der Avoirt"," jef.v.d.a@live.be");
+        Student student = studentDao.Create("jens","baeten","example@ap.be");
 
 
-        studentDao.saveStudent(student);
-        studentDao.saveStudent(student2);
-        studentDao.saveStudent(student3);
-        List<Student> students = studentDao.getStudents();
-        listPrinter(students);
+        System.out.println("lijst1");
+        listPrinter(studentDao);
+        studentDao.Delete(2);
+        studentDao.update(student, 5);
+        System.out.println("lijst2");
+        listPrinter(studentDao);
 
-        students = studentDao.getStudents();
-        studentDao.deleteStudent(student3);
-        listPrinter(students);
+
+
+
 
     }
 
-    static void listPrinter(List<Student> students){
-//        List<Student> students = studentDao.getStudents();
+    static void listPrinter(StudentDao dao){
+        List<Student> students = dao.getStudents();
 
         students.forEach(p -> System.out.println(
                 "ID: "        +  p.getId()          + "\n" +
