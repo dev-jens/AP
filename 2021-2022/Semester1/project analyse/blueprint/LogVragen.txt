@@ -1,0 +1,54 @@
+16/11 
+Wat is de naam van de bank (opdrachtgever)
+Verschil tussen product owner/ proxy product owner
+Verduidelijking over problemen in het huidige werkproces
+Wat moet de klant nog beschrijven bij de kredietaanvraag?
+
+28/11
+/
+
+Vragen project analysis:
+Rekening houden met veranderingen powerpoint? =>  Departement Sustainability verwijderd,...
+Wat doet de Kantoormedewerker juist bij het "ingeven van de kredietaanvraag"
+Laat BPMN zien
+
+30/11
+hoe ziet het design er uit van commerciele directie ????
+
+4/12
+werken wij nog samen met hun in 2de smester
+
+13/12
+niet in scope => functie beschrijven of waarom niet in scope?
+
+21/12
+Bronvermelding?
+Functioneel design goed of schermen verdelen in andere paginas?
+Lege titelpaginas
+
+// jens
+als goegekeurt krijgt klant nog steeds feeback of gewoon aflossing tabel + contract  ?
+	-- wat is nut van feeback aan ieamnd te geven als de cijfer goed zijn ??
+
+Aanmaak te tekenen Doorlopende Opdracht voor terugbetaling kapitaal + rente ?? 
+
+Indicatieve/voorlopige beoordeling ten behoeve van de klant (woordje uitleg) -->> hoe dit te doen
+commerciele dienst in DFD ?
+
+
+
+// Thomas
+- Hoe komt de app aan de jaarrekening van de klant? Zoekt de app 
+deze op of de medewerker?
+
+	- app zoekt via een api van NNB/KBO de gegegevens van een de klant.
+
+- Moet de klant de ondernemersnummer geven bij de aanvraag of is 
+deze opgeslagen in het account van de klant en kan zo de app aan de nr geraken?
+
+	-- ik denk best dat we dat in da account steken zodat je makkelijk een aanvraag aan een klant kunt koppelen
+
+
+- Wat doet het systeem exact met de extra info die moet worden geupload etc.?
+
+	- extra info kan de kredietbeoordelaar bekijken bij een twijfel geval denk ik da dit de doorslag kan geven

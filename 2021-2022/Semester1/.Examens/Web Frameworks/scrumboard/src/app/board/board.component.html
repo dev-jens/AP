@@ -1,0 +1,51 @@
+<div class="container p-5">
+  <div *ngIf="board.length <= 0" class="notification is-info mt-5">
+    Your storyboard is empty.
+  </div>
+  <div class="columns is-8">
+    <div class="column has-text-centered">
+      <h1 class="title">Todo</h1>
+      <div class="card m-4"*ngFor="let b of board">
+        <div class="card-content">
+          <div class="content">
+            <span class="tag is-danger">1</span>
+            {{b.title}}
+          </div>
+        </div>
+        <footer class="card-footer">
+          <a class="card-footer-item"><i class="fas fa-trash-alt"></i></a>
+          <a class="card-footer-item"><i class="fas fa-chevron-right"></i></a>
+        </footer>
+      </div>
+    </div>
+    <div class="column has-text-centered">
+      <h1 class="title">In progress</h1>
+      <div class="card m-4" *ngFor="let p of inprogress">
+        <div class="card-content">
+          <div class="content">
+            <span class="tag is-success">1</span>
+            {{p.title}}
+          </div>
+        </div>
+        <footer class="card-footer">
+          <a class="card-footer-item"><i class="fas fa-trash-alt"></i></a>
+          <a class="card-footer-item"><i class="fas fa-chevron-right"></i></a>
+        </footer>
+      </div>
+    </div>
+    <div class="column has-text-centered">
+      <h1 class="title">Done</h1>
+      <div class="card m-4">
+        <div class="card-content">
+          <div class="content">
+            <span class="tag is-danger">1</span>
+            Hier komt de titel
+          </div>
+        </div>
+        <footer class="card-footer">
+          <a class="card-footer-item"><i class="fas fa-trash-alt"></i></a>
+        </footer>
+      </div>
+    </div>
+  </div>
+</div>

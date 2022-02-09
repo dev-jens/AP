@@ -1,0 +1,4 @@
+# Projectdefinitie
+Het digitale kredietaanvraagproces zal gerealiseerd worden als een webapplicatie. Dit houdt in dat een ondernemer (die klant is bij de bank) via de website een krediet kan aanvragen.
+De applicatie zal Agile ontwikkelt worden, zo kunnen we na elke week bekijken wat we kunnen veranderen aan onze werkwijze en aan de applicatie zelf om de beste oplossing mogelijk te vinden voor de klant. 
+Aan de start van het project zullen we streven naar een one-feature MVP waar de app de mogelijkheid bezit om een kredietaanvraag te doen. De berekeningen en functies die de app uiteindelijk zal moeten uitvoeren zullen nog tijdelijk gedaan worden door de medewerker. Stap voor stap zullen deze functies dan toegevoegd worden en zal het systeem de taken van de medewerker overnemen.
