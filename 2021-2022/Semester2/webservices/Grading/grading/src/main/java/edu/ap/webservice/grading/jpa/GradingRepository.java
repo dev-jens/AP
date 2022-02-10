@@ -1,9 +1,9 @@
 package edu.ap.webservice.grading.jpa;
 
-import org.springframework.stereotype.Repository;
+import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class GradingRepository extends CrudRepository<Grade, Long>{
+public interface GradingRepository extends CrudRepository<Grade, Long>{
     
 }
