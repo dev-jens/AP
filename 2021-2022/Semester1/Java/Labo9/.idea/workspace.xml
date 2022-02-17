@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0686b90-586a-4b8e-9906-543ec97b7a14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/Controller/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/dao/MovieDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/dao/MovieException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/entity/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/util/InputUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oef3/util/OutputUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.core.resources.semantic/$.R36_201_devsd-040_en.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.core.resources.semantic/$.R36_201_devsd-040_en.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.core.resources.semantic/.cache/R36_201_devsd-040_en/.destination.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.core.resources.semantic/.cache/R36_201_devsd-040_en/.destination.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.core.resources/.root/23.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../ERP Development/Workplace/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oef1/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oef1/dao/StudentDao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="21aUjYSw9pQoRNIlXdabbrwNuyG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StudentController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oef1.StudentController" />
+      <module name="Labo9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oef1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0686b90-586a-4b8e-9906-543ec97b7a14" name="Changes" comment="" />
+      <created>1638178829330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638178829330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
