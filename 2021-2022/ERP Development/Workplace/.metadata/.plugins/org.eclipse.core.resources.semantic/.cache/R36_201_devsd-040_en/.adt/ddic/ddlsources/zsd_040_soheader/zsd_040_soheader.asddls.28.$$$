@@ -1,8 +1,0 @@
-@AbapCatalog.sqlViewName: ''
-@AbapCatalog.compiler.compareFilter: true
-@AbapCatalog.preserveKey: true
-@AccessControl.authorizationCheck: #CHECK
-@EndUserText.label: 'SOHeader data definition'
-define view ZSD_040_SOHEADER as select from data_source_name {
-    
-}

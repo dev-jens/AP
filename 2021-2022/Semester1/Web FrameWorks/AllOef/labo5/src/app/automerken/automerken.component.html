@@ -1,0 +1,10 @@
+<ul>
+    <li *ngFor="let m of manufacturers">
+      {{m.Name}}
+      <ul>
+        <li *ngFor="let model of m.Models;">
+          {{model}}
+        </li>
+      </ul>
+    </li>
+  </ul>

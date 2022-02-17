@@ -1,0 +1,2 @@
+# Beschrijving van eventuele impact op de huidige infrastructuur
+De bank heeft nog geen bestaande infrastructuur, we hoeven nergens rekening mee te houden en kunnen een systeem van de grond opbouwen met de technologiën die wij verkiezen. Hierdoor zal het wel moeilijker zijn voor de medewerkers om direct met deze technologie overweg te kunnen. We zullen documentatie schrijven om de medewerkers te helpen. (Zie 'Documentatie')

@@ -1,0 +1,39 @@
+{
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "Fruitsap",
+      "Brand": "Minute Maid",
+      "Size": "1 l",
+      "Price": 2.5
+    },
+    {
+      "Id": 22,
+      "Name": "Yoghurt",
+      "Brand": "Danone",
+      "Size": "6 x 25 ml",
+      "Price": 4
+    },
+    {
+      "Id": 28,
+      "Name": "Confituur",
+      "Brand": "Bonne Maman",
+      "Size": "250 g",
+      "Price": 6.25
+    }
+  ],
+  "ShoppingList": [
+    {
+      "Name": "Fruitsap",
+      "Amount": 5,
+      "Price": 2.5,
+      "id": 1
+    },
+    {
+      "Name": "Yoghurt",
+      "Amount": 6,
+      "Price": 4,
+      "id": 2
+    }
+  ]
+}

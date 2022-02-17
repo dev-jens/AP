@@ -1,0 +1,7 @@
+<table>
+    <tr *ngFor="let p of people; let i = index">
+        <td>{{p.FirstName |  titlecase}}</td>
+        <td>{{p.LastName |  titlecase}}</td>
+        <td>{{p.Birth |date:'MMMM d, y'}}</td>  
+    </tr>
+  </table>

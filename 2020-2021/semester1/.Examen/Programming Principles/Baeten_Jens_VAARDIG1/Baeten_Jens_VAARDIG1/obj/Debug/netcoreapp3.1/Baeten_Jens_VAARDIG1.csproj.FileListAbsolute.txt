@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\bin\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.exe
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\bin\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.deps.json
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\bin\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\bin\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\bin\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.dll
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\bin\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.pdb
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\obj\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\obj\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\obj\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\obj\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\obj\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.dll
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\obj\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.pdb
+C:\Users\Eigenaar\Desktop\Baeten_Jens_VAARDIG1\Baeten_Jens_VAARDIG1\obj\Debug\netcoreapp3.1\Baeten_Jens_VAARDIG1.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+# Opdrachtgever
+De product owners en de opdrachtgevers in dit project zijn Valentijn Brasseur en Tine van Hauwermeiren. Zij zijn de CTO en CIO van de Doekoe bank. Dit project werd aangevraagd door hun omdat het huidige process veel te arbeidsintensief is. Op dit moment doet de kantoormedewerker alles manueel. Daarom vroegen ze ons om een web applicatie te ontwikkelen die hun krediet aanvragen kan automatiseren. De proxy owners zullen alle requirements die de product owners hebben communiceren naar Boyens Thomas en Baeten Jens, zij zijn de twee full stack developers die aan dit project zullen werken.
+

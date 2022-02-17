@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.sap.adt.sapgui.ui.launchConfigurationType">
+    <stringAttribute key="OBJECT_NAME" value="ZSD_040_SPFLI"/>
+    <stringAttribute key="OBJECT_TYPE" value="DDLS/DF"/>
+    <stringAttribute key="OBJECT_URI" value="/sap/bc/adt/ddic/ddl/sources/zsd_040_spfli/source/main"/>
+    <stringAttribute key="PROJECT_NAME" value="R36_201_devsd-040_en"/>
+    <stringAttribute key="WB_ACTION" value="EXECUTE"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/R36_201_devsd-040_en"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+</launchConfiguration>

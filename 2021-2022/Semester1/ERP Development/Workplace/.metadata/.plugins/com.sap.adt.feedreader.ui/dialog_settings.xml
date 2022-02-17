@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FeedsView">
+		<section name="columnWidths">
+			<item key="NAME" value="100"/>
+			<item key="DATE" value="80"/>
+			<item key="TIME" value="80"/>
+			<item key="AUTHOR" value="80"/>
+			<item key="TOTAL" value="50"/>
+			<item key="UNREAD" value="50"/>
+		</section>
+		<section name="columnPositions">
+			<item key="NAME" value="0"/>
+			<item key="DATE" value="1"/>
+			<item key="TIME" value="2"/>
+			<item key="AUTHOR" value="3"/>
+			<item key="TOTAL" value="4"/>
+			<item key="UNREAD" value="5"/>
+		</section>
+	</section>
+</section>

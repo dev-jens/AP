@@ -1,0 +1,11 @@
+
+<br> <br>
+<input type="text" disabled pInputText placeholder="0,00" value="{{display}}">
+<table>
+    <tr *ngFor="let row of numbers">
+      <td *ngFor="let number of row">
+        <button  (click)="Input(number)">{{number}}
+        </button>
+      </td>
+    </tr>
+  </table>

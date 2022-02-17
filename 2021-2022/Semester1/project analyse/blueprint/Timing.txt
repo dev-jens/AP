@@ -1,0 +1,28 @@
+28/11   
+- Situatie As-Is x
+- Probleemstelling x
+- Situatie To-Be x
+
+5/12 
+- Inleiding x
+- Opdrachtgever x
+- Nieuw proces x
+
+12/12
+- Functioneel design x
+- projectdefinitie x
+- beschrijving eventuele impact op huidige infrastructuur x
+- Beschrijving mogelijke interfaces x
+ 
+19/12
+- Analyse van security en eventuele autorisatierollen x
+- Datamigratie + Documentatie, bronvermelding x
+- projectdefinitie => scenarios x
+- Technisch design => Angular x , klassediagram?
+
+24/12
+- planning 
+- Samenvatting 
+
+26/12
+- finaledocument klaar

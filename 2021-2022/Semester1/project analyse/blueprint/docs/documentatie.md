@@ -1,0 +1,3 @@
+# Documentatie
+We zullen documentatie schrijven in de vorm van een handleiding met behulp van GitBook omadat het eenvoudig te beheren, delen en publiceren is. Dit zal ook een handleiding bevatten voor het beheren van autorisatierollen. Ook zullen we een release plan delen met de klanten zodat ze een idee hebben wat en wanneer ze iets kunnen verwachten. Dit zal ook steeds met hun worden besproken worden aangezien we agile zullen werken.
+Met Javadoc zullen we technische documentatie schrijven. Zo zal de klant wanneer het nodig is een idee hebben van de logica achter de code en de nodige aanpassingen kunnen maken in de code. 

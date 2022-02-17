@@ -1,0 +1,20 @@
+*&---------------------------------------------------------------------*
+*& Report zsd_040_test
+*&---------------------------------------------------------------------*
+*&
+*&---------------------------------------------------------------------*
+REPORT zsd_040_test.
+
+DATA:
+      lv_get1 TYPE i VALUE 4,
+      lv_get2 TYPE i VALUE 2,
+      lv_result TYPE i.
+
+CALL FUNCTION 'ZSD_040_SOM'
+  EXPORTING
+   IP_GET     = lv_get1
+   IP_GET2    = lv_get2
+  IMPORTING
+   EX_RESULT  = lv_result.
+
+BREAK-POINT.

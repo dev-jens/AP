@@ -1,8 +1,0 @@
-Client 	: 201
-User : DEVSD-040
-Password : ***********
-
-thomas
-Client 	: 201
-User : DEVSD-041			
-Password : ***********

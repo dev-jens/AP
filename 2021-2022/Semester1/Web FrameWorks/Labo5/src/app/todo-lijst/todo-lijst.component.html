@@ -1,0 +1,12 @@
+
+<p>//TODO:</p>
+<div>
+    <div *ngIf="IsEmpty()">de lijst is leeg</div>
+    <ol>
+        <li *ngFor="let task of list; let i = index">
+            {{task}} <button (click)="removeTask(i)">X</button></li>
+    </ol>
+<input #inp1 (input) = "btn.disabled =inp1.value =='' ? true : false "  type="text" >
+
+<button #btn (click)="addTask(inp1.value)" [disabled] = "inp1.value == '' ">X</button>
+</div>

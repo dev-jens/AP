@@ -1,0 +1,2 @@
+## Hoofdlijnen 
+We willen zo snel mogelijk een werkende app hebben met alle basis functies om het proces te kunnen uitvoeren. Hier zullen we ons in de eerste sprints mee bezig houden. Na we een werkende app hebben zullen we deze standaardfuncties verder uitwerken en verfijnen indien nodig en de nice to haves toevoegen rekening houdende met de resterende tijd die we over hebben. 

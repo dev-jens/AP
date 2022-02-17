@@ -1,0 +1,40 @@
+<div class="container p-5">
+    <div class="field">
+        <label class="label">Title</label>
+        <div class="control">
+            <input [(ngModel)]="Title" class="input" type="text" placeholder="Story title">
+        </div>
+    </div>
+    <div class="field">
+        <label class="label">Estimation</label>
+        <div class="select">
+            <select #select [(ngModel)]="estimation">
+                <option ></option>
+                <option *ngFor="let p of points" value="{{p.value}}">{{p.value}}</option>
+            </select>
+        </div>
+    </div>
+
+    <strong>Priority:</strong>
+    <div class="control">
+        <label class="radio">
+            <input #inp1 type="radio" name="answer" (change)="setPrio(inp1.value)" value="false">
+            Low
+        </label>
+        <label class="radio">
+            <input #inp2 type="radio" (change)="setPrio(inp2.value)" name="answer" value="true">
+            High
+        </label>
+    </div>
+    {{prio}}
+
+    <br>
+    <button [disabled]="Title == '' " (click)="add()" class="button is-primary">Create</button>
+
+    <div *ngIf="show" class="notification is-primary mt-5">
+        {{Title}} (Estemated {{estimation}}) has been added to the board with id = {{teller}}
+    </div>
+    <div *ngIf="points.length <= 0" class="notification is-danger mt-5">
+        An error has occured. The story could not be created.
+    </div>
+</div>
