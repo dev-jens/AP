@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html xmlns:th='http://www.thymeleaf.org'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+
+<title>Grade List</title>
+</head>
+
+<body>
+<div class='card card-body bg-light'>
+<h1>Grade List</h1>
+<br/><br/>
+<table  class='table'>
+	<tr>
+		<th>First name</th>
+		<th>Last name</th>
+		<th>Grade</th>
+	</tr>
+	<tr th:each='grade: ${grades}'>
+		<td th:text='${grade.firstName}' />
+		<td th:text='${grade.lastName}' />
+		<td th:text='${grade.grade}' />
+	</tr>
+</table>
+</div>
+&nbsp;&nbsp;<a href='/grade'>Grade a student</a>
+
+</body>
+</html>
+
