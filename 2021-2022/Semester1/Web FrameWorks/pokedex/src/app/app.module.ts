@@ -1,33 +1,20 @@
-import { Component, NgModule } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './navbar/navbar.component';
-import { TextComponent } from './text/text.component';
-import { PhotoComponent } from './photo/photo.component';
 import { HomeComponent } from './home/home.component';
-import { RouterModule } from '@angular/router';
+import { NavbarComponent } from './navbar/navbar.component';
+import { PokemonListComponent } from './pokemon-list/pokemon-list.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    HomeComponent,
     NavbarComponent,
-    TextComponent,
-    PhotoComponent,
-    HomeComponent
+    PokemonListComponent
   ],
   imports: [
-    BrowserModule,
-    RouterModule.forRoot([
-      {
-        path : "home",
-        component : HomeComponent
-      }
-    ])
-    
-
-
-
+    BrowserModule
   ],
   providers: [],
   bootstrap: [AppComponent]

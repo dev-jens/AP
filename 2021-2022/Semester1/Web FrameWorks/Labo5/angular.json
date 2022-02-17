@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "lab5": {
+    "labo5": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/lab5",
+            "outputPath": "dist/labo5",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -68,10 +68,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "lab5:build:production"
+              "browserTarget": "labo5:build:production"
             },
             "development": {
-              "browserTarget": "lab5:build:development"
+              "browserTarget": "labo5:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -79,7 +79,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "lab5:build"
+            "browserTarget": "labo5:build"
           }
         },
         "test": {
@@ -94,8 +94,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "node_modules/bulma/CSS/bulma.css"
+              "src/styles.css"
             ],
             "scripts": []
           }
@@ -103,5 +102,5 @@
       }
     }
   },
-  "defaultProject": "lab5"
+  "defaultProject": "labo5"
 }
