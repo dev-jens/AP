@@ -1,0 +1,3 @@
+METHOD CHAINING = methodes acherelkaar aanropen
+exporting = meerdere params terug geven
+returning = 1 param terug geven

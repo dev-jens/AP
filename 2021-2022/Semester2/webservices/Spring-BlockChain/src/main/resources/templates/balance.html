@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html xmlns:th='http://www.thymeleaf.org'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+
+<title>Wallet Balance</title>
+</head>
+
+<body>
+<div class='card card-body bg-light'>
+    <h1><p th:text="'The balance for ' + ${wallet} + ' is : ' + ${balance}" /></h1>
+</div>
+&nbsp;&nbsp;<a href='/transaction'>New transaction</a>
+&nbsp;&nbsp;<a href='/alltransactions'>All transactions</a>
+&nbsp;&nbsp;<a href='/valid'>Test validity</a>
+
+</body>
+</html>
