@@ -1,4 +1,4 @@
-# AP
+<!-- # AP
 Links naar De inhoud van deze Opleidings Onderdelen
 
  # Vakken 2019-2020 Semester 1  
@@ -26,7 +26,7 @@ Links naar De inhoud van deze Opleidings Onderdelen
 - [Object oriented programming](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138331&b=5&c=1)
 - [Requirement analysis](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138330&b=5&c=1)
 - [Data structures](https://bamaflexweb.ap.be/BMFUIDetailxOLOD.aspx?a=138329&b=5&c=1)
-
+ -->
  
 
 
