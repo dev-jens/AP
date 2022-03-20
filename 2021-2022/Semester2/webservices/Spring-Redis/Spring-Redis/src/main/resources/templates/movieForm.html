@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xlmns:th='http://www.thymeleaf.org'>
+
+<head>
+    <title>Add Movies</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+</head>
+
+<body>
+    <form th:action='@{/addMovie}' method='POST'>
+        <div class="form-group">
+            <h1>Add a movie</h1>
+            <label for="movieTitle">Title</label>
+            <input type="text" class="form-control" id="movieTitle" placeholder="Movie title">
+        </div>
+        <div class="form-group">
+            <label for="releaseYear">Release year</label>
+            <input type="text" class="form-control" id="releaseYear" placeholder="Release year">
+        </div>
+        <div class="form-group">
+            <label for="actor">Actor</label>
+            <input type="text" class="form-control" id="actor" placeholder="actor">
+        </div>
+        <button type="submit" class="btn btn-primary">Add</button>
+    </form>
+
+    <p><a href="/movies">Movie list</a></p>
+</body>
+
+
+
+</html>

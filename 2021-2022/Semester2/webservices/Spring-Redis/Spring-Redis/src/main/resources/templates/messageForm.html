@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xlmns:th='http://www.thymeleaf.org'>
+
+<head>
+  <title>Message</title>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+</head>
+
+<body>
+  <form th:action='@{/message}' method='POST'>
+    <div class='card card-body bg-light'>
+      <h1>Send a message</h1>
+      <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Your message" id="message" name="message">
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary" type="submit">Send</button>
+        </div>
+      </div>
+    </div>
+  </form>
+
+  <p><a href="/messages">Check messages</a></p>
+</body>
+
+</html>

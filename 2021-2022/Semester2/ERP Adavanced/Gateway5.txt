@@ -1,0 +1,13 @@
+gateway 5 = reden omdata te omsluiten naar buiten wereld.
+
+Waarom gateway 5 gemaakt?
+	- oud systeem == vies
+	- binnen SAP systeem
+	- geen browser 
+
+Rest api
+	data ophalen door middel van end points
+	vb van endpoint = https://rickandmortyapi.com/api/character/1
+
+Odata = maakt entiteiten aan waar je crud op kunt eind voeren
+	

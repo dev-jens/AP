@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html xmlns:th='http://www.thymeleaf.org'>
+<head>
+<title>Movie List</title>
+<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' />
+</head>
+
+<body>
+<div class='card card-body bg-light'>
+<h1><p th:text="'Total movies : ' + ${moviescount}"></p></h1>
+
+<ul th:each='movie : ${movies}'>
+	<li th:text='${movie}'></li>
+</ul>
+</div>
+</body>
+</html>
