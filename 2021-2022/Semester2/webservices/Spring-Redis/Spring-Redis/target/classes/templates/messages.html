@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html xmlns:th='http://www.thymeleaf.org'>
+<head>
+<title>Message List</title>
+<meta http-equiv='refresh' content='5' />
+<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' />
+</head>
+
+<body>
+<div class='card card-body bg-light'>
+<h1>Messages</h1>
+<ul th:each='message: ${messages}'>
+	<li th:text='${message}'></li>
+</ul>
+</div>
+</body>
+</html>
