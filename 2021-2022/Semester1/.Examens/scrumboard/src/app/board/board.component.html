@@ -1,0 +1,55 @@
+<div class="container p-5">
+  <div class="notification is-info mt-5" *ngIf="!board">
+    Your storyboard is empty.
+  </div>
+  <div class="columns is-8" *ngIf="!board">
+    <div class="column has-text-centered">
+      <h1 class="title" >Todo</h1>
+      <div class="card m-4" *ngFor="let todoitem of todo">
+        <div class="card-content" >
+          <div class="content">
+            <span class="tag is-danger" *ngIf="todoitem.priority">{{todoitem.estimation}}</span>
+            <span class="tag is-success" *ngIf="todoitem.priority">{{todoitem.estimation}}</span>
+           {{todoitem.title|uppercase}}
+          </div>
+        </div>
+        <footer class="card-footer">
+          <a class="card-footer-item"><i class="fas fa-trash-alt" (click)="Verwijderen(todoitem)"></i></a>
+          <a class="card-footer-item"><i class="fas fa-chevron-right" (click)="ChangeTodo(todoitem)"></i></a>
+        </footer>
+      </div>
+    </div>
+    <div class="column has-text-centered">
+      <h1 class="title">In progress</h1>
+      <div class="card m-4" *ngFor="let progresitem of inProgress">
+        <div class="card-content">
+          <div class="content">
+            <span class="tag is-danger" *ngIf="progresitem.priority">{{progresitem.estimation}}</span>
+            <span class="tag is-success" *ngIf="progresitem.priority">{{progresitem.estimation}}</span>
+            {{progresitem.title|uppercase}}
+          </div>
+        </div>
+        <footer class="card-footer">
+          <a class="card-footer-item"><i class="fas fa-trash-alt" (click)="Verwijderen(progresitem)"></i></a>
+          <a class="card-footer-item"><i class="fas fa-chevron-right" (click)="Changeprogress(progresitem)"></i></a>
+        </footer>
+      </div>
+    </div>
+    <div class="column has-text-centered">
+      <h1 class="title">Done</h1>
+      <div class="card m-4" *ngFor="let doneitem of Done">
+        <div class="card-content" *ngFor="let doneitem of Done">
+          <div class="content">
+            <span class="tag is-danger" *ngIf="doneitem.priority">{{doneitem.estimation}}</span>
+            <span class="tag is-success" *ngIf="doneitem.priority">{{doneitem.estimation}}</span>
+            
+            {{doneitem.title|uppercase}}
+          </div>
+        </div>
+        <footer class="card-footer">
+          <a class="card-footer-item"><i class="fas fa-trash-alt" (click)="Verwijderen(doneitem)"></i></a>
+        </footer>
+      </div>
+    </div>
+  </div>
+</div>

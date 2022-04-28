@@ -1,0 +1,9 @@
+What is the Business Suite Icon Font and how do I use it?
+The “Business Suite Icon Font” or BusinessSuiteInAppSymbols contains application-specific icons mainly for use in S4 HANA, S4 DSC and S4 ICD apps. 
+
+IMPORTANT: To use the font in your APP, it must be registered as a custom font in sap.ui.core.IconPool. 
+Read the section “How to extend with custom icons” in the SAP UI5 document https://wiki.wdf.sap.corp/wiki/display/SAPUI5//Icon for more details.
+
+To add the Suite icons to your Axure RP mockup
+1. First unpack “IconHTMLTemplate_InAppSymbols_....zip” and install the .ttf file in the folder “fonts”
+2. Then load the widget library BusinessSuiteIcons_...rplib file into Axure’s Libraries panel. 

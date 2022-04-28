@@ -1,0 +1,37 @@
+<div class="container p-5">
+    <div class="field">
+        <label class="label" class="{{class}}" >Title</label>
+        <div class="control">
+            <input #in1 class="input" type="text" placeholder="Story title"  (keydown)="invoer(in1.value)">
+        </div>
+    </div>
+    <div class="field">
+        <label class="label">Estimation</label>
+        <div class="select">
+            <select>
+                <!-- <option *ngFor="let number of Estimation" (click)="value(number)">{{number}}</option>  -->
+            </select>
+        </div>
+    </div>
+
+    <strong>Priority:</strong>
+    <div class="control">
+        <label class="radio">
+            <input type="radio" name="answer" value="false" selected="priority=false">
+            Low
+        </label>
+        <label class="radio">
+            <input type="radio" name="answer" value="true" selected="priority=true">
+            High
+        </label>
+    </div>
+    <br>
+    <button class="button is-primary" [disabled]="!title" (click)="notification()">Create</button>
+
+    <div class="notification is-primary mt-5">
+        {{title}}([{{Estimation+ "SP"}}]) has been added to the board with id=[]
+    </div>
+    <div class="notification is-danger mt-5" hidden >
+        An error has occured. The story could not be created.
+    </div>
+</div>

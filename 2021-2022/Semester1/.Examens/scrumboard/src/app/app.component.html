@@ -1,0 +1,14 @@
+<nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start" [routerLinkActive]="['active']">
+      <a class="navbar-item" [routerLink]="['/create']" >
+        Create
+      </a>
+
+      <a class="navbar-item" [routerLink]="['/overview']">
+        Board
+      </a>
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>
