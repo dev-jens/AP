@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "etl pipeline seashippers", "etl pipeline seashippers\etl pipeline seashippers.dtproj", "{57B83E28-9AAC-4EA2-AFDF-1BEE84875161}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_Shippers", "ETL_Shippers\ETL_Shippers.dtproj", "{F992B9C5-D912-4C9A-82F6-AD5847CF2CE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{57B83E28-9AAC-4EA2-AFDF-1BEE84875161}.Development|Default.ActiveCfg = Development
-		{57B83E28-9AAC-4EA2-AFDF-1BEE84875161}.Development|Default.Build.0 = Development
+		{F992B9C5-D912-4C9A-82F6-AD5847CF2CE3}.Development|Default.ActiveCfg = Development
+		{F992B9C5-D912-4C9A-82F6-AD5847CF2CE3}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {889BE3D5-F6A7-4AC0-B674-AD8B98299446}
+		SolutionGuid = {FC5BFFEE-1385-498E-A093-E79D56F33433}
 	EndGlobalSection
 EndGlobal

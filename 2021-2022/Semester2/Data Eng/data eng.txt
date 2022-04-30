@@ -1,0 +1,9 @@
+
+
+strored procedures voor foreign key cleansed table. 
+
+opt einde van u ssis sql script die foreign key maakt voor de data warehouse.
+
+dwh inladen in powerbi en eventuele links leggen die nog niet zijn gelegd.
+
+daarna volgd de visualisatie.
