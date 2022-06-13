@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <title>form</title>
+</head>
+<body>
+    <br><br><br><br><br><br>
+    <div class="container">
+
+    <form th:action="@{/students/create}" method="post">
+        <div class="mb-3">
+          <label for="fnameLabel" class="form-label">Firstname</label>
+          <input type="text" class="form-control" name="firstname" id="firstname" >
+        </div>
+        <div class="mb-3">
+          <label for="lnameLabel" class="form-label">Lastname</label>
+          <input type="text" class="form-control" name="lastname" id="lastname">
+        </div>
+        <div class="mb-3">
+            <label for="gradelabel" class="form-label">Date Of Birth</label>
+            <input type="date" class="form-control" name="dateOfBirth" id="dateOfBirth">
+          </div>
+        <div class="mb-3">
+            <label for="gradelabel" class="form-label">Study Program</label>
+            <input type="text" class="form-control" name="studyProgram" id="studyProgram">
+          </div>
+
+        <button type="submit" class="btn btn-primary">Submit </button>
+      </form>
+      <br><br>
+      <a href="/students/list">Grade Student</a>
+    </div>
+</body>
+
+</html>

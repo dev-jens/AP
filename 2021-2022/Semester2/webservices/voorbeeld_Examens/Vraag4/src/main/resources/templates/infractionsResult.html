@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta http-equiv="Content-Type" content='text/html; charset=UTF-8'>
+<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+<title>List of infractions</title>
+</head>
+
+<body>
+<div class='card card-body bg-light'>
+<h1>Results</h1>
+<br/><br/>
+<table class='table'>
+    <tr>
+        <th>Street</th>
+        <th>Speed limit</th>
+        <th>Infractions</th>
+    </tr>
+    <tr th:each='infraction: ${infractions}'>
+        <td th:text='${infraction.street}' />
+        <td th:text='${infraction.speed_limit}' />
+        <td th:text='${infraction.infractions_speed}' />
+    </tr>
+</table>
+</div>
+</body>
+</html>

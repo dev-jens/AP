@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ConsoleClient\\ConsoleClient.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ConsoleClient\\ConsoleClient.csproj",
       "projectName": "ConsoleClient",
-      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ConsoleClient\\ConsoleClient.csproj",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ConsoleClient\\ConsoleClient.csproj",
       "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ConsoleClient\\obj\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ConsoleClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
@@ -88,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }

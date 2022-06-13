@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Eigenaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\jensOplossing\\ExamenDatastructures\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Eigenaar\\Desktop\\AP\\2020-2021\\semester2\\Data Structures\\Jens_oplossing Ex1\\ExamenDatastructures\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }

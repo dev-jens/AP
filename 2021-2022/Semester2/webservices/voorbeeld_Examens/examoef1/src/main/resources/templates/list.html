@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <title>GradeList</title>
+</head>
+
+<body>
+    <div class="container">
+        <br><br><br><br><br>
+    <h1>Grade List</h1>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Firstname</th>
+            <th scope="col">Lastname</th>
+            <th scope="col">date of birth</th>
+            <th scope="col">study program</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr th:each="student: ${students}">
+                <td th:text="${student.id}"></td>
+                <td th:text="${student.firstname}"></td>
+                <td th:text="${student.lastname}"></td>
+                <td th:text="${student.dateOfBirth}"></td>
+                <td th:text="${student.studyProgram}"></td>       
+          </tr>
+        </tbody>
+      </table>
+        <br>
+      <a href="/students/form">create Student</a>
+    </div>
+</body>
+
+</html>

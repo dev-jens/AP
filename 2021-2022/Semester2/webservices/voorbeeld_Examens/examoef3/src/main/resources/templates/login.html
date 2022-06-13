@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html xmlns:th='http://www.thymeleaf.org'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+
+<title>Log in</title>
+</head>
+
+<body>
+  <h1>Log in</h1>
+  <br/><br/>
+<div class='card card-body bg-light'>
+<form th:action='@{/login}' method='POST'>
+  E-mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id='email' type='text' name='email'><br>
+  Password: <input id='password' type='password' name='password'><br>
+  <input type="submit" value="Log in">
+</form>
+</div>
+
+</body>
+</html>

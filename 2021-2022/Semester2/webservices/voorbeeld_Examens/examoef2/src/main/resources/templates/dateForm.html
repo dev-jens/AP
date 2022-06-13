@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html xmlns:th='http://www.thymeleaf.org'>
+<head>
+    <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+
+    <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+    <script type='text/javascript' src='/js/app.js'></script>
+
+    <title>Check date</title>
+</head>
+
+<body>
+<div class="card card-body bg-light">
+    <h1>Check date</h1>
+    <br/>
+
+    <form th:action='@{/validatedate}' method='POST'>
+        <div class='form-group row'>
+            <div class='col-xs-4'>
+                <label for='dateCheck'>Date to check : </label>
+                <input type='date' class='form-control' name='dateCheck' id='dateCheck'>
+            </div>
+        </div>
+        <div class='form-group row'>
+            <div class='col-xs-4'>
+                <label for='dateStart'>Start date : </label>
+                <input type='date' class='form-control' name='dateStart' id='dateStart'>
+            </div>
+        </div>
+        <div class='form-group row'>
+            <div class='col-xs-4'>
+                <label for='dateEnd'>End date : </label>
+                <input type='date' class='form-control' name='dateEnd' id='dateEnd'>
+            </div>
+        </div>
+
+        <input type='SUBMIT' value='Validate'>
+    </form>
+</div>
+</body>
+</html>
